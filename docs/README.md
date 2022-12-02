@@ -21,7 +21,8 @@ This codebase is composed of the following parts:
  We are still in the process of fully releasing. Here is the release plan:
 
 - [x] Configuration file
-- [ ] Support `arxiv` filters
+- [ ] Subscribe & Update alerting
+- [ ] Support more `arxiv` filters
 - [ ] Archive old papers
 - [ ] Language translation
 - [ ] Usefull comments
