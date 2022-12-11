@@ -25,7 +25,7 @@ This codebase is composed of the following parts:
 - [ ] Subscribe & Update alerting
 - [ ] Support more `arxiv` filters
 - [ ] Archive old papers
-- [ ] Language translation
+- [ ] Language translation (ChatGPT)
 - [ ] Usefull comments
 - [ ] ...
 
