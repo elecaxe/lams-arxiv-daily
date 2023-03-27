@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.03.23
+## Updated on 2023.03.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -413,7 +413,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099v1](http://arxiv.org/abs/2110.01099v1)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876v1](http://arxiv.org/abs/2110.00876v1)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#Updated-on-20230323>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230327>back to top</a>)</p>
 
 ## SFM
 
@@ -503,7 +503,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876v1](http://arxiv.org/abs/2108.12876v1)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895v1](http://arxiv.org/abs/2108.09895v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230323>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230327>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -847,7 +847,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527v1](http://arxiv.org/abs/2109.04527v1)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041v1](http://arxiv.org/abs/2109.04041v1)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#Updated-on-20230323>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230327>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -979,7 +979,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958v1](http://arxiv.org/abs/2108.13958v1)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151v1](http://arxiv.org/abs/2108.12151v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230323>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230327>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1100,16 +1100,23 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072v1](http://arxiv.org/abs/2108.12072v1)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911v1](http://arxiv.org/abs/2108.11911v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230323>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230327>back to top</a>)</p>
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-23**|**TriPlaneNet: An Encoder for EG3D Inversion**|Ananta R. Bhattarai et.al.|[2303.13497](http://arxiv.org/abs/2303.13497)|null|
+|**2023-03-23**|**Plotting Behind the Scenes: Towards Learnable Game Engines**|Willi Menapace et.al.|[2303.13472](http://arxiv.org/abs/2303.13472)|null|
+|**2023-03-23**|**Set-the-Scene: Global-Local Training for Generating Controllable NeRF Scenes**|Dana Cohen-Bar et.al.|[2303.13450](http://arxiv.org/abs/2303.13450)|null|
+|**2023-03-23**|**SINE: Semantic-driven Image-based NeRF Editing with Prior-guided Editing Field**|Chong Bao et.al.|[2303.13277](http://arxiv.org/abs/2303.13277)|null|
+|**2023-03-23**|**Transforming Radiance Field with Lipschitz Network for Photorealistic 3D Scene Stylization**|Zicheng Zhang et.al.|[2303.13232](http://arxiv.org/abs/2303.13232)|null|
+|**2023-03-23**|**Semantic Ray: Learning a Generalizable Semantic Field with Cross-Reprojection Attention**|Fangfu Liu et.al.|[2303.13014](http://arxiv.org/abs/2303.13014)|null|
+|**2023-03-22**|**NeRF-GAN Distillation for Efficient 3D-Aware Generation with Convolutions**|Mohamad Shahbazi et.al.|[2303.12865](http://arxiv.org/abs/2303.12865)|null|
 |**2023-03-22**|**SHERF: Generalizable Human NeRF from a Single Image**|Shoukang Hu et.al.|[2303.12791](http://arxiv.org/abs/2303.12791)|**[link](https://github.com/skhu101/sherf)**|
 |**2023-03-22**|**Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions**|Ayaan Haque et.al.|[2303.12789](http://arxiv.org/abs/2303.12789)|null|
 |**2023-03-22**|**FeatureNeRF: Learning Generalizable NeRFs by Distilling Foundation Models**|Jianglong Ye et.al.|[2303.12786](http://arxiv.org/abs/2303.12786)|null|
-|**2023-03-22**|**Balanced Spherical Grid for Egocentric View Synthesis**|Changwoon Choi et.al.|[2303.12408](http://arxiv.org/abs/2303.12408)|**[link](https://github.com/changwoonchoi/EgoNeRF)**|
+|**2023-03-24**|**Balanced Spherical Grid for Egocentric View Synthesis**|Changwoon Choi et.al.|[2303.12408](http://arxiv.org/abs/2303.12408)|**[link](https://github.com/changwoonchoi/EgoNeRF)**|
 |**2023-03-21**|**Pre-NeRF 360: Enriching Unbounded Appearances for Neural Radiance Fields**|Ahmad AlMughrabi et.al.|[2303.12234](http://arxiv.org/abs/2303.12234)|null|
 |**2023-03-21**|**3D-CLFusion: Fast Text-to-3D Rendering with Contrastive Latent Diffusion**|Yu-Jhe Li et.al.|[2303.11938](http://arxiv.org/abs/2303.11938)|null|
 |**2023-03-22**|**ExtremeNeRF: Few-shot Neural Radiance Fields Under Unconstrained Illumination**|SeokYeong Lee et.al.|[2303.11728](http://arxiv.org/abs/2303.11728)|null|
@@ -1342,7 +1349,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455v1](http://arxiv.org/abs/2207.14455v1)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298v1](http://arxiv.org/abs/2207.13298v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230323>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230327>back to top</a>)</p>
 
 ## Registration
 
@@ -1358,7 +1365,7 @@
 |**2020-10-10**|**A Termination Criterion for Probabilistic PointClouds Registration**|Simone Fontana et.al.|[2010.04979](http://arxiv.org/abs/2010.04979)|null|
 |**2017-04-25**|**Adaptive Cost Function for Pointcloud Registration**|Johan Ekekrantz et.al.|[1704.07910](http://arxiv.org/abs/1704.07910)|null|
 
-<p align=right>(<a href=#Updated-on-20230323>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230327>back to top</a>)</p>
 
 ## Localization
 
@@ -1379,18 +1386,19 @@
 |**2023-03-02**|**I2P-Rec: Recognizing Images on Large-scale Point Cloud Maps through Bird's Eye View Projections**|Yixuan Li et.al.|[2303.01043](http://arxiv.org/abs/2303.01043)|null|
 |**2023-03-01**|**A Complementarity-Based Switch-Fuse System for Improved Visual Place Recognition**|Maria Waheed et.al.|[2303.00714](http://arxiv.org/abs/2303.00714)|null|
 |**2023-03-01**|**ORCHNet: A Robust Global Feature Aggregation approach for 3D LiDAR-based Place recognition in Orchards**|T. Barros et.al.|[2303.00477](http://arxiv.org/abs/2303.00477)|**[link](https://github.com/cybonic/orchnet)**|
-|**2023-03-03**|**Renderable Neural Radiance Map for Visual Navigation**|Obin Kwon et.al.|[2303.00304](http://arxiv.org/abs/2303.00304)|null|
+|**2023-03-23**|**Renderable Neural Radiance Map for Visual Navigation**|Obin Kwon et.al.|[2303.00304](http://arxiv.org/abs/2303.00304)|null|
 |**2023-03-01**|**Region Prediction for Efficient Robot Localization on Large Maps**|Matteo Scucchia et.al.|[2303.00295](http://arxiv.org/abs/2303.00295)|null|
 |**2023-03-15**|**BEVPlace: Learning LiDAR-based Place Recognition using Bird's Eye View Images**|Lun Luo et.al.|[2302.14325](http://arxiv.org/abs/2302.14325)|**[link](https://github.com/zjuluolun/bevplace)**|
 |**2023-02-28**|**Global Proxy-based Hard Mining for Visual Place Recognition**|Amar Ali-bey et.al.|[2302.14217](http://arxiv.org/abs/2302.14217)|**[link](https://github.com/amaralibey/gpm)**|
 |**2023-02-26**|**Data-Efficient Sequence-Based Visual Place Recognition with Highly Compressed JPEG Images**|Mihnea-Alexandru Tomita et.al.|[2302.13314](http://arxiv.org/abs/2302.13314)|null|
 
-<p align=right>(<a href=#Updated-on-20230323>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230327>back to top</a>)</p>
 
 ## Feature
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-23**|**Semantic Image Attack for Visual Model Diagnosis**|Jinqi Luo et.al.|[2303.13010](http://arxiv.org/abs/2303.13010)|null|
 |**2023-03-22**|**Object Pose Estimation with Statistical Guarantees: Conformal Keypoint Detection and Geometric Uncertainty Propagation**|Heng Yang et.al.|[2303.12246](http://arxiv.org/abs/2303.12246)|null|
 |**2023-03-21**|**RN-Net: Reservoir Nodes-Enabled Neuromorphic Vision Sensing Network**|Sangmin Yoo et.al.|[2303.10770](http://arxiv.org/abs/2303.10770)|null|
 |**2023-03-17**|**ShaRPy: Shape Reconstruction and Hand Pose Estimation from RGB-D with Uncertainty**|Vanessa Wirth et.al.|[2303.10042](http://arxiv.org/abs/2303.10042)|null|
@@ -1412,7 +1420,7 @@
 |**2022-12-31**|**Rethinking Rotation Invariance with Point Cloud Registration**|Jianhui Yu et.al.|[2301.00149](http://arxiv.org/abs/2301.00149)|null|
 |**2023-03-02**|**Fruit Ripeness Classification: a Survey**|Matteo Rizzo et.al.|[2212.14441](http://arxiv.org/abs/2212.14441)|null|
 
-<p align=right>(<a href=#Updated-on-20230323>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230327>back to top</a>)</p>
 
 ## Matching
 
@@ -1427,7 +1435,7 @@
 |**2023-02-28**|**Nonlinear Intensity, Scale and Rotation Invariant Matching for Multimodal Images**|Zhongli Fan et.al.|[2302.14239](http://arxiv.org/abs/2302.14239)|**[link](https://github.com/zhongli-fan/nisr)**|
 |**2023-02-25**|**BrainCLIP: Bridging Brain and Visual-Linguistic Representation via CLIP for Generic Natural Visual Stimulus Decoding from fMRI**|Yulong Liu et.al.|[2302.12971](http://arxiv.org/abs/2302.12971)|null|
 |**2023-02-24**|**Classification of structural building damage grades from multi-temporal photogrammetric point clouds using a machine learning model trained on virtual laser scanning data**|Vivien Zahs et.al.|[2302.12591](http://arxiv.org/abs/2302.12591)|null|
-|**2023-02-20**|**A Large Scale Homography Benchmark**|Daniel Barath et.al.|[2302.09997](http://arxiv.org/abs/2302.09997)|null|
+|**2023-02-20**|**A Large Scale Homography Benchmark**|Daniel Barath et.al.|[2302.09997](http://arxiv.org/abs/2302.09997)|**[link](https://github.com/danini/homography-benchmark)**|
 |**2023-02-12**|**OAMatcher: An Overlapping Areas-based Network for Accurate Local Feature Matching**|Kun Dai et.al.|[2302.05846](http://arxiv.org/abs/2302.05846)|**[link](https://github.com/dk-hu/oamatcher)**|
 |**2023-02-10**|**General, Single-shot, Target-less, and Automatic LiDAR-Camera Extrinsic Calibration Toolbox**|Kenji Koide et.al.|[2302.05094](http://arxiv.org/abs/2302.05094)|**[link](https://github.com/koide3/direct_visual_lidar_calibration)**|
 |**2023-02-03**|**Simple, Effective and General: A New Backbone for Cross-view Image Geo-localization**|Yingying Zhu et.al.|[2302.01572](http://arxiv.org/abs/2302.01572)|**[link](https://github.com/yanghongji2007/saig)**|
@@ -1439,7 +1447,7 @@
 |**2023-01-07**|**Deep Learning-Based UAV Aerial Triangulation without Image Control Points**|Jiageng Zhong et.al.|[2301.02869](http://arxiv.org/abs/2301.02869)|null|
 |**2023-01-06**|**The UNCOVER Survey: A first-look HST+JWST catalog of 50,000 galaxies near Abell 2744 and beyond**|John R. Weaver et.al.|[2301.02671](http://arxiv.org/abs/2301.02671)|null|
 
-<p align=right>(<a href=#Updated-on-20230323>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230327>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
