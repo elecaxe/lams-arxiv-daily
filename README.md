@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.03.27
+## Updated on 2023.03.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -15,10 +15,12 @@
     <li><a href=#Keypoint-Detection>Keypoint Detection</a></li>
     <li><a href=#Image-Matching>Image Matching</a></li>
     <li><a href=#NeRF>NeRF</a></li>
+    <li><a href=#BEV>BEV</a></li>
     <li><a href=#Registration>Registration</a></li>
     <li><a href=#Localization>Localization</a></li>
     <li><a href=#Feature>Feature</a></li>
     <li><a href=#Matching>Matching</a></li>
+    <li><a href=#Relocalization>Relocalization</a></li>
   </ol>
 </details>
 
@@ -29,7 +31,7 @@
 |**2023-03-21**|**Learning a Depth Covariance Function**|Eric Dexheimer et.al.|[2303.12157](http://arxiv.org/abs/2303.12157)|null|
 |**2023-03-21**|**Online Learning of Wheel Odometry Correction for Mobile Robots with Attention-based Neural Network**|Alessandro Navone et.al.|[2303.11725](http://arxiv.org/abs/2303.11725)|null|
 |**2023-03-20**|**VR-SLAM: A Visual-Range Simultaneous Localization and Mapping System using Monocular Camera and Ultra-wideband Sensors**|Thien Hoang Nguyen et.al.|[2303.10903](http://arxiv.org/abs/2303.10903)|null|
-|**2023-03-17**|**CoVIO: Online Continual Learning for Visual-Inertial Odometry**|Niclas Vödisch et.al.|[2303.10149](http://arxiv.org/abs/2303.10149)|null|
+|**2023-03-17**|**CoVIO: Online Continual Learning for Visual-Inertial Odometry**|Niclas Vödisch et.al.|[2303.10149](http://arxiv.org/abs/2303.10149)|**[link](https://github.com/robot-learning-freiburg/CL-SLAM)**|
 |**2023-03-15**|**UMS-VINS: United Monocular-Stereo Features for Visual-Inertial Tightly Coupled Odometry**|Chaoyang Jiang et.al.|[2303.08550](http://arxiv.org/abs/2303.08550)|null|
 |**2023-03-13**|**Discovering Multiple Algorithm Configurations**|Leonid Keselman et.al.|[2303.07434](http://arxiv.org/abs/2303.07434)|null|
 |**2023-03-09**|**Virtual Inverse Perspective Mapping for Simultaneous Pose and Motion Estimation**|Masahiro Hirano et.al.|[2303.05192](http://arxiv.org/abs/2303.05192)|null|
@@ -413,16 +415,21 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099v1](http://arxiv.org/abs/2110.01099v1)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876v1](http://arxiv.org/abs/2110.00876v1)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#Updated-on-20230327>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230331>back to top</a>)</p>
 
 ## SFM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-30**|**3D Line Mapping Revisited**|Shaohui Liu et.al.|[2303.17504](http://arxiv.org/abs/2303.17504)|**[link](https://github.com/cvg/limap)**|
+|**2023-03-27**|**TMO: Textured Mesh Acquisition of Objects with a Mobile Device by using Differentiable Rendering**|Jaehoon Choi et.al.|[2303.15060](http://arxiv.org/abs/2303.15060)|null|
+|**2023-03-26**|**On the Importance of Accurate Geometry Data for Dense 3D Vision Tasks**|HyunJun Jung et.al.|[2303.14840](http://arxiv.org/abs/2303.14840)|**[link](https://github.com/junggy/hammer-dataset)**|
+|**2023-03-24**|**Seeing Through the Glass: Neural 3D Reconstruction of Object Inside a Transparent Container**|Jinguang Tong et.al.|[2303.13805](http://arxiv.org/abs/2303.13805)|**[link](https://github.com/hirotong/reneus)**|
+|**2023-03-24**|**Progressively Optimized Local Radiance Fields for Robust View Synthesis**|Andreas Meuleman et.al.|[2303.13791](http://arxiv.org/abs/2303.13791)|null|
 |**2023-03-15**|**RefiNeRF: Modelling dynamic neural radiance fields with inconsistent or missing camera parameters**|Shuja Khalid et.al.|[2303.08695](http://arxiv.org/abs/2303.08695)|null|
 |**2023-03-09**|**Revisiting Rotation Averaging: Uncertainties and Robust Losses**|Ganlin Zhang et.al.|[2303.05195](http://arxiv.org/abs/2303.05195)|**[link](https://github.com/zhangganlin/globalsfmpy)**|
 |**2023-02-28**|**Nonlinear Intensity, Scale and Rotation Invariant Matching for Multimodal Images**|Zhongli Fan et.al.|[2302.14239](http://arxiv.org/abs/2302.14239)|**[link](https://github.com/zhongli-fan/nisr)**|
-|**2023-03-18**|**BLiRF-RF: Bandlimited Radiance Fields for Dynamic Scene Modeling**|Sameera Ramasinghe et.al.|[2302.13543](http://arxiv.org/abs/2302.13543)|null|
+|**2023-03-25**|**BLiRF: Bandlimited Radiance Fields for Dynamic Scene Modeling**|Sameera Ramasinghe et.al.|[2302.13543](http://arxiv.org/abs/2302.13543)|null|
 |**2023-02-21**|**EC-SfM: Efficient Covisibility-based Structure-from-Motion for Both Sequential and Unordered Images**|Zhichao Ye et.al.|[2302.10544](http://arxiv.org/abs/2302.10544)|**[link](https://github.com/openxrlab/xrsfm)**|
 |**2023-02-18**|**Bridge Damage Cause Estimation Using Multiple Images Based on Visual Question Answering**|Tatsuro Yamane et.al.|[2302.09208](http://arxiv.org/abs/2302.09208)|null|
 |**2023-02-12**|**Uncertainty-Driven Dense Two-View Structure from Motion**|Weirong Chen et.al.|[2302.00523](http://arxiv.org/abs/2302.00523)|null|
@@ -433,7 +440,7 @@
 |**2022-12-13**|**Accidental Turntables: Learning 3D Pose by Watching Objects Turn**|Zezhou Cheng et.al.|[2212.06300](http://arxiv.org/abs/2212.06300)|null|
 |**2022-12-04**|**3D Object Aided Self-Supervised Monocular Depth Estimation**|Songlin Wei et.al.|[2212.01768](http://arxiv.org/abs/2212.01768)|null|
 |**2023-03-15**|**High-Res Facial Appearance Capture from Polarized Smartphone Images**|Dejan Azinović et.al.|[2212.01160](http://arxiv.org/abs/2212.01160)|null|
-|**2022-11-28**|**FeatureBooster: Boosting Feature Descriptors with a Lightweight Neural Network**|Xinjiang Wang et.al.|[2211.15069](http://arxiv.org/abs/2211.15069)|null|
+|**2023-03-28**|**FeatureBooster: Boosting Feature Descriptors with a Lightweight Neural Network**|Xinjiang Wang et.al.|[2211.15069](http://arxiv.org/abs/2211.15069)|**[link](https://github.com/sjtu-visys/featurebooster)**|
 |**2022-11-24**|**JigsawPlan: Room Layout Jigsaw Puzzle Extreme Structure from Motion using Diffusion Models**|Sepidehsadat Hosseini et.al.|[2211.13785](http://arxiv.org/abs/2211.13785)|null|
 |**2022-11-24**|**SfM-TTR: Using Structure from Motion for Test-Time Refinement of Single-View Depth Networks**|Sergio Izquierdo et.al.|[2211.13551](http://arxiv.org/abs/2211.13551)|null|
 |**2022-11-22**|**Level-S $^2$ fM: Structure from Motion on Neural Level Set of Implicit Surfaces**|Yuxi Xiao et.al.|[2211.12018](http://arxiv.org/abs/2211.12018)|null|
@@ -503,7 +510,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876v1](http://arxiv.org/abs/2108.12876v1)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895v1](http://arxiv.org/abs/2108.09895v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230327>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230331>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -847,7 +854,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527v1](http://arxiv.org/abs/2109.04527v1)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041v1](http://arxiv.org/abs/2109.04041v1)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#Updated-on-20230327>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230331>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -979,7 +986,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958v1](http://arxiv.org/abs/2108.13958v1)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151v1](http://arxiv.org/abs/2108.12151v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230327>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230331>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1100,12 +1107,32 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072v1](http://arxiv.org/abs/2108.12072v1)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911v1](http://arxiv.org/abs/2108.11911v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230327>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230331>back to top</a>)</p>
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-30**|**NeRF-Supervised Deep Stereo**|Fabio Tosi et.al.|[2303.17603](http://arxiv.org/abs/2303.17603)|**[link](https://github.com/fabiotosi92/nerf-supervised-deep-stereo)**|
+|**2023-03-30**|**SynBody: Synthetic Dataset with Layered Human Models for 3D Human Perception and Modeling**|Zhitao Yang et.al.|[2303.17368](http://arxiv.org/abs/2303.17368)|null|
+|**2023-03-30**|**NeILF++: Inter-Reflectable Light Fields for Geometry and Material Estimation**|Jingyang Zhang et.al.|[2303.17147](http://arxiv.org/abs/2303.17147)|null|
+|**2023-03-30**|**Enhanced Stable View Synthesis**|Nishant Jain et.al.|[2303.17094](http://arxiv.org/abs/2303.17094)|null|
+|**2023-03-29**|**TriVol: Point Cloud Rendering via Triple Volumes**|Tao Hu et.al.|[2303.16485](http://arxiv.org/abs/2303.16485)|**[link](https://github.com/dvlab-research/trivol)**|
+|**2023-03-29**|**Point2Pix: Photo-Realistic Point Cloud Rendering via Neural Radiance Fields**|Tao Hu et.al.|[2303.16482](http://arxiv.org/abs/2303.16482)|null|
+|**2023-03-28**|**Flow supervision for Deformable NeRF**|Chaoyang Wang et.al.|[2303.16333](http://arxiv.org/abs/2303.16333)|null|
+|**2023-03-28**|**SparseNeRF: Distilling Depth Ranking for Few-shot Novel View Synthesis**|Guangcong Wang et.al.|[2303.16196](http://arxiv.org/abs/2303.16196)|null|
+|**2023-03-28**|**VMesh: Hybrid Volume-Mesh Representation for Efficient View Synthesis**|Yuan-Chen Guo et.al.|[2303.16184](http://arxiv.org/abs/2303.16184)|null|
+|**2023-03-30**|**Adaptive Voronoi NeRFs**|Tim Elsner et.al.|[2303.16001](http://arxiv.org/abs/2303.16001)|null|
+|**2023-03-28**|**F $^{2}$ -NeRF: Fast Neural Radiance Field Training with Free Camera Trajectories**|Peng Wang et.al.|[2303.15951](http://arxiv.org/abs/2303.15951)|null|
+|**2023-03-27**|**JAWS: Just A Wild Shot for Cinematic Transfer in Neural Radiance Fields**|Xi Wang et.al.|[2303.15427](http://arxiv.org/abs/2303.15427)|null|
+|**2023-03-27**|**Generalizable Neural Voxels for Fast Human Radiance Fields**|Taoran Yi et.al.|[2303.15387](http://arxiv.org/abs/2303.15387)|null|
+|**2023-03-27**|**NeUDF: Learning Unsigned Distance Fields from Multi-view Images for Reconstructing Non-watertight Models**|Fei Hou et.al.|[2303.15368](http://arxiv.org/abs/2303.15368)|null|
+|**2023-03-27**|**3D-Aware Multi-Class Image-to-Image Translation with NeRFs**|Senmao Li et.al.|[2303.15012](http://arxiv.org/abs/2303.15012)|**[link](https://github.com/sen-mao/3di2i-translation)**|
+|**2023-03-26**|**Clean-NeRF: Reformulating NeRF to account for View-Dependent Observations**|Xinhang Liu et.al.|[2303.14707](http://arxiv.org/abs/2303.14707)|null|
+|**2023-03-25**|**SUDS: Scalable Urban Dynamic Scenes**|Haithem Turki et.al.|[2303.14536](http://arxiv.org/abs/2303.14536)|null|
+|**2023-03-25**|**DBARF: Deep Bundle-Adjusting Generalizable Neural Radiance Fields**|Yu Chen et.al.|[2303.14478](http://arxiv.org/abs/2303.14478)|null|
+|**2023-03-25**|**NeRF-DS: Neural Radiance Fields for Dynamic Specular Objects**|Zhiwen Yan et.al.|[2303.14435](http://arxiv.org/abs/2303.14435)|**[link](https://github.com/jokeryan/nerf-ds)**|
+|**2023-03-24**|**Grid-guided Neural Radiance Fields for Large Urban Scenes**|Linning Xu et.al.|[2303.14001](http://arxiv.org/abs/2303.14001)|null|
 |**2023-03-23**|**TriPlaneNet: An Encoder for EG3D Inversion**|Ananta R. Bhattarai et.al.|[2303.13497](http://arxiv.org/abs/2303.13497)|null|
 |**2023-03-23**|**Plotting Behind the Scenes: Towards Learnable Game Engines**|Willi Menapace et.al.|[2303.13472](http://arxiv.org/abs/2303.13472)|null|
 |**2023-03-23**|**Set-the-Scene: Global-Local Training for Generating Controllable NeRF Scenes**|Dana Cohen-Bar et.al.|[2303.13450](http://arxiv.org/abs/2303.13450)|null|
@@ -1349,7 +1376,34 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455v1](http://arxiv.org/abs/2207.14455v1)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298v1](http://arxiv.org/abs/2207.13298v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230327>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230331>back to top</a>)</p>
+
+## BEV
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2023-03-29**|**DORT: Modeling Dynamic Objects in Recurrent for Multi-Camera 3D Object Detection and Tracking**|Qing Lian et.al.|[2303.16628](http://arxiv.org/abs/2303.16628)|**[link](https://github.com/smartbot-pjlab/dort)**|
+|**2023-03-24**|**AssetField: Assets Mining and Reconfiguration in Ground Feature Plane Representation**|Yuanbo Xiangli et.al.|[2303.13953](http://arxiv.org/abs/2303.13953)|null|
+|**2023-03-21**|**LiDARFormer: A Unified Transformer-based Multi-task Network for LiDAR Perception**|Zixiang Zhou et.al.|[2303.12194](http://arxiv.org/abs/2303.12194)|null|
+|**2023-03-17**|**A Simple Attempt for 3D Occupancy Estimation in Autonomous Driving**|Wanshui Gan et.al.|[2303.10076](http://arxiv.org/abs/2303.10076)|null|
+|**2023-03-15**|**BEVHeight: A Robust Framework for Vision-based Roadside 3D Object Detection**|Lei Yang et.al.|[2303.08498](http://arxiv.org/abs/2303.08498)|**[link](https://github.com/adlab-autodrive/bevheight)**|
+|**2023-03-15**|**DiffBEV: Conditional Diffusion Model for Bird's Eye View Perception**|Jiayu Zou et.al.|[2303.08333](http://arxiv.org/abs/2303.08333)|**[link](https://github.com/jiayuzou2020/diffbev)**|
+|**2023-03-13**|**OverlapNetVLAD: A Coarse-to-Fine Framework for LiDAR-based Place Recognition**|Chencan Fu et.al.|[2303.06881](http://arxiv.org/abs/2303.06881)|**[link](https://github.com/fcchit/overlapnetvlad)**|
+|**2023-03-12**|**BCSSN: Bi-direction Compact Spatial Separable Network for Collision Avoidance in Autonomous Driving**|Haichuan Li et.al.|[2303.06714](http://arxiv.org/abs/2303.06714)|null|
+|**2023-03-07**|**Operationalizing AI in Future Networks: A Bird's Eye View from the System Perspective**|Tianzhu Zhang et.al.|[2303.04073](http://arxiv.org/abs/2303.04073)|null|
+|**2023-03-07**|**F2BEV: Bird's Eye View Generation from Surround-View Fisheye Camera Images for Automated Driving**|Ekta U. Samani et.al.|[2303.03651](http://arxiv.org/abs/2303.03651)|null|
+|**2023-03-03**|**BSH-Det3D: Improving 3D Object Detection with BEV Shape Heatmap**|You Shen et.al.|[2303.02000](http://arxiv.org/abs/2303.02000)|**[link](https://github.com/mystorm16/bsh-det3d)**|
+|**2023-03-03**|**Towards Domain Generalization for Multi-view 3D Object Detection in Bird-Eye-View**|Shuo Wang et.al.|[2303.01686](http://arxiv.org/abs/2303.01686)|null|
+|**2023-03-02**|**I2P-Rec: Recognizing Images on Large-scale Point Cloud Maps through Bird's Eye View Projections**|Yixuan Li et.al.|[2303.01043](http://arxiv.org/abs/2303.01043)|null|
+|**2023-03-15**|**BEVPlace: Learning LiDAR-based Place Recognition using Bird's Eye View Images**|Lun Luo et.al.|[2302.14325](http://arxiv.org/abs/2302.14325)|**[link](https://github.com/zjuluolun/bevplace)**|
+|**2023-02-26**|**Pillar R-CNN for Point Cloud 3D Object Detection**|Guangsheng Shi et.al.|[2302.13301](http://arxiv.org/abs/2302.13301)|null|
+|**2023-02-25**|**DA-BEV: Depth Aware BEV Transformer for 3D Object Detection**|Hao Zhang et.al.|[2302.13002](http://arxiv.org/abs/2302.13002)|null|
+|**2023-02-19**|**FusionMotion: Multi-Sensor Asynchronous Fusion for Continuous Occupancy Prediction via Neural-ODE**|Yining Shi et.al.|[2302.09585](http://arxiv.org/abs/2302.09585)|**[link](https://github.com/synsin0/fusionmotion)**|
+|**2023-02-17**|**SBcoyote: An Extensible Python-Based Reaction Editor and Viewer**|Jin Xu et.al.|[2302.09151](http://arxiv.org/abs/2302.09151)|**[link](https://github.com/sys-bio/sbcoyote)**|
+|**2023-03-07**|**3M3D: Multi-view, Multi-path, Multi-representation for 3D Object Detection**|Jongwoo Park et.al.|[2302.08231](http://arxiv.org/abs/2302.08231)|null|
+|**2023-03-07**|**Surround-View Vision-based 3D Detection for Autonomous Driving: A Survey**|Apoorv Singh et.al.|[2302.06650](http://arxiv.org/abs/2302.06650)|null|
+
+<p align=right>(<a href=#Updated-on-20230331>back to top</a>)</p>
 
 ## Registration
 
@@ -1365,13 +1419,17 @@
 |**2020-10-10**|**A Termination Criterion for Probabilistic PointClouds Registration**|Simone Fontana et.al.|[2010.04979](http://arxiv.org/abs/2010.04979)|null|
 |**2017-04-25**|**Adaptive Cost Function for Pointcloud Registration**|Johan Ekekrantz et.al.|[1704.07910](http://arxiv.org/abs/1704.07910)|null|
 
-<p align=right>(<a href=#Updated-on-20230327>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230331>back to top</a>)</p>
 
 ## Localization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-03-21**|**Data-efficient Large Scale Place Recognition with Graded Similarity Supervision**|Maria Leyva-Vallina et.al.|[2303.11739](http://arxiv.org/abs/2303.11739)|**[link](https://github.com/marialeyvallina/generalized_contrastive_loss)**|
+|**2023-03-30**|**3D Line Mapping Revisited**|Shaohui Liu et.al.|[2303.17504](http://arxiv.org/abs/2303.17504)|**[link](https://github.com/cvg/limap)**|
+|**2023-03-24**|**A-MuSIC: An Adaptive Ensemble System For Visual Place Recognition In Changing Environments**|Bruno Arcanjo et.al.|[2303.14247](http://arxiv.org/abs/2303.14247)|null|
+|**2023-03-24**|**PanoVPR: Towards Unified Perspective-to-Equirectangular Visual Place Recognition via Sliding Windows across the Panoramic View**|Ze Shi et.al.|[2303.14095](http://arxiv.org/abs/2303.14095)|**[link](https://github.com/zafirshi/panovpr)**|
+|**2023-03-24**|**CCL: Continual Contrastive Learning for LiDAR Place Recognition**|Jiafeng Cui et.al.|[2303.13952](http://arxiv.org/abs/2303.13952)|**[link](https://github.com/cloudcjf/ccl)**|
+|**2023-03-25**|**Data-efficient Large Scale Place Recognition with Graded Similarity Supervision**|Maria Leyva-Vallina et.al.|[2303.11739](http://arxiv.org/abs/2303.11739)|**[link](https://github.com/marialeyvallina/generalized_contrastive_loss)**|
 |**2023-03-19**|**Deep Declarative Dynamic Time Warping for End-to-End Learning of Alignment Paths**|Ming Xu et.al.|[2303.10778](http://arxiv.org/abs/2303.10778)|**[link](https://github.com/mingu6/declarativedtw)**|
 |**2023-03-16**|**Metric-Free Exploration for Topological Mapping by Task and Motion Imitation in Feature Space**|Yuhang He et.al.|[2303.09192](http://arxiv.org/abs/2303.09192)|null|
 |**2023-03-14**|**PATS: Patch Area Transportation with Subdivision for Local Feature Matching**|Junjie Ni et.al.|[2303.07700](http://arxiv.org/abs/2303.07700)|null|
@@ -1392,12 +1450,14 @@
 |**2023-02-28**|**Global Proxy-based Hard Mining for Visual Place Recognition**|Amar Ali-bey et.al.|[2302.14217](http://arxiv.org/abs/2302.14217)|**[link](https://github.com/amaralibey/gpm)**|
 |**2023-02-26**|**Data-Efficient Sequence-Based Visual Place Recognition with Highly Compressed JPEG Images**|Mihnea-Alexandru Tomita et.al.|[2302.13314](http://arxiv.org/abs/2302.13314)|null|
 
-<p align=right>(<a href=#Updated-on-20230327>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230331>back to top</a>)</p>
 
 ## Feature
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-29**|**NerVE: Neural Volumetric Edges for Parametric Curve Extraction from Point Cloud**|Xiangyu Zhu et.al.|[2303.16465](http://arxiv.org/abs/2303.16465)|null|
+|**2023-03-24**|**PanoVPR: Towards Unified Perspective-to-Equirectangular Visual Place Recognition via Sliding Windows across the Panoramic View**|Ze Shi et.al.|[2303.14095](http://arxiv.org/abs/2303.14095)|**[link](https://github.com/zafirshi/panovpr)**|
 |**2023-03-23**|**Semantic Image Attack for Visual Model Diagnosis**|Jinqi Luo et.al.|[2303.13010](http://arxiv.org/abs/2303.13010)|null|
 |**2023-03-22**|**Object Pose Estimation with Statistical Guarantees: Conformal Keypoint Detection and Geometric Uncertainty Propagation**|Heng Yang et.al.|[2303.12246](http://arxiv.org/abs/2303.12246)|null|
 |**2023-03-21**|**RN-Net: Reservoir Nodes-Enabled Neuromorphic Vision Sensing Network**|Sangmin Yoo et.al.|[2303.10770](http://arxiv.org/abs/2303.10770)|null|
@@ -1420,12 +1480,18 @@
 |**2022-12-31**|**Rethinking Rotation Invariance with Point Cloud Registration**|Jianhui Yu et.al.|[2301.00149](http://arxiv.org/abs/2301.00149)|null|
 |**2023-03-02**|**Fruit Ripeness Classification: a Survey**|Matteo Rizzo et.al.|[2212.14441](http://arxiv.org/abs/2212.14441)|null|
 
-<p align=right>(<a href=#Updated-on-20230327>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230331>back to top</a>)</p>
 
 ## Matching
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-29**|**Structured Epipolar Matcher for Local Feature Matching**|Jiahao Chang et.al.|[2303.16646](http://arxiv.org/abs/2303.16646)|null|
+|**2023-03-29**|**Adaptive Spot-Guided Transformer for Consistent Local Feature Matching**|Jiahuan Yu et.al.|[2303.16624](http://arxiv.org/abs/2303.16624)|null|
+|**2023-03-28**|**ASIC: Aligning Sparse in-the-wild Image Collections**|Kamal Gupta et.al.|[2303.16201](http://arxiv.org/abs/2303.16201)|null|
+|**2023-03-25**|**Learning Rotation-Equivariant Features for Visual Correspondence**|Jongmin Lee et.al.|[2303.15472](http://arxiv.org/abs/2303.15472)|null|
+|**2023-03-27**|**Learnable Graph Matching: A Practical Paradigm for Data Association**|Jiawei He et.al.|[2303.15414](http://arxiv.org/abs/2303.15414)|**[link](https://github.com/jiaweihe1996/GMTracker)**|
+|**2023-03-24**|**Efficient and Accurate Co-Visible Region Localization with Matching Key-Points Crop (MKPC): A Two-Stage Pipeline for Enhancing Image Matching Performance**|Hongjian Song et.al.|[2303.13794](http://arxiv.org/abs/2303.13794)|null|
 |**2023-03-15**|**Rethinking Optical Flow from Geometric Matching Consistent Perspective**|Qiaole Dong et.al.|[2303.08384](http://arxiv.org/abs/2303.08384)|**[link](https://github.com/dqiaole/matchflow)**|
 |**2023-03-14**|**PATS: Patch Area Transportation with Subdivision for Local Feature Matching**|Junjie Ni et.al.|[2303.07700](http://arxiv.org/abs/2303.07700)|null|
 |**2023-03-07**|**Parsing Line Segments of Floor Plan Images Using Graph Neural Networks**|Mingxiang Chen et.al.|[2303.03851](http://arxiv.org/abs/2303.03851)|null|
@@ -1447,7 +1513,34 @@
 |**2023-01-07**|**Deep Learning-Based UAV Aerial Triangulation without Image Control Points**|Jiageng Zhong et.al.|[2301.02869](http://arxiv.org/abs/2301.02869)|null|
 |**2023-01-06**|**The UNCOVER Survey: A first-look HST+JWST catalog of 50,000 galaxies near Abell 2744 and beyond**|John R. Weaver et.al.|[2301.02671](http://arxiv.org/abs/2301.02671)|null|
 
-<p align=right>(<a href=#Updated-on-20230327>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230331>back to top</a>)</p>
+
+## Relocalization
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2023-03-24**|**A-MuSIC: An Adaptive Ensemble System For Visual Place Recognition In Changing Environments**|Bruno Arcanjo et.al.|[2303.14247](http://arxiv.org/abs/2303.14247)|null|
+|**2023-03-24**|**PanoVPR: Towards Unified Perspective-to-Equirectangular Visual Place Recognition via Sliding Windows across the Panoramic View**|Ze Shi et.al.|[2303.14095](http://arxiv.org/abs/2303.14095)|**[link](https://github.com/zafirshi/panovpr)**|
+|**2023-03-24**|**CCL: Continual Contrastive Learning for LiDAR Place Recognition**|Jiafeng Cui et.al.|[2303.13952](http://arxiv.org/abs/2303.13952)|**[link](https://github.com/cloudcjf/ccl)**|
+|**2023-03-25**|**Data-efficient Large Scale Place Recognition with Graded Similarity Supervision**|Maria Leyva-Vallina et.al.|[2303.11739](http://arxiv.org/abs/2303.11739)|**[link](https://github.com/marialeyvallina/generalized_contrastive_loss)**|
+|**2023-03-19**|**Deep Declarative Dynamic Time Warping for End-to-End Learning of Alignment Paths**|Ming Xu et.al.|[2303.10778](http://arxiv.org/abs/2303.10778)|**[link](https://github.com/mingu6/declarativedtw)**|
+|**2023-03-16**|**Metric-Free Exploration for Topological Mapping by Task and Motion Imitation in Feature Space**|Yuhang He et.al.|[2303.09192](http://arxiv.org/abs/2303.09192)|null|
+|**2023-03-13**|**OverlapNetVLAD: A Coarse-to-Fine Framework for LiDAR-based Place Recognition**|Chencan Fu et.al.|[2303.06881](http://arxiv.org/abs/2303.06881)|**[link](https://github.com/fcchit/overlapnetvlad)**|
+|**2023-03-11**|**Necessity Feature Correspondence Estimation for Large-scale Global Place Recognition and Relocalization**|Kyeongsu Kang et.al.|[2303.06308](http://arxiv.org/abs/2303.06308)|null|
+|**2023-03-09**|**Dominating Set Database Selection for Visual Place Recognition**|Anastasiia Kornilova et.al.|[2303.05123](http://arxiv.org/abs/2303.05123)|null|
+|**2023-03-06**|**Visual Place Recognition: A Tutorial**|Stefan Schubert et.al.|[2303.03281](http://arxiv.org/abs/2303.03281)|**[link](https://github.com/stschubert/vpr_tutorial)**|
+|**2023-03-09**|**Self-Supervised Learning for Place Representation Generalization across Appearance Changes**|Mohamed Adel Musallam et.al.|[2303.02370](http://arxiv.org/abs/2303.02370)|null|
+|**2023-03-03**|**MixVPR: Feature Mixing for Visual Place Recognition**|Amar Ali-bey et.al.|[2303.02190](http://arxiv.org/abs/2303.02190)|**[link](https://github.com/amaralibey/mixvpr)**|
+|**2023-03-02**|**BPT: Binary Point Cloud Transformer for Place Recognition**|Zhixing Hou et.al.|[2303.01166](http://arxiv.org/abs/2303.01166)|null|
+|**2023-03-02**|**I2P-Rec: Recognizing Images on Large-scale Point Cloud Maps through Bird's Eye View Projections**|Yixuan Li et.al.|[2303.01043](http://arxiv.org/abs/2303.01043)|null|
+|**2023-03-01**|**A Complementarity-Based Switch-Fuse System for Improved Visual Place Recognition**|Maria Waheed et.al.|[2303.00714](http://arxiv.org/abs/2303.00714)|null|
+|**2023-03-01**|**ORCHNet: A Robust Global Feature Aggregation approach for 3D LiDAR-based Place recognition in Orchards**|T. Barros et.al.|[2303.00477](http://arxiv.org/abs/2303.00477)|**[link](https://github.com/cybonic/orchnet)**|
+|**2023-03-01**|**Region Prediction for Efficient Robot Localization on Large Maps**|Matteo Scucchia et.al.|[2303.00295](http://arxiv.org/abs/2303.00295)|null|
+|**2023-03-15**|**BEVPlace: Learning LiDAR-based Place Recognition using Bird's Eye View Images**|Lun Luo et.al.|[2302.14325](http://arxiv.org/abs/2302.14325)|**[link](https://github.com/zjuluolun/bevplace)**|
+|**2023-02-28**|**Global Proxy-based Hard Mining for Visual Place Recognition**|Amar Ali-bey et.al.|[2302.14217](http://arxiv.org/abs/2302.14217)|**[link](https://github.com/amaralibey/gpm)**|
+|**2023-02-26**|**Data-Efficient Sequence-Based Visual Place Recognition with Highly Compressed JPEG Images**|Mihnea-Alexandru Tomita et.al.|[2302.13314](http://arxiv.org/abs/2302.13314)|null|
+
+<p align=right>(<a href=#Updated-on-20230331>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

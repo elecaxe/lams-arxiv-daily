@@ -25,7 +25,9 @@ keywords:
     "SLAM": 
         filters: ["SLAM", "Visual Odometry"]
     "BEV": 
-        filters: ["BEV SLAM", "BEV Localization", "BEV place recognition"]
+        filters: ["Bird Eye View", "BEV SLAM", "BEV Localization", "BEV place recognition"]
+    "Relocalization":
+        filters: ["Place Recognition", "Re-localization", "Relocalization"]
     "Registration": 
         filters: ["pointcloud registration", "visual registration"]
     "Localization":
