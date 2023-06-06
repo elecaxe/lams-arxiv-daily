@@ -41,5 +41,8 @@ keywords:
                   "Line Segment Detection", "Local Feature Matching"]
     "SFM":
         filters: ["SFM", "Structure from Motion"]
+    "IMU":
+        filters: ["IMU deep", "IMU learning", "inertial deep", "inertial learning", "deep IMU", "learning IMU", "deep inertial", "learning inertial"]
     "NeRF":
         filters: ["NeRF"]
+
