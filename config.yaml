@@ -43,6 +43,8 @@ keywords:
         filters: ["SFM", "Structure from Motion"]
     "IMU":
         filters: ["IMU deep", "IMU learning", "inertial deep", "inertial learning", "deep IMU", "learning IMU", "deep inertial", "learning inertial"]
+    "Transformer":
+        filters: ["IMU transformer", "inertial transformer", "odometry transformer", "transformer IMU", "transformer inertial", "transformer odometry"]
     "NeRF":
         filters: ["NeRF"]
 
