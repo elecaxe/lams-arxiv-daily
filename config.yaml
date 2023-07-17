@@ -47,8 +47,8 @@ keywords:
         filters: ["IMU transformer", "inertial transformer", "odometry transformer", "transformer IMU", "transformer inertial", "transformer odometry", "lidar transformer", "transformer lidar"]
     "NeRF":
         filters: ["NeRF"]
-    "Occupancy":
+    "Occupancy Map":
         filters: ["occupancy grid", "occupancy map"]
-    "Occupancy Planning":
-        filters: ["occupancy planning"]
+    "Occupancy Predict":
+        filters: ["occupancy predict"]
 
