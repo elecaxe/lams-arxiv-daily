@@ -164,6 +164,16 @@ def update_paper_links(filename):
     '''
     weekly update paper links in json file 
     '''
+    def parse_arxiv_string(s):
+        parts = s.split("|")
+        date = parts[1].strip()
+        title = parts[2].strip()
+        authors = parts[3].strip()
+        arxiv_id = parts[4].strip()
+        code = parts[5].strip()
+        arxiv_id = re.sub(r'v\d+', '', arxiv_id)
+        return date,title,authors,arxiv_id,code
+
     with open(filename,"r") as f:
         content = f.read()
         if not content:
@@ -178,6 +188,12 @@ def update_paper_links(filename):
             for paper_id,contents in v.items():
                 contents = str(contents)
 
+                update_time, paper_title, paper_first_author, paper_url, code_url = parse_arxiv_string(contents)
+
+                contents = "|{}|{}|{}|{}|{}|\n".format(update_time,paper_title,paper_first_author,paper_url,code_url)
+                json_data[keywords][paper_id] = str(contents)
+                logging.info(f'paper_id = {paper_id}, contents = {contents}')
+                
                 valid_link = False if '|null|' in contents else True
                 if valid_link:
                     continue
@@ -191,6 +207,7 @@ def update_paper_links(filename):
                             new_cont = contents.replace('|null|',f'|**[link]({repo_url})**|')
                             logging.info(f'ID = {paper_id}, contents = {new_cont}')
                             json_data[keywords][paper_id] = str(new_cont)
+
                 except Exception as e:
                     logging.error(f"exception: {e} with id: {paper_id}")
         # dump to json file
@@ -296,7 +313,7 @@ def json_to_md(filename,md_filename,
                 if not day_content:
                     continue
                 kw = keyword.replace(' ','-')      
-                f.write(f"    <li><a href=#{kw}>{keyword}</a></li>\n")
+                f.write(f"    <li><a href=#{kw.lower()}>{keyword}</a></li>\n")
             f.write("  </ol>\n")
             f.write("</details>\n\n")
         
@@ -327,7 +344,7 @@ def json_to_md(filename,md_filename,
             if use_b2t:
                 top_info = f"#Updated on {DateNow}"
                 top_info = top_info.replace(' ','-').replace('.','')
-                f.write(f"<p align=right>(<a href={top_info}>back to top</a>)</p>\n\n")
+                f.write(f"<p align=right>(<a href={top_info.lower()}>back to top</a>)</p>\n\n")
             
         if show_badge == True:
             # we don't like long string, break it!
