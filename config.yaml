@@ -5,7 +5,7 @@ repo_name: "cv-arxiv-daily"
 show_authors: True
 show_links: True
 show_badge: True
-max_results: 20
+max_results: 40
 
 publish_readme: True
 publish_gitpage: True
@@ -35,7 +35,7 @@ keywords:
                   "Camera Re-localization","Loop Closure Detection",
                   "place recognition","pointcloud localization"]
     "Feature":
-        filters: ["Keypoint Detection", "Feature Descriptor"]
+        filters: ["Keypoint Detection", "semantic feature descriptor", "Feature Descriptor"]
     "Matching":
         filters: ["Image Matching", "Keypoint Matching", "pointcloud Matching", 
                   "Line Segment Detection", "Local Feature Matching"]
