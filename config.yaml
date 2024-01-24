@@ -26,14 +26,15 @@ keywords:
         filters: ["SLAM", "Visual Odometry"]
     "BEV": 
         filters: ["Bird Eye View", "BEV SLAM", "BEV Localization", "BEV place recognition"]
-    "Relocalization":
-        filters: ["Place Recognition", "Re-localization", "Relocalization"]
+    "Gaussian Splatting":
+        filters: ["Gaussian Splatting", "3D GS"]
     "Registration": 
         filters: ["pointcloud registration", "visual registration"]
     "Localization":
         filters: ["Visual Localization","Camera Localization",
                   "Camera Re-localization","Loop Closure Detection",
-                  "place recognition","pointcloud localization"]
+                  "place recognition","pointcloud localization",
+                  "Place Recognition", "Re-localization", "Relocalization"]
     "Feature":
         filters: ["Keypoint Detection", "semantic feature descriptor", "Feature Descriptor"]
     "Matching":
