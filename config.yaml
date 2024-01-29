@@ -5,7 +5,7 @@ repo_name: "cv-arxiv-daily"
 show_authors: True
 show_links: True
 show_badge: True
-max_results: 40
+max_results: 80
 
 publish_readme: True
 publish_gitpage: True
@@ -27,7 +27,7 @@ keywords:
     "BEV": 
         filters: ["Bird Eye View", "BEV SLAM", "BEV Localization", "BEV place recognition"]
     "Gaussian Splatting":
-        filters: ["Gaussian Splatting", "3D GS"]
+        filters: ["Gaussian Splatting", "3D GS", "Gaussian SLAM"]
     "Registration": 
         filters: ["pointcloud registration", "visual registration"]
     "Localization":
