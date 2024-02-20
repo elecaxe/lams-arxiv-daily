@@ -12,13 +12,13 @@ publish_gitpage: True
 publish_wechat: False
 
 # file paths
-json_readme_path: './docs/cv-arxiv-daily.json'
-json_gitpage_path: './docs/cv-arxiv-daily-web.json'
-json_wechat_path: './docs/cv-arxiv-daily-wechat.json'
+json_readme_path: './docs/cv-arxiv-daily-2024.json'
+json_gitpage_path: './docs/cv-arxiv-daily-web-2024.json'
+json_wechat_path: './docs/cv-arxiv-daily-wechat-2024.json'
 
 md_readme_path: 'README.md'
-md_gitpage_path: './docs/index.md'
-md_wechat_path: './docs/wechat.md'
+md_gitpage_path: './docs/index-2024.md'
+md_wechat_path: './docs/wechat-2024.md'
 
 # keywords to search
 keywords:
@@ -48,8 +48,6 @@ keywords:
         filters: ["IMU transformer", "inertial transformer", "odometry transformer", "transformer IMU", "transformer inertial", "transformer odometry", "lidar transformer", "transformer lidar"]
     "NeRF":
         filters: ["NeRF"]
-    "Occupancy Map":
-        filters: ["occupancy grid", "occupancy map"]
-    "Occupancy Predict":
-        filters: ["occupancy predict"]
+    "Occupancy":
+        filters: ["occupancy 3D", "occupancy grid", "occupancy map", "occupancy predict"]
 
