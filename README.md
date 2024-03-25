@@ -124,6 +124,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-22**|**IS-Fusion: Instance-Scene Collaborative Fusion for Multimodal 3D Object Detection**|Junbo Yin et.al.|[2403.15241](http://arxiv.org/abs/2403.15241)|null|
 |**2024-03-19**|**GerontoVis: Data Visualization at the Confluence of Aging**|Zack While et.al.|[2403.13173](http://arxiv.org/abs/2403.13173)|null|
 |**2024-03-19**|**Lifting Multi-View Detection and Tracking to the Bird's Eye View**|Torben Teepe et.al.|[2403.12573](http://arxiv.org/abs/2403.12573)|**[link](https://github.com/tteepe/tracktacular)**|
 |**2024-03-18**|**HVDistill: Transferring Knowledge from Images to Point Clouds via Unsupervised Hybrid-View Distillation**|Sha Zhang et.al.|[2403.11817](http://arxiv.org/abs/2403.11817)|**[link](https://github.com/zhangsha1024/HVDistill)**|
@@ -225,6 +226,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-22**|**EndoGSLAM: Real-Time Dense Reconstruction and Tracking in Endoscopic Surgeries using Gaussian Splatting**|Kailing Wang et.al.|[2403.15124](http://arxiv.org/abs/2403.15124)|null|
+|**2024-03-22**|**STAG4D: Spatial-Temporal Anchored Generative 4D Gaussians**|Yifei Zeng et.al.|[2403.14939](http://arxiv.org/abs/2403.14939)|null|
 |**2024-03-21**|**MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images**|Yuedong Chen et.al.|[2403.14627](http://arxiv.org/abs/2403.14627)|**[link](https://github.com/donydchen/mvsplat)**|
 |**2024-03-21**|**Gaussian Frosting: Editable Complex Radiance Fields with Real-Time Rendering**|Antoine Guédon et.al.|[2403.14554](http://arxiv.org/abs/2403.14554)|null|
 |**2024-03-21**|**HAC: Hash-grid Assisted Context for 3D Gaussian Splatting Compression**|Yihang Chen et.al.|[2403.14530](http://arxiv.org/abs/2403.14530)|**[link](https://github.com/yihangchen-ee/hac)**|
@@ -390,6 +393,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-22**|**CRPlace: Camera-Radar Fusion with BEV Representation for Place Recognition**|Shaowei Fu et.al.|[2403.15183](http://arxiv.org/abs/2403.15183)|null|
 |**2024-03-21**|**VXP: Voxel-Cross-Pixel Large-scale Image-LiDAR Place Recognition**|Yun-Jin Li et.al.|[2403.14594](http://arxiv.org/abs/2403.14594)|null|
 |**2024-03-21**|**Evaluation and Deployment of LiDAR-based Place Recognition in Dense Forests**|Haedam Oh et.al.|[2403.14326](http://arxiv.org/abs/2403.14326)|null|
 |**2024-03-21**|**ReFeree: Radar-based efficient global descriptor using a Feature and Free space for Place Recognition**|Byunghee Choi et.al.|[2403.14176](http://arxiv.org/abs/2403.14176)|null|
@@ -840,6 +844,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-22**|**WSCLoc: Weakly-Supervised Sparse-View Camera Relocalization**|Jialu Wang et.al.|[2403.15272](http://arxiv.org/abs/2403.15272)|null|
+|**2024-03-21**|**Hyperspectral Neural Radiance Fields**|Gerry Chen et.al.|[2403.14839](http://arxiv.org/abs/2403.14839)|null|
 |**2024-03-21**|**ClusteringSDF: Self-Organized Neural Implicit Surfaces for 3D Decomposition**|Tianhao Wu et.al.|[2403.14619](http://arxiv.org/abs/2403.14619)|null|
 |**2024-03-21**|**CombiNeRF: A Combination of Regularization Techniques for Few-Shot Neural Radiance Field View Synthesis**|Matteo Bonotto et.al.|[2403.14412](http://arxiv.org/abs/2403.14412)|**[link](https://github.com/sarroccoluigi/combinerf)**|
 |**2024-03-21**|**InfNeRF: Towards Infinite Scale NeRF Rendering with O(log n) Space Complexity**|Jiabin Liang et.al.|[2403.14376](http://arxiv.org/abs/2403.14376)|null|
@@ -918,8 +924,6 @@
 |**2024-02-26**|**CMC: Few-shot Novel View Synthesis via Cross-view Multiplane Consistency**|Hanxin Zhu et.al.|[2402.16407](http://arxiv.org/abs/2402.16407)|null|
 |**2024-02-26**|**SPC-NeRF: Spatial Predictive Compression for Voxel Based Radiance Field**|Zetian Song et.al.|[2402.16366](http://arxiv.org/abs/2402.16366)|null|
 |**2024-02-26**|**DreamUp3D: Object-Centric Generative Models for Single-View 3D Scene Understanding and Real-to-Sim Transfer**|Yizhe Wu et.al.|[2402.16308](http://arxiv.org/abs/2402.16308)|null|
-|**2024-02-22**|**Consolidating Attention Features for Multi-view Image Editing**|Or Patashnik et.al.|[2402.14792](http://arxiv.org/abs/2402.14792)|null|
-|**2024-02-26**|**FrameNeRF: A Simple and Efficient Framework for Few-shot Novel View Synthesis**|Yan Xing et.al.|[2402.14586](http://arxiv.org/abs/2402.14586)|null|
 |**2024-02-19**|**Binary Opacity Grids: Capturing Fine Geometric Detail for Mesh-Based View Synthesis**|Christian Reiser et.al.|[2402.12377](http://arxiv.org/abs/2402.12377)|null|
 |**2024-02-19**|**Colorizing Monochromatic Radiance Fields**|Yean Cheng et.al.|[2402.12184](http://arxiv.org/abs/2402.12184)|null|
 |**2024-02-17**|**Semantically-aware Neural Radiance Fields for Visual Scene Understanding: A Comprehensive Review**|Thang-Anh-Quan Nguyen et.al.|[2402.11141](http://arxiv.org/abs/2402.11141)|null|
@@ -1019,7 +1023,7 @@
 |**2024-03-13**|**Real-time 3D semantic occupancy prediction for autonomous vehicles using memory-efficient sparse convolution**|Samuel Sze et.al.|[2403.08748](http://arxiv.org/abs/2403.08748)|null|
 |**2024-03-13**|**UniLiDAR: Bridge the domain gap among different LiDARs for continual learning**|Zikun Xu et.al.|[2403.08512](http://arxiv.org/abs/2403.08512)|null|
 |**2024-03-15**|**OccFiner: Offboard Occupancy Refinement with Hybrid Propagation**|Hao Shi et.al.|[2403.08504](http://arxiv.org/abs/2403.08504)|null|
-|**2024-03-13**|**Empowering Robotics with Large Language Models: osmAG Map Comprehension with LLMs**|Fujing Xie et.al.|[2403.08228](http://arxiv.org/abs/2403.08228)|**[link](https://github.com/xiefujing/llm-osmag-comprehension)**|
+|**2024-03-13**|**Empowering Robotics with Large Language Models: osmAG Map Comprehension with LLMs**|Fujing Xie et.al.|[2403.08228](http://arxiv.org/abs/2403.08228)|**[link](https://github.com/hiyouga/llama-factory)**|
 |**2024-03-13**|**Perceive With Confidence: Statistical Safety Assurances for Navigation with Learning-Based Perception**|Anushri Dixit et.al.|[2403.08185](http://arxiv.org/abs/2403.08185)|null|
 |**2024-03-08**|**OccFusion: Depth Estimation Free Multi-sensor Fusion for 3D Occupancy Prediction**|Ji Zhang et.al.|[2403.05329](http://arxiv.org/abs/2403.05329)|null|
 |**2024-03-07**|**Real-Time Planning Under Uncertainty for AUVs Using Virtual Maps**|Ivana Collado-Gonzalez et.al.|[2403.04936](http://arxiv.org/abs/2403.04936)|null|
