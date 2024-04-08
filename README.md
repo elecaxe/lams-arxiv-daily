@@ -234,6 +234,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-05**|**Robust Gaussian Splatting**|François Darmon et.al.|[2404.04211](http://arxiv.org/abs/2404.04211)|null|
 |**2024-04-04**|**Per-Gaussian Embedding-Based Deformation for Deformable 3D Gaussian Splatting**|Jeongmin Bae et.al.|[2404.03613](http://arxiv.org/abs/2404.03613)|null|
 |**2024-04-04**|**OmniGS: Omnidirectional Gaussian Splatting for Fast Radiance Field Reconstruction using Omnidirectional Images**|Longwei Li et.al.|[2404.03202](http://arxiv.org/abs/2404.03202)|null|
 |**2024-04-04**|**GaSpCT: Gaussian Splatting for Novel CT Projection View Synthesis**|Emmanouil Nikolakakis et.al.|[2404.03126](http://arxiv.org/abs/2404.03126)|null|
@@ -313,7 +314,6 @@
 |**2024-03-14**|**GaussianImage: 1000 FPS Image Representation and Compression by 2D Gaussian Splatting**|Xinjie Zhang et.al.|[2403.08551](http://arxiv.org/abs/2403.08551)|null|
 |**2024-03-13**|**Gaussian Splatting in Style**|Abhishek Saroha et.al.|[2403.08498](http://arxiv.org/abs/2403.08498)|null|
 |**2024-03-13**|**ManiGaussian: Dynamic Gaussian Splatting for Multi-task Robotic Manipulation**|Guanxing Lu et.al.|[2403.08321](http://arxiv.org/abs/2403.08321)|null|
-|**2024-03-12**|**StyleGaussian: Instant 3D Style Transfer with Gaussian Splatting**|Kunhao Liu et.al.|[2403.07807](http://arxiv.org/abs/2403.07807)|null|
 |**2024-02-20**|**GaussianObject: Just Taking Four Images to Get A High-Quality 3D Object with Gaussian Splatting**|Chen Yang et.al.|[2402.10259](http://arxiv.org/abs/2402.10259)|**[link](https://github.com/GaussianObject/GaussianObject)**|
 |**2024-02-15**|**GES: Generalized Exponential Splatting for Efficient Radiance Field Rendering**|Abdullah Hamdi et.al.|[2402.10128](http://arxiv.org/abs/2402.10128)|null|
 |**2024-02-13**|**IM-3D: Iterative Multiview Diffusion and Reconstruction for High-Quality 3D Generation**|Luke Melas-Kyriazi et.al.|[2402.08682](http://arxiv.org/abs/2402.08682)|null|
@@ -420,6 +420,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-05**|**Towards introspective loop closure in 4D radar SLAM**|Maximilian Hilger et.al.|[2404.03940](http://arxiv.org/abs/2404.03940)|null|
 |**2024-04-03**|**PoCo: Point Context Cluster for RGBD Indoor Place Recognition**|Jing Liang et.al.|[2404.02885](http://arxiv.org/abs/2404.02885)|null|
 |**2024-04-02**|**PRISM-TopoMap: Online Topological Mapping with Place Recognition and Scan Matching**|Kirill Muravyev et.al.|[2404.01674](http://arxiv.org/abs/2404.01674)|**[link](https://github.com/kirillmouraviev/prism-topomap)**|
 |**2024-04-02**|**TSCM: A Teacher-Student Model for Vision Place Recognition Using Cross-Metric Knowledge Distillation**|Yehui Shen et.al.|[2404.01587](http://arxiv.org/abs/2404.01587)|**[link](https://github.com/nubot-nudt/tscm)**|
@@ -897,6 +898,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-05**|**Robust Gaussian Splatting**|François Darmon et.al.|[2404.04211](http://arxiv.org/abs/2404.04211)|null|
+|**2024-04-04**|**SC4D: Sparse-Controlled Video-to-4D Generation and Motion Transfer**|Zijie Wu et.al.|[2404.03736](http://arxiv.org/abs/2404.03736)|null|
 |**2024-04-04**|**RaFE: Generative Radiance Fields Restoration**|Zhongkai Wu et.al.|[2404.03654](http://arxiv.org/abs/2404.03654)|null|
 |**2024-04-04**|**OpenNeRF: Open Set 3D Neural Scene Segmentation with Pixel-Wise Features and Rendered Novel Views**|Francis Engelmann et.al.|[2404.03650](http://arxiv.org/abs/2404.03650)|null|
 |**2024-04-04**|**VF-NeRF: Viewshed Fields for Rigid NeRF Registration**|Leo Segre et.al.|[2404.03349](http://arxiv.org/abs/2404.03349)|null|
@@ -913,7 +916,7 @@
 |**2024-04-02**|**StructLDM: Structured Latent Diffusion for 3D Human Generation**|Tao Hu et.al.|[2404.01241](http://arxiv.org/abs/2404.01241)|null|
 |**2024-04-01**|**Mirror-3DGS: Incorporating Mirror Reflections into 3D Gaussian Splatting**|Jiarui Meng et.al.|[2404.01168](http://arxiv.org/abs/2404.01168)|null|
 |**2024-04-01**|**SGCNeRF: Few-Shot Neural Rendering via Sparse Geometric Consistency Guidance**|Yuru Xiao et.al.|[2404.00992](http://arxiv.org/abs/2404.00992)|null|
-|**2024-04-01**|**FlexiDreamer: Single Image-to-3D Generation with FlexiCubes**|Ruowen Zhao et.al.|[2404.00987](http://arxiv.org/abs/2404.00987)|null|
+|**2024-04-01**|**FlexiDreamer: Single Image-to-3D Generation with FlexiCubes**|Ruowen Zhao et.al.|[2404.00987](http://arxiv.org/abs/2404.00987)|**[link](https://github.com/zhaorw02/FlexiDreamer)**|
 |**2024-04-01**|**Marrying NeRF with Feature Matching for One-step Pose Estimation**|Ronghan Chen et.al.|[2404.00891](http://arxiv.org/abs/2404.00891)|null|
 |**2024-04-02**|**DPA-Net: Structured 3D Abstraction from Sparse Views via Differentiable Primitive Assembly**|Fenggen Yu et.al.|[2404.00875](http://arxiv.org/abs/2404.00875)|null|
 |**2024-04-01**|**DiSR-NeRF: Diffusion-Guided View-Consistent Super-Resolution NeRF**|Jie Long Lee et.al.|[2404.00874](http://arxiv.org/abs/2404.00874)|null|
@@ -975,8 +978,6 @@
 |**2024-03-18**|**Aerial Lifting: Neural Urban Semantic and Building Instance Lifting from Aerial Imagery**|Yuqi Zhang et.al.|[2403.11812](http://arxiv.org/abs/2403.11812)|**[link](https://github.com/zyqz97/aerial_lifting)**|
 |**2024-03-18**|**DVN-SLAM: Dynamic Visual Neural SLAM Based on Local-Global Encoding**|Wenhua Wu et.al.|[2403.11776](http://arxiv.org/abs/2403.11776)|null|
 |**2024-03-18**|**Exploring 3D-aware Latent Spaces for Efficiently Learning Numerous Scenes**|Antoine Schnepf et.al.|[2403.11678](http://arxiv.org/abs/2403.11678)|null|
-|**2024-03-18**|**UV Gaussians: Joint Learning of Mesh Deformation and Gaussian Textures for Human Avatar Modeling**|Yujiao Jiang et.al.|[2403.11589](http://arxiv.org/abs/2403.11589)|null|
-|**2024-03-20**|**Just Add $100 More: Augmenting NeRF-based Pseudo-LiDAR Point Cloud for Resolving Class-imbalance Problem**|Mincheol Chang et.al.|[2403.11573](http://arxiv.org/abs/2403.11573)|null|
 |**2024-02-19**|**Binary Opacity Grids: Capturing Fine Geometric Detail for Mesh-Based View Synthesis**|Christian Reiser et.al.|[2402.12377](http://arxiv.org/abs/2402.12377)|null|
 |**2024-02-19**|**Colorizing Monochromatic Radiance Fields**|Yean Cheng et.al.|[2402.12184](http://arxiv.org/abs/2402.12184)|null|
 |**2024-02-17**|**Semantically-aware Neural Radiance Fields for Visual Scene Understanding: A Comprehensive Review**|Thang-Anh-Quan Nguyen et.al.|[2402.11141](http://arxiv.org/abs/2402.11141)|null|
@@ -1064,6 +1065,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-05**|**Under-Canopy Navigation using Aerial Lidar Maps**|Lucas Carvalho de Lima et.al.|[2404.03911](http://arxiv.org/abs/2404.03911)|null|
 |**2024-04-02**|**OFMPNet: Deep End-to-End Model for Occupancy and Flow Prediction in Urban Environment**|Youshaa Murhij et.al.|[2404.02263](http://arxiv.org/abs/2404.02263)|**[link](https://github.com/youshaamurhij/ofmpnet)**|
 |**2024-04-02**|**PRISM-TopoMap: Online Topological Mapping with Place Recognition and Scan Matching**|Kirill Muravyev et.al.|[2404.01674](http://arxiv.org/abs/2404.01674)|**[link](https://github.com/kirillmouraviev/prism-topomap)**|
 |**2024-04-01**|**QuAD: Query-based Interpretable Neural Motion Planning for Autonomous Driving**|Sourav Biswas et.al.|[2404.01486](http://arxiv.org/abs/2404.01486)|null|
