@@ -129,6 +129,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-19**|**FipTR: A Simple yet Effective Transformer Framework for Future Instance Prediction in Autonomous Driving**|Xingtai Gui et.al.|[2404.12867](http://arxiv.org/abs/2404.12867)|null|
 |**2024-04-18**|**6Img-to-3D: Few-Image Large-Scale Outdoor Driving Scene Reconstruction**|Théo Gieruc et.al.|[2404.12378](http://arxiv.org/abs/2404.12378)|**[link](https://github.com/continental/6img-to-3d)**|
 |**2024-04-17**|**HybriMap: Hybrid Clues Utilization for Effective Vectorized HD Map Construction**|Chi Zhang et.al.|[2404.11155](http://arxiv.org/abs/2404.11155)|null|
 |**2024-04-15**|**SparseOcc: Rethinking Sparse Latent Representation for Vision-Based Semantic Occupancy Prediction**|Pin Tang et.al.|[2404.09502](http://arxiv.org/abs/2404.09502)|null|
@@ -245,6 +246,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-19**|**Learn2Talk: 3D Talking Face Learns from 2D Talking Face**|Yixiang Zhuang et.al.|[2404.12888](http://arxiv.org/abs/2404.12888)|null|
+|**2024-04-19**|**EfficientGS: Streamlining Gaussian Splatting for Large-Scale High-Resolution Scene Representation**|Wenkai Liu et.al.|[2404.12777](http://arxiv.org/abs/2404.12777)|null|
+|**2024-04-18**|**Does Gaussian Splatting need SFM Initialization?**|Yalda Foroutan et.al.|[2404.12547](http://arxiv.org/abs/2404.12547)|null|
 |**2024-04-18**|**Dynamic Gaussians Mesh: Consistent Mesh Reconstruction from Monocular Videos**|Isabella Liu et.al.|[2404.12379](http://arxiv.org/abs/2404.12379)|null|
 |**2024-04-17**|**RainyScape: Unsupervised Rainy Scene Reconstruction using Decoupled Neural Rendering**|Xianqiang Lyu et.al.|[2404.11401](http://arxiv.org/abs/2404.11401)|null|
 |**2024-04-18**|**DeblurGS: Gaussian Splatting for Camera Motion Blur**|Jeongtaek Oh et.al.|[2404.11358](http://arxiv.org/abs/2404.11358)|null|
@@ -322,9 +326,6 @@
 |**2024-03-20**|**Gaussian Splatting on the Move: Blur and Rolling Shutter Compensation for Natural Camera Motion**|Otto Seiskari et.al.|[2403.13327](http://arxiv.org/abs/2403.13327)|**[link](https://github.com/spectacularai/3dgs-deblur)**|
 |**2024-03-19**|**GVGEN: Text-to-3D Generation with Volumetric Representation**|Xianglong He et.al.|[2403.12957](http://arxiv.org/abs/2403.12957)|null|
 |**2024-03-19**|**HUGS: Holistic Urban 3D Scene Understanding via Gaussian Splatting**|Hongyu Zhou et.al.|[2403.12722](http://arxiv.org/abs/2403.12722)|null|
-|**2024-03-22**|**RGBD GS-ICP SLAM**|Seongbo Ha et.al.|[2403.12550](http://arxiv.org/abs/2403.12550)|**[link](https://github.com/lab-of-ai-and-robotics/gs_icp_slam)**|
-|**2024-03-19**|**High-Fidelity SLAM Using Gaussian Splatting with Rendering-Guided Densification and Regularized Optimization**|Shuo Sun et.al.|[2403.12535](http://arxiv.org/abs/2403.12535)|null|
-|**2024-03-19**|**GaussianFlow: Splatting Gaussian Dynamics for 4D Content Creation**|Quankai Gao et.al.|[2403.12365](http://arxiv.org/abs/2403.12365)|null|
 |**2024-02-20**|**GaussianObject: Just Taking Four Images to Get A High-Quality 3D Object with Gaussian Splatting**|Chen Yang et.al.|[2402.10259](http://arxiv.org/abs/2402.10259)|**[link](https://github.com/GaussianObject/GaussianObject)**|
 |**2024-02-15**|**GES: Generalized Exponential Splatting for Efficient Radiance Field Rendering**|Abdullah Hamdi et.al.|[2402.10128](http://arxiv.org/abs/2402.10128)|null|
 |**2024-02-13**|**IM-3D: Iterative Multiview Diffusion and Reconstruction for High-Quality 3D Generation**|Luke Melas-Kyriazi et.al.|[2402.08682](http://arxiv.org/abs/2402.08682)|null|
@@ -566,6 +567,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-19**|**SkelFormer: Markerless 3D Pose and Shape Estimation using Skeletal Transformers**|Vandad Davoodnia et.al.|[2404.12625](http://arxiv.org/abs/2404.12625)|null|
 |**2024-04-17**|**Pixel-Wise Symbol Spotting via Progressive Points Location for Parsing CAD Images**|Junbiao Pang et.al.|[2404.10985](http://arxiv.org/abs/2404.10985)|null|
 |**2024-03-28**|**Towards Long Term SLAM on Thermal Imagery**|Colin Keil et.al.|[2403.19885](http://arxiv.org/abs/2403.19885)|**[link](https://github.com/neufieldrobotics/irslam_baseline)**|
 |**2024-03-28**|**Instance-Adaptive and Geometric-Aware Keypoint Learning for Category-Level 6D Object Pose Estimation**|Xiao Lin et.al.|[2403.19527](http://arxiv.org/abs/2403.19527)|**[link](https://github.com/leeiieeo/ag-pose)**|
@@ -771,6 +773,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-18**|**Does Gaussian Splatting need SFM Initialization?**|Yalda Foroutan et.al.|[2404.12547](http://arxiv.org/abs/2404.12547)|null|
 |**2024-04-17**|**A Subspace-Constrained Tyler's Estimator and its Applications to Structure from Motion**|Feng Yu et.al.|[2404.11590](http://arxiv.org/abs/2404.11590)|null|
 |**2024-04-18**|**DeblurGS: Gaussian Splatting for Camera Motion Blur**|Jeongtaek Oh et.al.|[2404.11358](http://arxiv.org/abs/2404.11358)|null|
 |**2024-04-15**|**LetsGo: Large-Scale Garage Modeling and Rendering via LiDAR-Assisted Gaussian Primitives**|Jiadi Cui et.al.|[2404.09748](http://arxiv.org/abs/2404.09748)|null|
@@ -928,6 +931,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-19**|**FlyNeRF: NeRF-Based Aerial Mapping for High-Quality 3D Scene Reconstruction**|Maria Dronova et.al.|[2404.12970](http://arxiv.org/abs/2404.12970)|null|
+|**2024-04-18**|**Does Gaussian Splatting need SFM Initialization?**|Yalda Foroutan et.al.|[2404.12547](http://arxiv.org/abs/2404.12547)|null|
 |**2024-04-18**|**MeshLRM: Large Reconstruction Model for High-Quality Mesh**|Xinyue Wei et.al.|[2404.12385](http://arxiv.org/abs/2404.12385)|null|
 |**2024-04-18**|**AG-NeRF: Attention-guided Neural Radiance Fields for Multi-height Large-scale Outdoor Scene Rendering**|Jingfeng Guo et.al.|[2404.11897](http://arxiv.org/abs/2404.11897)|null|
 |**2024-04-18**|**Cicero: Addressing Algorithmic and Architectural Bottlenecks in Neural Rendering by Radiance Warping and Memory Optimizations**|Yu Feng et.al.|[2404.11852](http://arxiv.org/abs/2404.11852)|null|
@@ -1006,8 +1011,6 @@
 |**2024-03-27**|**SAT-NGP : Unleashing Neural Graphics Primitives for Fast Relightable Transient-Free 3D reconstruction from Satellite Imagery**|Camille Billouard et.al.|[2403.18711](http://arxiv.org/abs/2403.18711)|null|
 |**2024-03-27**|**Modeling uncertainty for Gaussian Splatting**|Luca Savant et.al.|[2403.18476](http://arxiv.org/abs/2403.18476)|null|
 |**2024-03-26**|**Octree-GS: Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians**|Kerui Ren et.al.|[2403.17898](http://arxiv.org/abs/2403.17898)|**[link](https://github.com/city-super/Octree-GS)**|
-|**2024-03-26**|**NeRF-HuGS: Improved Neural Radiance Fields in Non-static Scenes Using Heuristics-Guided Segmentation**|Jiahao Chen et.al.|[2403.17537](http://arxiv.org/abs/2403.17537)|null|
-|**2024-03-25**|**VP3D: Unleashing 2D Visual Prompt for Text-to-3D Generation**|Yang Chen et.al.|[2403.17001](http://arxiv.org/abs/2403.17001)|null|
 |**2024-02-19**|**Binary Opacity Grids: Capturing Fine Geometric Detail for Mesh-Based View Synthesis**|Christian Reiser et.al.|[2402.12377](http://arxiv.org/abs/2402.12377)|null|
 |**2024-02-19**|**Colorizing Monochromatic Radiance Fields**|Yean Cheng et.al.|[2402.12184](http://arxiv.org/abs/2402.12184)|null|
 |**2024-02-17**|**Semantically-aware Neural Radiance Fields for Visual Scene Understanding: A Comprehensive Review**|Thang-Anh-Quan Nguyen et.al.|[2402.11141](http://arxiv.org/abs/2402.11141)|null|
