@@ -151,7 +151,7 @@
 |**2024-05-14**|**BEVRender: Vision-based Cross-view Vehicle Registration in Off-road GNSS-denied Environment**|Lihong Jin et.al.|[2405.09001](http://arxiv.org/abs/2405.09001)|null|
 |**2024-05-14**|**TEDNet: Twin Encoder Decoder Neural Network for 2D Camera and LiDAR Road Detection**|Martín Bayón-Gutiérrez et.al.|[2405.08429](http://arxiv.org/abs/2405.08429)|**[link](https://github.com/martin-bayon/tednet)**|
 |**2024-05-02**|**CoViS-Net: A Cooperative Visual Spatial Foundation Model for Multi-Robot Applications**|Jan Blumenkamp et.al.|[2405.01107](http://arxiv.org/abs/2405.01107)|null|
-|**2024-05-02**|**Addressing Diverging Training Costs using Local Restoration for Precise Bird's Eye View Map Construction**|Minsu Kim et.al.|[2405.01016](http://arxiv.org/abs/2405.01016)|null|
+|**2024-06-03**|**Addressing Diverging Training Costs using Local Restoration for Precise Bird's Eye View Map Construction**|Minsu Kim et.al.|[2405.01016](http://arxiv.org/abs/2405.01016)|null|
 |**2024-04-26**|**Scrutinizing Data from Sky: An Examination of Its Veracity in Area Based Traffic Contexts**|Yawar Ali et.al.|[2404.17212](http://arxiv.org/abs/2404.17212)|null|
 |**2024-04-19**|**FipTR: A Simple yet Effective Transformer Framework for Future Instance Prediction in Autonomous Driving**|Xingtai Gui et.al.|[2404.12867](http://arxiv.org/abs/2404.12867)|null|
 |**2024-04-18**|**6Img-to-3D: Few-Image Large-Scale Outdoor Driving Scene Reconstruction**|Théo Gieruc et.al.|[2404.12378](http://arxiv.org/abs/2404.12378)|**[link](https://github.com/continental/6img-to-3d)**|
@@ -273,7 +273,7 @@
 |**2024-05-31**|**ContextGS: Compact 3D Gaussian Splatting with Anchor Level Context Model**|Yufei Wang et.al.|[2405.20721](http://arxiv.org/abs/2405.20721)|**[link](https://github.com/wyf0912/contextgs)**|
 |**2024-05-31**|**R $^2$ -Gaussian: Rectifying Radiative Gaussian Splatting for Tomographic Reconstruction**|Ruyi Zha et.al.|[2405.20693](http://arxiv.org/abs/2405.20693)|null|
 |**2024-05-30**|**$\textit{S}^3$ Gaussian: Self-Supervised Street Gaussians for Autonomous Driving**|Nan Huang et.al.|[2405.20323](http://arxiv.org/abs/2405.20323)|**[link](https://github.com/nnanhuang/s3gaussian)**|
-|**2024-05-31**|**A Pixel Is Worth More Than One 3D Gaussians in Single-View 3D Reconstruction**|Jianghao Shen et.al.|[2405.20310](http://arxiv.org/abs/2405.20310)|null|
+|**2024-06-03**|**A Pixel Is Worth More Than One 3D Gaussians in Single-View 3D Reconstruction**|Jianghao Shen et.al.|[2405.20310](http://arxiv.org/abs/2405.20310)|null|
 |**2024-05-29**|**EvaGaussians: Event Stream Assisted Gaussian Splatting from Blurry Images**|Wangbo Yu et.al.|[2405.20224](http://arxiv.org/abs/2405.20224)|null|
 |**2024-05-30**|**Object-centric Reconstruction and Tracking of Dynamic Unknown Objects using 3D Gaussian Splatting**|Kuldeep R Barad et.al.|[2405.20104](http://arxiv.org/abs/2405.20104)|null|
 |**2024-05-30**|**Structure Gaussian SLAM with Manhattan World Hypothesis**|Shuhong Liu et.al.|[2405.20031](http://arxiv.org/abs/2405.20031)|null|
@@ -311,7 +311,7 @@
 |**2024-05-24**|**DisC-GS: Discontinuity-aware Gaussian Splatting**|Haoxuan Qu et.al.|[2405.15196](http://arxiv.org/abs/2405.15196)|null|
 |**2024-05-27**|**HDR-GS: Efficient High Dynamic Range Novel View Synthesis at 1000x Speed via Gaussian Splatting**|Yuanhao Cai et.al.|[2405.15125](http://arxiv.org/abs/2405.15125)|**[link](https://github.com/caiyuanhao1998/hdr-gs)**|
 |**2024-05-24**|**GS-Hider: Hiding Messages into 3D Gaussian Splatting**|Xuanyu Zhang et.al.|[2405.15118](http://arxiv.org/abs/2405.15118)|null|
-|**2024-05-23**|**EvGGS: A Collaborative Learning Framework for Event-based Generalizable Gaussian Splatting**|Jiaxu Wang et.al.|[2405.14959](http://arxiv.org/abs/2405.14959)|**[link](https://github.com/mercerai/evggs)**|
+|**2024-06-03**|**EvGGS: A Collaborative Learning Framework for Event-based Generalizable Gaussian Splatting**|Jiaxu Wang et.al.|[2405.14959](http://arxiv.org/abs/2405.14959)|**[link](https://github.com/mercerai/evggs)**|
 |**2024-05-23**|**Tele-Aloha: A Low-budget and High-authenticity Telepresence System Using Sparse RGB Cameras**|Hanzhang Tu et.al.|[2405.14866](http://arxiv.org/abs/2405.14866)|null|
 |**2024-05-23**|**MagicDrive3D: Controllable 3D Generation for Any-View Rendering in Street Scenes**|Ruiyuan Gao et.al.|[2405.14475](http://arxiv.org/abs/2405.14475)|null|
 |**2024-06-01**|**TIGER: Text-Instructed 3D Gaussian Retrieval and Coherent Editing**|Teng Xu et.al.|[2405.14455](http://arxiv.org/abs/2405.14455)|null|
@@ -1024,7 +1024,7 @@
 |**2024-05-28**|**Mani-GS: Gaussian Splatting Manipulation with Triangular Mesh**|Xiangjun Gao et.al.|[2405.17811](http://arxiv.org/abs/2405.17811)|null|
 |**2024-05-28**|**F-3DGS: Factorized Coordinates and Representations for 3D Gaussian Splatting**|Xiangyu Sun et.al.|[2405.17083](http://arxiv.org/abs/2405.17083)|null|
 |**2024-05-29**|**PyGS: Large-scale Scene Representation with Pyramidal 3D Gaussian Splatting**|Zipeng Wang et.al.|[2405.16829](http://arxiv.org/abs/2405.16829)|null|
-|**2024-05-26**|**Sp2360: Sparse-view 360 Scene Reconstruction using Cascaded 2D Diffusion Priors**|Soumava Paul et.al.|[2405.16517](http://arxiv.org/abs/2405.16517)|null|
+|**2024-06-02**|**Sp2360: Sparse-view 360 Scene Reconstruction using Cascaded 2D Diffusion Priors**|Soumava Paul et.al.|[2405.16517](http://arxiv.org/abs/2405.16517)|null|
 |**2024-05-24**|**Neural Elevation Models for Terrain Mapping and Path Planning**|Adam Dai et.al.|[2405.15227](http://arxiv.org/abs/2405.15227)|null|
 |**2024-05-27**|**HDR-GS: Efficient High Dynamic Range Novel View Synthesis at 1000x Speed via Gaussian Splatting**|Yuanhao Cai et.al.|[2405.15125](http://arxiv.org/abs/2405.15125)|**[link](https://github.com/caiyuanhao1998/hdr-gs)**|
 |**2024-05-24**|**GS-Hider: Hiding Messages into 3D Gaussian Splatting**|Xuanyu Zhang et.al.|[2405.15118](http://arxiv.org/abs/2405.15118)|null|
