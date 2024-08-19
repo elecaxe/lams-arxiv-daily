@@ -152,6 +152,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-08-15**|**HeightLane: BEV Heightmap guided 3D Lane Detection**|Chaesong Park et.al.|[2408.08270](http://arxiv.org/abs/2408.08270)|null|
+|**2024-08-16**|**OC3D: Weakly Supervised Outdoor 3D Object Detection with Only Coarse Click Annotation**|Qiming Xia et.al.|[2408.08092](http://arxiv.org/abs/2408.08092)|null|
 |**2024-08-14**|**Camera Perspective Transformation to Bird's Eye View via Spatial Transformer Model for Road Intersection Monitoring**|Rukesh Prajapati et.al.|[2408.05577](http://arxiv.org/abs/2408.05577)|null|
 |**2024-08-08**|**Cross-View Meets Diffusion: Aerial Image Synthesis with Geometry and Text Guidance**|Ahmad Arrabi et.al.|[2408.04224](http://arxiv.org/abs/2408.04224)|**[link](https://gitlab.com/vail-uvm/gpg2a)**|
 |**2024-08-14**|**DRAMA: An Efficient End-to-end Motion Planner for Autonomous Driving with Mamba**|Chengran Yuan et.al.|[2408.03601](http://arxiv.org/abs/2408.03601)|null|
@@ -231,7 +232,7 @@
 |**2024-04-29**|**InverseMatrixVT3D: An Efficient Projection Matrix-Based Approach for 3D Occupancy Prediction**|Zhenxing Ming et.al.|[2401.12422](http://arxiv.org/abs/2401.12422)|**[link](https://github.com/danielming123/inversematrixvt3d)**|
 |**2024-01-23**|**Icy Moon Surface Simulation and Stereo Depth Estimation for Sampling Autonomy**|Ramchander Bhaskara et.al.|[2401.12414](http://arxiv.org/abs/2401.12414)|**[link](https://github.com/nasa-jpl/guiss)**|
 |**2024-01-21**|**Self-Supervised Bird's Eye View Motion Prediction with Cross-Modality Signals**|Shaoheng Fang et.al.|[2401.11499](http://arxiv.org/abs/2401.11499)|**[link](https://github.com/bshfang/self-supervised-motion)**|
-|**2024-08-13**|**DA-BEV: Unsupervised Domain Adaptation for Bird's Eye View Perception**|Kai Jiang et.al.|[2401.08687](http://arxiv.org/abs/2401.08687)|null|
+|**2024-01-13**|**DA-BEV: Unsupervised Domain Adaptation for Bird's Eye View Perception**|Kai Jiang et.al.|[2401.08687](http://arxiv.org/abs/2401.08687)|null|
 |**2024-01-17**|**LightHouse: A Survey of AGI Hallucination**|Feng Wang et.al.|[2401.06792](http://arxiv.org/abs/2401.06792)|**[link](https://github.com/zurichrain/agi-hallucination)**|
 |**2023-12-26**|**VirtualPainting: Addressing Sparsity with Virtual Points and Distance-Aware Data Augmentation for 3D Object Detection**|Sudip Dhakal et.al.|[2312.16141](http://arxiv.org/abs/2312.16141)|null|
 |**2023-12-24**|**End-to-End 3D Object Detection using LiDAR Point Cloud**|Gaurav Raut et.al.|[2312.15377](http://arxiv.org/abs/2312.15377)|null|
@@ -309,6 +310,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-16**|**Correspondence-Guided SfM-Free 3D Gaussian Splatting for NVS**|Wei Sun et.al.|[2408.08723](http://arxiv.org/abs/2408.08723)|null|
+|**2024-08-16**|**GS-ID: Illumination Decomposition on Gaussian Splatting via Diffusion Prior and Parametric Light Source Optimization**|Kang Du et.al.|[2408.08524](http://arxiv.org/abs/2408.08524)|**[link](https://github.com/dukang/gs-id)**|
 |**2024-08-15**|**WaterSplatting: Fast Underwater 3D Scene Reconstruction Using Gaussian Splatting**|Huapeng Li et.al.|[2408.08206](http://arxiv.org/abs/2408.08206)|null|
 |**2024-08-15**|**FlashGS: Efficient 3D Gaussian Splatting for Large-scale and High-resolution Rendering**|Guofeng Feng et.al.|[2408.07967](http://arxiv.org/abs/2408.07967)|**[link](https://github.com/internlandmark/flashgs)**|
 |**2024-08-14**|**Progressive Radiance Distillation for Inverse Rendering with Gaussian Splatting**|Keyang Ye et.al.|[2408.07595](http://arxiv.org/abs/2408.07595)|null|
@@ -387,8 +390,6 @@
 |**2024-07-04**|**AutoSplat: Constrained Gaussian Splatting for Autonomous Driving Scene Reconstruction**|Mustafa Khan et.al.|[2407.02598](http://arxiv.org/abs/2407.02598)|null|
 |**2024-07-02**|**TrAME: Trajectory-Anchored Multi-View Editing for Text-Guided 3D Gaussian Splatting Manipulation**|Chaofan Luo et.al.|[2407.02034](http://arxiv.org/abs/2407.02034)|null|
 |**2024-07-01**|**DRAGON: Drone and Ground Gaussian Splatting for 3D Building Reconstruction**|Yujin Ham et.al.|[2407.01761](http://arxiv.org/abs/2407.01761)|null|
-|**2024-07-01**|**GaussianStego: A Generalizable Stenography Pipeline for Generative 3D Gaussians Splatting**|Chenxin Li et.al.|[2407.01301](http://arxiv.org/abs/2407.01301)|null|
-|**2024-07-01**|**EndoSparse: Real-Time Sparse View Synthesis of Endoscopic Scenes using Gaussian Splatting**|Chenxin Li et.al.|[2407.01029](http://arxiv.org/abs/2407.01029)|null|
 |**2024-02-20**|**GaussianObject: Just Taking Four Images to Get A High-Quality 3D Object with Gaussian Splatting**|Chen Yang et.al.|[2402.10259](http://arxiv.org/abs/2402.10259)|**[link](https://github.com/GaussianObject/GaussianObject)**|
 |**2024-02-15**|**GES: Generalized Exponential Splatting for Efficient Radiance Field Rendering**|Abdullah Hamdi et.al.|[2402.10128](http://arxiv.org/abs/2402.10128)|null|
 |**2024-02-13**|**IM-3D: Iterative Multiview Diffusion and Reconstruction for High-Quality 3D Generation**|Luke Melas-Kyriazi et.al.|[2402.08682](http://arxiv.org/abs/2402.08682)|null|
@@ -922,6 +923,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-16**|**Correspondence-Guided SfM-Free 3D Gaussian Splatting for NVS**|Wei Sun et.al.|[2408.08723](http://arxiv.org/abs/2408.08723)|null|
 |**2024-08-15**|**CorrAdaptor: Adaptive Local Context Learning for Correspondence Pruning**|Wei Zhu et.al.|[2408.08134](http://arxiv.org/abs/2408.08134)|null|
 |**2024-08-13**|**A Miniature Vision-Based Localization System for Indoor Blimps**|Shicong Ma et.al.|[2408.06648](http://arxiv.org/abs/2408.06648)|null|
 |**2024-08-07**|**Towards Real-Time Gaussian Splatting: Accelerating 3DGS through Photometric SLAM**|Yan Song Hu et.al.|[2408.03825](http://arxiv.org/abs/2408.03825)|null|
@@ -1120,6 +1122,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-16**|**VF-NeRF: Learning Neural Vector Fields for Indoor Scene Reconstruction**|Albert Gassol Puigjaner et.al.|[2408.08766](http://arxiv.org/abs/2408.08766)|**[link](https://github.com/albertgassol1/vf-nerf)**|
 |**2024-08-15**|**WaterSplatting: Fast Underwater 3D Scene Reconstruction Using Gaussian Splatting**|Huapeng Li et.al.|[2408.08206](http://arxiv.org/abs/2408.08206)|null|
 |**2024-08-14**|**Rethinking Open-Vocabulary Segmentation of Radiance Fields in 3D Space**|Hyunjee Lee et.al.|[2408.07416](http://arxiv.org/abs/2408.07416)|null|
 |**2024-08-13**|**Potamoi: Accelerating Neural Rendering via a Unified Streaming Architecture**|Yu Feng et.al.|[2408.06608](http://arxiv.org/abs/2408.06608)|null|
@@ -1199,7 +1202,6 @@
 |**2024-07-04**|**CRiM-GS: Continuous Rigid Motion-Aware Gaussian Splatting from Motion Blur Images**|Junghe Lee et.al.|[2407.03923](http://arxiv.org/abs/2407.03923)|null|
 |**2024-07-02**|**MomentsNeRF: Leveraging Orthogonal Moments for Few-Shot Neural Rendering**|Ahmad AlMughrabi et.al.|[2407.02668](http://arxiv.org/abs/2407.02668)|null|
 |**2024-07-03**|**BeNeRF: Neural Radiance Fields from a Single Blurry Image and Event Stream**|Wenpu Li et.al.|[2407.02174](http://arxiv.org/abs/2407.02174)|**[link](https://github.com/WU-CVGL/BeNeRF)**|
-|**2024-07-01**|**Active Human Pose Estimation via an Autonomous UAV Agent**|Jingxi Chen et.al.|[2407.01811](http://arxiv.org/abs/2407.01811)|null|
 |**2024-02-19**|**Binary Opacity Grids: Capturing Fine Geometric Detail for Mesh-Based View Synthesis**|Christian Reiser et.al.|[2402.12377](http://arxiv.org/abs/2402.12377)|null|
 |**2024-02-19**|**Colorizing Monochromatic Radiance Fields**|Yean Cheng et.al.|[2402.12184](http://arxiv.org/abs/2402.12184)|null|
 |**2024-02-17**|**Semantically-aware Neural Radiance Fields for Visual Scene Understanding: A Comprehensive Review**|Thang-Anh-Quan Nguyen et.al.|[2402.11141](http://arxiv.org/abs/2402.11141)|null|
