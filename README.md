@@ -151,6 +151,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-20**|**CooPre: Cooperative Pretraining for V2X Cooperative Perception**|Seth Z. Zhao et.al.|[2408.11241](http://arxiv.org/abs/2408.11241)|null|
 |**2024-08-20**|**OMEGA: Efficient Occlusion-Aware Navigation for Air-Ground Robot in Dynamic Environments via State Space Model**|Junming Wang et.al.|[2408.10618](http://arxiv.org/abs/2408.10618)|null|
 |**2024-08-20**|**MV-MOS: Multi-View Feature Fusion for 3D Moving Object Segmentation**|Jintao Cheng et.al.|[2408.10602](http://arxiv.org/abs/2408.10602)|null|
 |**2024-08-17**|**MaskBEV: Towards A Unified Framework for BEV Detection and Map Segmentation**|Xiao Zhao et.al.|[2408.09122](http://arxiv.org/abs/2408.09122)|null|
@@ -313,6 +314,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-21**|**Robust 3D Gaussian Splatting for Novel View Synthesis in Presence of Distractors**|Paul Ungermann et.al.|[2408.11697](http://arxiv.org/abs/2408.11697)|**[link](https://github.com/paulungermann/Robust3DGaussians)**|
+|**2024-08-21**|**DeRainGS: Gaussian Splatting for Enhanced Scene Reconstruction in Rainy**|Shuhong Liu et.al.|[2408.11540](http://arxiv.org/abs/2408.11540)|null|
+|**2024-08-21**|**GaussianOcc: Fully Self-supervised and Efficient 3D Occupancy Estimation with Gaussian Splatting**|Wanshui Gan et.al.|[2408.11447](http://arxiv.org/abs/2408.11447)|**[link](https://github.com/ganwanshui/gaussianocc)**|
+|**2024-08-21**|**Pano2Room: Novel View Synthesis from a Single Indoor Panorama**|Guo Pu et.al.|[2408.11413](http://arxiv.org/abs/2408.11413)|**[link](https://github.com/trickygo/pano2room)**|
+|**2024-08-20**|**GSLoc: Efficient Camera Pose Refinement via 3D Gaussian Splatting**|Changkun Liu et.al.|[2408.11085](http://arxiv.org/abs/2408.11085)|null|
 |**2024-08-20**|**ShapeSplat: A Large-scale Dataset of Gaussian Splats and Their Self-Supervised Pretraining**|Qi Ma et.al.|[2408.10906](http://arxiv.org/abs/2408.10906)|null|
 |**2024-08-20**|**DEGAS: Detailed Expressions on Full-Body Gaussian Avatars**|Zhijing Shao et.al.|[2408.10588](http://arxiv.org/abs/2408.10588)|null|
 |**2024-08-20**|**LoopSplat: Loop Closure by Registering 3D Gaussian Splats**|Liyuan Zhu et.al.|[2408.10154](http://arxiv.org/abs/2408.10154)|null|
@@ -388,11 +394,6 @@
 |**2024-07-10**|**3D Gaussian Ray Tracing: Fast Tracing of Particle Scenes**|Nicolas Moenne-Loccoz et.al.|[2407.07090](http://arxiv.org/abs/2407.07090)|null|
 |**2024-07-07**|**PICA: Physics-Integrated Clothed Avatar**|Bo Peng et.al.|[2407.05324](http://arxiv.org/abs/2407.05324)|null|
 |**2024-07-07**|**GaussReg: Fast 3D Registration with Gaussian Splatting**|Jiahao Chang et.al.|[2407.05254](http://arxiv.org/abs/2407.05254)|null|
-|**2024-07-06**|**SurgicalGaussian: Deformable 3D Gaussians for High-Fidelity Surgical Scene Reconstruction**|Weixing Xie et.al.|[2407.05023](http://arxiv.org/abs/2407.05023)|null|
-|**2024-07-05**|**Gaussian Eigen Models for Human Heads**|Wojciech Zielonka et.al.|[2407.04545](http://arxiv.org/abs/2407.04545)|null|
-|**2024-07-12**|**Segment Any 4D Gaussians**|Shengxiang Ji et.al.|[2407.04504](http://arxiv.org/abs/2407.04504)|null|
-|**2024-07-19**|**GSD: View-Guided Gaussian Splatting Diffusion for 3D Reconstruction**|Yuxuan Mu et.al.|[2407.04237](http://arxiv.org/abs/2407.04237)|null|
-|**2024-07-04**|**CRiM-GS: Continuous Rigid Motion-Aware Gaussian Splatting from Motion Blur Images**|Junghe Lee et.al.|[2407.03923](http://arxiv.org/abs/2407.03923)|null|
 |**2024-02-20**|**GaussianObject: Just Taking Four Images to Get A High-Quality 3D Object with Gaussian Splatting**|Chen Yang et.al.|[2402.10259](http://arxiv.org/abs/2402.10259)|**[link](https://github.com/GaussianObject/GaussianObject)**|
 |**2024-02-15**|**GES: Generalized Exponential Splatting for Efficient Radiance Field Rendering**|Abdullah Hamdi et.al.|[2402.10128](http://arxiv.org/abs/2402.10128)|null|
 |**2024-02-13**|**IM-3D: Iterative Multiview Diffusion and Reconstruction for High-Quality 3D Generation**|Luke Melas-Kyriazi et.al.|[2402.08682](http://arxiv.org/abs/2402.08682)|null|
@@ -499,6 +500,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-20**|**GSLoc: Efficient Camera Pose Refinement via 3D Gaussian Splatting**|Changkun Liu et.al.|[2408.11085](http://arxiv.org/abs/2408.11085)|null|
 |**2024-08-20**|**MambaLoc: Efficient Camera Localisation via State Space Model**|Jialu Wang et.al.|[2408.09680](http://arxiv.org/abs/2408.09680)|null|
 |**2024-08-14**|**Narrowing your FOV with SOLiD: Spatially Organized and Lightweight Global Descriptor for FOV-constrained LiDAR Place Recognition**|Hogyun Kim et.al.|[2408.07330](http://arxiv.org/abs/2408.07330)|null|
 |**2024-08-13**|**A Miniature Vision-Based Localization System for Indoor Blimps**|Shicong Ma et.al.|[2408.06648](http://arxiv.org/abs/2408.06648)|null|
@@ -578,7 +580,6 @@
 |**2024-04-09**|**Training-Free Open-Vocabulary Segmentation with Offline Diffusion-Augmented Prototype Generation**|Luca Barsellotti et.al.|[2404.06542](http://arxiv.org/abs/2404.06542)|null|
 |**2024-04-07**|**Scalable and Efficient Hierarchical Visual Topological Mapping**|Saravanabalagi Ramachandran et.al.|[2404.05023](http://arxiv.org/abs/2404.05023)|**[link](https://github.com/saravanabalagi/htmap_gt_loops)**|
 |**2024-04-05**|**Towards introspective loop closure in 4D radar SLAM**|Maximilian Hilger et.al.|[2404.03940](http://arxiv.org/abs/2404.03940)|null|
-|**2024-04-03**|**PoCo: Point Context Cluster for RGBD Indoor Place Recognition**|Jing Liang et.al.|[2404.02885](http://arxiv.org/abs/2404.02885)|null|
 |**2024-02-19**|**CoLRIO: LiDAR-Ranging-Inertial Centralized State Estimation for Robotic Swarms**|Shipeng Zhong et.al.|[2402.11790](http://arxiv.org/abs/2402.11790)|null|
 |**2024-02-16**|**Spike-EVPR: Deep Spiking Residual Network with Cross-Representation Aggregation for Event-Based Visual Place Recognition**|Chenming Hu et.al.|[2402.10476](http://arxiv.org/abs/2402.10476)|null|
 |**2024-02-14**|**Loopy-SLAM: Dense Neural SLAM with Loop Closures**|Lorenzo Liso et.al.|[2402.09944](http://arxiv.org/abs/2402.09944)|null|
@@ -1076,7 +1077,7 @@
 |**2024-07-23**|**Deep Learning Assisted Inertial Dead Reckoning and Fusion**|Dror Hurwitz et.al.|[2407.16387](http://arxiv.org/abs/2407.16387)|null|
 |**2024-04-24**|**3D Freehand Ultrasound using Visual Inertial and Deep Inertial Odometry for Measuring Patellar Tracking**|Russell Buchanan et.al.|[2404.15847](http://arxiv.org/abs/2404.15847)|null|
 |**2024-01-24**|**DoorINet: A Deep-Learning Inertial Framework for Door-Mounted IoT Applications**|Aleksei Zakharchenko et.al.|[2402.09427](http://arxiv.org/abs/2402.09427)|**[link](https://github.com/ansfl/doorinet)**|
-|**2024-08-21**|**Online Learning-Based Inertial Parameter Identification of Unknown Object for Model-Based Control of Wheeled Humanoids**|Donghoon Baek et.al.|[2309.09810](http://arxiv.org/abs/2309.09810)|null|
+|**2023-09-18**|**Learning Inertial Parameter Identification of Unknown Object with Humanoid Robot using Sim-to-Real Adaptation**|Donghoon Baek et.al.|[2309.09810](http://arxiv.org/abs/2309.09810)|null|
 |**2023-03-03**|**RIOT: Recursive Inertial Odometry Transformer for Localisation from Low-Cost IMU Measurements**|James Brotchie et.al.|[2303.01641](http://arxiv.org/abs/2303.01641)|null|
 |**2022-11-14**|**Learnable Spatio-Temporal Map Embeddings for Deep Inertial Localization**|Dennis Melamed et.al.|[2211.07635](http://arxiv.org/abs/2211.07635)|null|
 |**2022-11-10**|**Unsupervised Deep Learning-based clustering for Human Activity Recognition**|Hamza Amrani et.al.|[2211.05483](http://arxiv.org/abs/2211.05483)|**[link](https://github.com/hamzaamrani/Deep-Inertial-Sensory-Clustering)**|
@@ -1127,6 +1128,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-21**|**Irregularity Inspection using Neural Radiance Field**|Tianqi Ding et.al.|[2408.11251](http://arxiv.org/abs/2408.11251)|null|
+|**2024-08-20**|**GSLoc: Efficient Camera Pose Refinement via 3D Gaussian Splatting**|Changkun Liu et.al.|[2408.11085](http://arxiv.org/abs/2408.11085)|null|
 |**2024-08-20**|**Learning Part-aware 3D Representations by Fusing 2D Gaussians and Superquadrics**|Zhirui Gao et.al.|[2408.10789](http://arxiv.org/abs/2408.10789)|null|
 |**2024-08-20**|**TrackNeRF: Bundle Adjusting NeRF from Sparse and Noisy Views via Feature Tracks**|Jinjie Mai et.al.|[2408.10739](http://arxiv.org/abs/2408.10739)|null|
 |**2024-08-21**|**NeRF-US: Removing Ultrasound Imaging Artifacts from Neural Radiance Fields in the Wild**|Rishit Dagli et.al.|[2408.10258](http://arxiv.org/abs/2408.10258)|null|
@@ -1205,8 +1208,6 @@
 |**2024-07-10**|**Protecting NeRFs' Copyright via Plug-And-Play Watermarking Base Model**|Qi Song et.al.|[2407.07735](http://arxiv.org/abs/2407.07735)|null|
 |**2024-07-10**|**Drantal-NeRF: Diffusion-Based Restoration for Anti-aliasing Neural Radiance Field**|Ganlin Yang et.al.|[2407.07461](http://arxiv.org/abs/2407.07461)|null|
 |**2024-07-09**|**Reference-based Controllable Scene Stylization with Gaussian Splatting**|Yiqun Mei et.al.|[2407.07220](http://arxiv.org/abs/2407.07220)|null|
-|**2024-07-09**|**Sparse-DeRF: Deblurred Neural Radiance Fields from Sparse View**|Dogyoon Lee et.al.|[2407.06613](http://arxiv.org/abs/2407.06613)|null|
-|**2024-07-08**|**RRM: Relightable assets using Radiance guided Material extraction**|Diego Gomez et.al.|[2407.06397](http://arxiv.org/abs/2407.06397)|null|
 |**2024-02-19**|**Binary Opacity Grids: Capturing Fine Geometric Detail for Mesh-Based View Synthesis**|Christian Reiser et.al.|[2402.12377](http://arxiv.org/abs/2402.12377)|null|
 |**2024-02-19**|**Colorizing Monochromatic Radiance Fields**|Yean Cheng et.al.|[2402.12184](http://arxiv.org/abs/2402.12184)|null|
 |**2024-02-17**|**Semantically-aware Neural Radiance Fields for Visual Scene Understanding: A Comprehensive Review**|Thang-Anh-Quan Nguyen et.al.|[2402.11141](http://arxiv.org/abs/2402.11141)|null|
@@ -1294,6 +1295,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-21**|**Semi-supervised 3D Semantic Scene Completion with 2D Vision Foundation Model Guidance**|Duc-Hai Pham et.al.|[2408.11559](http://arxiv.org/abs/2408.11559)|null|
+|**2024-08-21**|**MambaOcc: Visual State Space Model for BEV-based Occupancy Prediction with Local Adaptive Reordering**|Yonglin Tian et.al.|[2408.11464](http://arxiv.org/abs/2408.11464)|null|
 |**2024-08-20**|**OMEGA: Efficient Occlusion-Aware Navigation for Air-Ground Robot in Dynamic Environments via State Space Model**|Junming Wang et.al.|[2408.10618](http://arxiv.org/abs/2408.10618)|null|
 |**2024-08-19**|**OccMamba: Semantic Occupancy Prediction with State Space Models**|Heng Li et.al.|[2408.09859](http://arxiv.org/abs/2408.09859)|null|
 |**2024-08-17**|**HybridOcc: NeRF Enhanced Transformer-based Multi-Camera 3D Occupancy Prediction**|Xiao Zhao et.al.|[2408.09104](http://arxiv.org/abs/2408.09104)|null|
@@ -1372,8 +1375,6 @@
 |**2024-03-07**|**Control-Barrier-Aided Teleoperation with Visual-Inertial SLAM for Safe MAV Navigation in Complex Environments**|Siqi Zhou et.al.|[2403.04331](http://arxiv.org/abs/2403.04331)|null|
 |**2024-03-05**|**A Safety-Critical Framework for UGVs in Complex Environments: A Data-Driven Discrepancy-Aware Approach**|Skylar X. Wei et.al.|[2403.03215](http://arxiv.org/abs/2403.03215)|null|
 |**2024-03-05**|**FastOcc: Accelerating 3D Occupancy Prediction by Fusing the 2D Bird's-Eye View and Perspective View**|Jiawei Hou et.al.|[2403.02710](http://arxiv.org/abs/2403.02710)|null|
-|**2024-03-04**|**Tightly-Coupled LiDAR-Visual-Inertial SLAM and Large-Scale Volumetric Occupancy Mapping**|Simon Boche et.al.|[2403.02280](http://arxiv.org/abs/2403.02280)|null|
-|**2024-05-09**|**OccFusion: Multi-Sensor Fusion Framework for 3D Semantic Occupancy Prediction**|Zhenxing Ming et.al.|[2403.01644](http://arxiv.org/abs/2403.01644)|null|
 |**2024-02-19**|**SDGE: Stereo Guided Depth Estimation for 360° Camera Sets**|Jialei Xu et.al.|[2402.11791](http://arxiv.org/abs/2402.11791)|null|
 |**2024-02-12**|**Collaborative Semantic Occupancy Prediction with Hybrid Feature Fusion in Connected Automated Vehicles**|Rui Song et.al.|[2402.07635](http://arxiv.org/abs/2402.07635)|null|
 |**2024-02-04**|**Hybrid-Prediction Integrated Planning for Autonomous Driving**|Haochen Liu et.al.|[2402.02426](http://arxiv.org/abs/2402.02426)|null|
