@@ -317,6 +317,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-27**|**Drone-assisted Road Gaussian Splatting with Cross-view Uncertainty**|Saining Zhang et.al.|[2408.15242](http://arxiv.org/abs/2408.15242)|**[link](https://github.com/sainingzhang/uc-gs)**|
+|**2024-08-27**|**Learning-based Multi-View Stereo: A Survey**|Fangjinhua Wang et.al.|[2408.15235](http://arxiv.org/abs/2408.15235)|null|
+|**2024-08-27**|**Robo-GS: A Physics Consistent Spatial-Temporal Model for Robotic Arm with Hybrid Representation**|Haozhe Lou et.al.|[2408.14873](http://arxiv.org/abs/2408.14873)|null|
+|**2024-08-27**|**LapisGS: Layered Progressive 3D Gaussian Splatting for Adaptive Streaming**|Yuang Shi et.al.|[2408.14823](http://arxiv.org/abs/2408.14823)|null|
 |**2024-08-26**|**Avatar Concept Slider: Manipulate Concepts In Your Human Avatar With Fine-grained Control**|Yixuan He et.al.|[2408.13995](http://arxiv.org/abs/2408.13995)|null|
 |**2024-08-26**|**DynaSurfGS: Dynamic Surface Reconstruction with Planar-based Gaussian Splatting**|Weiwei Cai et.al.|[2408.13972](http://arxiv.org/abs/2408.13972)|**[link](https://github.com/open3dvlab/dynasurfgs)**|
 |**2024-08-25**|**Splatt3R: Zero-shot Gaussian Splatting from Uncalibarated Image Pairs**|Brandon Smart et.al.|[2408.13912](http://arxiv.org/abs/2408.13912)|null|
@@ -384,7 +388,7 @@
 |**2024-07-19**|**DirectL: Efficient Radiance Fields Rendering for 3D Light Field Displays**|Zongyuan Yang et.al.|[2407.14053](http://arxiv.org/abs/2407.14053)|null|
 |**2024-07-20**|**Connecting Consistency Distillation to Score Distillation for Text-to-3D Generation**|Zongrui Li et.al.|[2407.13584](http://arxiv.org/abs/2407.13584)|**[link](https://github.com/LMozart/ECCV2024-GCS-BEG)**|
 |**2024-07-18**|**EaDeblur-GS: Event assisted 3D Deblur Reconstruction with Gaussian Splatting**|Yuchen Weng et.al.|[2407.13520](http://arxiv.org/abs/2407.13520)|null|
-|**2024-07-17**|**Generalizable Human Gaussians for Sparse View Synthesis**|Youngjoong Kwon et.al.|[2407.12777](http://arxiv.org/abs/2407.12777)|null|
+|**2024-07-17**|**Generalizable Human Gaussians for Sparse View Synthesis**|Youngjoong Kwon et.al.|[2407.12777](http://arxiv.org/abs/2407.12777)|**[link](https://github.com/humansensinglab/Generalizable-Human-Gaussians)**|
 |**2024-07-17**|**Splatfacto-W: A Nerfstudio Implementation of Gaussian Splatting for Unconstrained Photo Collections**|Congrong Xu et.al.|[2407.12306](http://arxiv.org/abs/2407.12306)|null|
 |**2024-07-16**|**MVG-Splatting: Multi-View Guided Gaussian Splatting with Adaptive Quantile-Based Geometric Consistency Densification**|Zhuoxiao Li et.al.|[2407.11840](http://arxiv.org/abs/2407.11840)|null|
 |**2024-07-16**|**Click-Gaussian: Interactive Segmentation to Any 3D Gaussians**|Seokhun Choi et.al.|[2407.11793](http://arxiv.org/abs/2407.11793)|null|
@@ -393,10 +397,6 @@
 |**2024-07-16**|**Ev-GS: Event-based Gaussian splatting for Efficient and Accurate Radiance Field Rendering**|Jingqian Wu et.al.|[2407.11343](http://arxiv.org/abs/2407.11343)|null|
 |**2024-07-16**|**Gaussian Splatting LK**|Liuyue Xie et.al.|[2407.11309](http://arxiv.org/abs/2407.11309)|null|
 |**2024-07-15**|**iHuman: Instant Animatable Digital Humans From Monocular Videos**|Pramish Paudel et.al.|[2407.11174](http://arxiv.org/abs/2407.11174)|**[link](https://github.com/pramishp/ihuman)**|
-|**2024-07-15**|**Scaling 3D Reasoning with LMMs to Large Robot Mission Environments Using Datagraphs**|W. J. Meijer et.al.|[2407.10743](http://arxiv.org/abs/2407.10743)|null|
-|**2024-07-15**|**Interactive Rendering of Relightable and Animatable Gaussian Avatars**|Youyi Zhan et.al.|[2407.10707](http://arxiv.org/abs/2407.10707)|null|
-|**2024-07-16**|**RecGS: Removing Water Caustic with Recurrent Gaussian Splatting**|Tianyi Zhang et.al.|[2407.10318](http://arxiv.org/abs/2407.10318)|null|
-|**2024-07-14**|**3DEgo: 3D Editing on the Go!**|Umar Khalid et.al.|[2407.10102](http://arxiv.org/abs/2407.10102)|null|
 |**2024-02-20**|**GaussianObject: Just Taking Four Images to Get A High-Quality 3D Object with Gaussian Splatting**|Chen Yang et.al.|[2402.10259](http://arxiv.org/abs/2402.10259)|**[link](https://github.com/GaussianObject/GaussianObject)**|
 |**2024-02-15**|**GES: Generalized Exponential Splatting for Efficient Radiance Field Rendering**|Abdullah Hamdi et.al.|[2402.10128](http://arxiv.org/abs/2402.10128)|null|
 |**2024-02-13**|**IM-3D: Iterative Multiview Diffusion and Reconstruction for High-Quality 3D Generation**|Luke Melas-Kyriazi et.al.|[2402.08682](http://arxiv.org/abs/2402.08682)|null|
@@ -1134,6 +1134,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-27**|**Learning-based Multi-View Stereo: A Survey**|Fangjinhua Wang et.al.|[2408.15235](http://arxiv.org/abs/2408.15235)|null|
+|**2024-08-27**|**GeoTransfer : Generalizable Few-Shot Multi-View Reconstruction via Transfer Learning**|Shubhendu Jena et.al.|[2408.14724](http://arxiv.org/abs/2408.14724)|null|
 |**2024-08-26**|**FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry**|Chunran Zheng et.al.|[2408.14035](http://arxiv.org/abs/2408.14035)|**[link](https://github.com/hku-mars/fast-livo2)**|
 |**2024-08-25**|**TranSplat: Generalizable 3D Gaussian Splatting from Sparse Multi-View Images with Transformers**|Chuanrui Zhang et.al.|[2408.13770](http://arxiv.org/abs/2408.13770)|null|
 |**2024-08-24**|**G3DST: Generalizing 3D Style Transfer with Neural Radiance Fields across Scenes and Styles**|Adil Meric et.al.|[2408.13508](http://arxiv.org/abs/2408.13508)|null|
@@ -1191,7 +1193,7 @@
 |**2024-07-18**|**EaDeblur-GS: Event assisted 3D Deblur Reconstruction with Gaussian Splatting**|Yuchen Weng et.al.|[2407.13520](http://arxiv.org/abs/2407.13520)|null|
 |**2024-07-18**|**GeometrySticker: Enabling Ownership Claim of Recolorized Neural Radiance Fields**|Xiufeng Huang et.al.|[2407.13390](http://arxiv.org/abs/2407.13390)|null|
 |**2024-07-18**|**KFD-NeRF: Rethinking Dynamic NeRF with Kalman Filter**|Yifan Zhan et.al.|[2407.13185](http://arxiv.org/abs/2407.13185)|null|
-|**2024-07-17**|**Generalizable Human Gaussians for Sparse View Synthesis**|Youngjoong Kwon et.al.|[2407.12777](http://arxiv.org/abs/2407.12777)|null|
+|**2024-07-17**|**Generalizable Human Gaussians for Sparse View Synthesis**|Youngjoong Kwon et.al.|[2407.12777](http://arxiv.org/abs/2407.12777)|**[link](https://github.com/humansensinglab/Generalizable-Human-Gaussians)**|
 |**2024-07-17**|**SG-NeRF: Neural Surface Reconstruction with Scene Graph Optimization**|Yiyang Chen et.al.|[2407.12667](http://arxiv.org/abs/2407.12667)|**[link](https://github.com/iris-cyy/sg-nerf)**|
 |**2024-07-17**|**InfoNorm: Mutual Information Shaping of Normals for Sparse-View Reconstruction**|Xulong Wang et.al.|[2407.12661](http://arxiv.org/abs/2407.12661)|**[link](https://github.com/muliphein/infonorm)**|
 |**2024-07-17**|**Invertible Neural Warp for NeRF**|Shin-Fang Chng et.al.|[2407.12354](http://arxiv.org/abs/2407.12354)|null|
@@ -1212,8 +1214,6 @@
 |**2024-08-03**|**HPC: Hierarchical Progressive Coding Framework for Volumetric Video**|Zihan Zheng et.al.|[2407.09026](http://arxiv.org/abs/2407.09026)|null|
 |**2024-07-11**|**Feasibility of Neural Radiance Fields for Crime Scene Video Reconstruction**|Shariq Nadeem Malik et.al.|[2407.08795](http://arxiv.org/abs/2407.08795)|null|
 |**2024-07-11**|**WildGaussians: 3D Gaussian Splatting in the Wild**|Jonas Kulhanek et.al.|[2407.08447](http://arxiv.org/abs/2407.08447)|null|
-|**2024-07-11**|**MeshAvatar: Learning High-quality Triangular Human Avatars from Multi-view Videos**|Yushuo Chen et.al.|[2407.08414](http://arxiv.org/abs/2407.08414)|**[link](https://github.com/shad0wta9/meshavatar)**|
-|**2024-07-18**|**Explicit-NeRF-QA: A Quality Assessment Database for Explicit NeRF Model Compression**|Yuke Xing et.al.|[2407.08165](http://arxiv.org/abs/2407.08165)|null|
 |**2024-02-19**|**Binary Opacity Grids: Capturing Fine Geometric Detail for Mesh-Based View Synthesis**|Christian Reiser et.al.|[2402.12377](http://arxiv.org/abs/2402.12377)|null|
 |**2024-02-19**|**Colorizing Monochromatic Radiance Fields**|Yean Cheng et.al.|[2402.12184](http://arxiv.org/abs/2402.12184)|null|
 |**2024-02-17**|**Semantically-aware Neural Radiance Fields for Visual Scene Understanding: A Comprehensive Review**|Thang-Anh-Quan Nguyen et.al.|[2402.11141](http://arxiv.org/abs/2402.11141)|null|
@@ -1301,6 +1301,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-27**|**LapisGS: Layered Progressive 3D Gaussian Splatting for Adaptive Streaming**|Yuang Shi et.al.|[2408.14823](http://arxiv.org/abs/2408.14823)|null|
 |**2024-08-24**|**AdaOcc: Adaptive-Resolution Occupancy Prediction**|Chao Chen et.al.|[2408.13454](http://arxiv.org/abs/2408.13454)|null|
 |**2024-08-21**|**Semi-supervised 3D Semantic Scene Completion with 2D Vision Foundation Model Guidance**|Duc-Hai Pham et.al.|[2408.11559](http://arxiv.org/abs/2408.11559)|null|
 |**2024-08-21**|**MambaOcc: Visual State Space Model for BEV-based Occupancy Prediction with Local Adaptive Reordering**|Yonglin Tian et.al.|[2408.11464](http://arxiv.org/abs/2408.11464)|null|
@@ -1380,7 +1381,6 @@
 |**2024-07-10**|**OccFusion: Depth Estimation Free Multi-sensor Fusion for 3D Occupancy Prediction**|Ji Zhang et.al.|[2403.05329](http://arxiv.org/abs/2403.05329)|null|
 |**2024-03-07**|**Real-Time Planning Under Uncertainty for AUVs Using Virtual Maps**|Ivana Collado-Gonzalez et.al.|[2403.04936](http://arxiv.org/abs/2403.04936)|null|
 |**2024-03-07**|**Control-Barrier-Aided Teleoperation with Visual-Inertial SLAM for Safe MAV Navigation in Complex Environments**|Siqi Zhou et.al.|[2403.04331](http://arxiv.org/abs/2403.04331)|null|
-|**2024-03-05**|**A Safety-Critical Framework for UGVs in Complex Environments: A Data-Driven Discrepancy-Aware Approach**|Skylar X. Wei et.al.|[2403.03215](http://arxiv.org/abs/2403.03215)|null|
 |**2024-02-19**|**SDGE: Stereo Guided Depth Estimation for 360° Camera Sets**|Jialei Xu et.al.|[2402.11791](http://arxiv.org/abs/2402.11791)|null|
 |**2024-02-12**|**Collaborative Semantic Occupancy Prediction with Hybrid Feature Fusion in Connected Automated Vehicles**|Rui Song et.al.|[2402.07635](http://arxiv.org/abs/2402.07635)|null|
 |**2024-02-04**|**Hybrid-Prediction Integrated Planning for Autonomous Driving**|Haochen Liu et.al.|[2402.02426](http://arxiv.org/abs/2402.02426)|null|
