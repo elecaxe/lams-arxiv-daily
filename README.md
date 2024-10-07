@@ -162,6 +162,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-03**|**Recent developments in relativistic hydrodynamic fluctuations**|Gokce Basar et.al.|[2410.02866](http://arxiv.org/abs/2410.02866)|null|
 |**2024-09-26**|**MemFusionMap: Working Memory Fusion for Online Vectorized HD Map Construction**|Jingyu Song et.al.|[2409.18737](http://arxiv.org/abs/2409.18737)|null|
 |**2024-09-26**|**CASPFormer: Trajectory Prediction from BEV Images with Deformable Attention**|Harsh Yadav et.al.|[2409.17790](http://arxiv.org/abs/2409.17790)|null|
 |**2024-09-25**|**Real-World Data Inspired Interactive Connected Traffic Scenario Generation**|Junwei You et.al.|[2409.17429](http://arxiv.org/abs/2409.17429)|null|
@@ -241,7 +242,6 @@
 |**2024-03-20**|**GaussNav: Gaussian Splatting for Visual Navigation**|Xiaohan Lei et.al.|[2403.11625](http://arxiv.org/abs/2403.11625)|**[link](https://github.com/XiaohanLei/GaussNav)**|
 |**2024-07-17**|**SimPB: A Single Model for 2D and 3D Object Detection from Multiple Cameras**|Yingqi Tang et.al.|[2403.10353](http://arxiv.org/abs/2403.10353)|**[link](https://github.com/nullmax-vision/simpb)**|
 |**2024-03-13**|**CLIP-BEVFormer: Enhancing Multi-View Image-Based BEV Detector with Ground Truth Flow**|Chenbin Pan et.al.|[2403.08919](http://arxiv.org/abs/2403.08919)|null|
-|**2024-06-06**|**Unleashing HyDRa: Hybrid Fusion, Depth Consistency and Radar for Unified 3D Perception**|Philipp Wolters et.al.|[2403.07746](http://arxiv.org/abs/2403.07746)|**[link](https://github.com/phi-wol/hydra)**|
 |**2024-02-16**|**GIM: Learning Generalizable Image Matcher From Internet Videos**|Xuelun Shen et.al.|[2402.11095](http://arxiv.org/abs/2402.11095)|null|
 |**2024-02-12**|**Collaborative Semantic Occupancy Prediction with Hybrid Feature Fusion in Connected Automated Vehicles**|Rui Song et.al.|[2402.07635](http://arxiv.org/abs/2402.07635)|null|
 |**2024-02-11**|**Social Evolution of Published Text and The Emergence of Artificial Intelligence Through Large Language Models and The Problem of Toxicity and Bias**|Arifa Khan et.al.|[2402.07166](http://arxiv.org/abs/2402.07166)|null|
@@ -329,6 +329,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-04**|**Variational Bayes Gaussian Splatting**|Toon Van de Maele et.al.|[2410.03592](http://arxiv.org/abs/2410.03592)|**[link](https://github.com/versestech/vbgs)**|
 |**2024-10-03**|**Flash-Splat: 3D Reflection Removal with Flash Cues and Gaussian Splats**|Mingyang Xie et.al.|[2410.02764](http://arxiv.org/abs/2410.02764)|null|
 |**2024-10-03**|**GI-GS: Global Illumination Decomposition on Gaussian Splatting for Inverse Rendering**|Hongze Chen et.al.|[2410.02619](http://arxiv.org/abs/2410.02619)|null|
 |**2024-10-03**|**SuperGS: Super-Resolution 3D Gaussian Splatting via Latent Feature Field and Gradient-guided Splitting**|Shiyun Xie et.al.|[2410.02571](http://arxiv.org/abs/2410.02571)|null|
@@ -408,7 +409,6 @@
 |**2024-09-11**|**Hi3D: Pursuing High-Resolution Image-to-3D Generation with Video Diffusion Models**|Haibo Yang et.al.|[2409.07452](http://arxiv.org/abs/2409.07452)|**[link](https://github.com/yanghb22-fdu/hi3d-official)**|
 |**2024-09-30**|**Instant Facial Gaussians Translator for Relightable and Interactable Facial Rendering**|Dafei Qin et.al.|[2409.07441](http://arxiv.org/abs/2409.07441)|null|
 |**2024-09-11**|**Single-View 3D Reconstruction via SO(2)-Equivariant Gaussian Sculpting Networks**|Ruihan Xu et.al.|[2409.07245](http://arxiv.org/abs/2409.07245)|null|
-|**2024-09-11**|**ThermalGaussian: Thermal 3D Gaussian Splatting**|Rongfeng Lu et.al.|[2409.07200](http://arxiv.org/abs/2409.07200)|null|
 |**2024-02-20**|**GaussianObject: Just Taking Four Images to Get A High-Quality 3D Object with Gaussian Splatting**|Chen Yang et.al.|[2402.10259](http://arxiv.org/abs/2402.10259)|**[link](https://github.com/GaussianObject/GaussianObject)**|
 |**2024-02-15**|**GES: Generalized Exponential Splatting for Efficient Radiance Field Rendering**|Abdullah Hamdi et.al.|[2402.10128](http://arxiv.org/abs/2402.10128)|null|
 |**2024-02-13**|**IM-3D: Iterative Multiview Diffusion and Reconstruction for High-Quality 3D Generation**|Luke Melas-Kyriazi et.al.|[2402.08682](http://arxiv.org/abs/2402.08682)|null|
@@ -496,6 +496,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-03**|**LiDAR Inertial Odometry And Mapping Using Learned Registration-Relevant Features**|Zihao Dong et.al.|[2410.02961](http://arxiv.org/abs/2410.02961)|null|
 |**2023-09-21**|**Human Following in Mobile Platforms with Person Re-Identification**|Mario Srouji et.al.|[2309.12479](http://arxiv.org/abs/2309.12479)|null|
 |**2023-10-22**|**SEM-GAT: Explainable Semantic Pose Estimation using Learned Graph Attention**|Efimia Panagiotaki et.al.|[2308.03718](http://arxiv.org/abs/2308.03718)|**[link](https://github.com/cognitive-robots/sem-gat)**|
 |**2023-06-01**|**A Probabilistic Relaxation of the Two-Stage Object Pose Estimation Paradigm**|Onur Beker et.al.|[2306.00892](http://arxiv.org/abs/2306.00892)|null|
@@ -1345,6 +1346,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-04**|**Enhancing Autonomous Navigation by Imaging Hidden Objects using Single-Photon LiDAR**|Aaron Young et.al.|[2410.03555](http://arxiv.org/abs/2410.03555)|null|
 |**2024-10-01**|**SyntheOcc: Synthesize Geometric-Controlled Street View Images through 3D Semantic MPIs**|Leheng Li et.al.|[2410.00337](http://arxiv.org/abs/2410.00337)|null|
 |**2024-10-01**|**OccRWKV: Rethinking Efficient 3D Semantic Occupancy Prediction with Linear Complexity**|Junming Wang et.al.|[2409.19987](http://arxiv.org/abs/2409.19987)|null|
 |**2024-09-30**|**DAOcc: 3D Object Detection Assisted Multi-Sensor Fusion for 3D Occupancy Prediction**|Zhen Yang et.al.|[2409.19972](http://arxiv.org/abs/2409.19972)|**[link](https://github.com/alphaplustt/daocc)**|
@@ -1424,7 +1426,6 @@
 |**2024-04-07**|**Multi-Type Map Construction via Semantics-Aware Autonomous Exploration in Unknown Indoor Environments**|Jianfang Mao et.al.|[2404.04879](http://arxiv.org/abs/2404.04879)|null|
 |**2024-05-22**|**Co-Occ: Coupling Explicit Feature Fusion with Volume Rendering Regularization for Multi-Modal 3D Semantic Occupancy Prediction**|Jingyi Pan et.al.|[2404.04561](http://arxiv.org/abs/2404.04561)|null|
 |**2024-06-18**|**Under-Canopy Navigation using Aerial Lidar Maps**|Lucas Carvalho de Lima et.al.|[2404.03911](http://arxiv.org/abs/2404.03911)|null|
-|**2024-04-02**|**OFMPNet: Deep End-to-End Model for Occupancy and Flow Prediction in Urban Environment**|Youshaa Murhij et.al.|[2404.02263](http://arxiv.org/abs/2404.02263)|**[link](https://github.com/youshaamurhij/ofmpnet)**|
 |**2024-02-19**|**SDGE: Stereo Guided Depth Estimation for 360° Camera Sets**|Jialei Xu et.al.|[2402.11791](http://arxiv.org/abs/2402.11791)|null|
 |**2024-02-12**|**Collaborative Semantic Occupancy Prediction with Hybrid Feature Fusion in Connected Automated Vehicles**|Rui Song et.al.|[2402.07635](http://arxiv.org/abs/2402.07635)|null|
 |**2024-02-04**|**Hybrid-Prediction Integrated Planning for Autonomous Driving**|Haochen Liu et.al.|[2402.02426](http://arxiv.org/abs/2402.02426)|null|
