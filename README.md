@@ -174,6 +174,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-10**|**Fast Occupancy Network**|Mingjie Lu et.al.|[2412.07163](http://arxiv.org/abs/2412.07163)|null|
 |**2024-12-02**|**Epipolar Attention Field Transformers for Bird's Eye View Semantic Segmentation**|Christian Witte et.al.|[2412.01595](http://arxiv.org/abs/2412.01595)|null|
 |**2024-11-29**|**SpaRC: Sparse Radar-Camera Fusion for 3D Object Detection**|Philipp Wolters et.al.|[2411.19860](http://arxiv.org/abs/2411.19860)|null|
 |**2024-11-22**|**LiDAR-based End-to-end Temporal Perception for Vehicle-Infrastructure Cooperation**|Zhenwei Yang et.al.|[2411.14927](http://arxiv.org/abs/2411.14927)|null|
@@ -251,7 +252,6 @@
 |**2024-05-25**|**Improving 3D Occupancy Prediction through Class-balancing Loss and Multi-scale Representation**|Huizhou Chen et.al.|[2405.16099](http://arxiv.org/abs/2405.16099)|null|
 |**2024-05-23**|**Drones Help Drones: A Collaborative Framework for Multi-Drone Object Trajectory Prediction and Beyond**|Zhechao Wang et.al.|[2405.14674](http://arxiv.org/abs/2405.14674)|**[link](https://github.com/wangzcbruce/dhd)**|
 |**2024-07-04**|**RoScenes: A Large-scale Multi-view 3D Dataset for Roadside Perception**|Xiaosu Zhu et.al.|[2405.09883](http://arxiv.org/abs/2405.09883)|**[link](https://github.com/xiaosu-zhu/roscenes)**|
-|**2024-05-14**|**BEVRender: Vision-based Cross-view Vehicle Registration in Off-road GNSS-denied Environment**|Lihong Jin et.al.|[2405.09001](http://arxiv.org/abs/2405.09001)|null|
 |**2024-05-14**|**TEDNet: Twin Encoder Decoder Neural Network for 2D Camera and LiDAR Road Detection**|Martín Bayón-Gutiérrez et.al.|[2405.08429](http://arxiv.org/abs/2405.08429)|**[link](https://github.com/martin-bayon/tednet)**|
 |**2024-08-22**|**Addressing Diverging Training Costs using BEVRestore for High-resolution Bird's Eye View Map Construction**|Minsu Kim et.al.|[2405.01016](http://arxiv.org/abs/2405.01016)|null|
 |**2024-02-16**|**GIM: Learning Generalizable Image Matcher From Internet Videos**|Xuelun Shen et.al.|[2402.11095](http://arxiv.org/abs/2402.11095)|null|
@@ -341,6 +341,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-10**|**GASP: Gaussian Avatars with Synthetic Priors**|Jack Saunders et.al.|[2412.07739](http://arxiv.org/abs/2412.07739)|null|
+|**2024-12-10**|**Proc-GS: Procedural Building Generation for City Assembly with 3D Gaussians**|Yixuan Li et.al.|[2412.07660](http://arxiv.org/abs/2412.07660)|null|
+|**2024-12-10**|**Faster and Better 3D Splatting via Group Training**|Chengbo Wang et.al.|[2412.07608](http://arxiv.org/abs/2412.07608)|null|
+|**2024-12-10**|**ResGS: Residual Densification of 3D Gaussian for Efficient Detail Recovery**|Yanzhe Lyu et.al.|[2412.07494](http://arxiv.org/abs/2412.07494)|null|
+|**2024-12-10**|**EventSplat: 3D Gaussian Splatting from Moving Event Cameras for Real-time Rendering**|Toshiya Yura et.al.|[2412.07293](http://arxiv.org/abs/2412.07293)|null|
+|**2024-12-09**|**MV-DUSt3R+: Single-Stage Scene Reconstruction from Sparse Views In 2 Seconds**|Zhenggang Tang et.al.|[2412.06974](http://arxiv.org/abs/2412.06974)|null|
 |**2024-12-09**|**Deblur4DGS: 4D Gaussian Splatting from Blurry Monocular Video**|Renlong Wu et.al.|[2412.06424](http://arxiv.org/abs/2412.06424)|null|
 |**2024-12-09**|**4D Gaussian Splatting with Scale-aware Residual Field and Adaptive Optimization for Real-time Rendering of Temporally Complex Dynamic Scenes**|Jinbo Yan et.al.|[2412.06299](http://arxiv.org/abs/2412.06299)|null|
 |**2024-12-09**|**Advancing Extended Reality with 3D Gaussian Splatting: Innovations and Prospects**|Shi Qiu et.al.|[2412.06257](http://arxiv.org/abs/2412.06257)|null|
@@ -353,7 +359,7 @@
 |**2024-12-07**|**Template-free Articulated Gaussian Splatting for Real-time Reposable Dynamic View Synthesis**|Diwen Wan et.al.|[2412.05570](http://arxiv.org/abs/2412.05570)|null|
 |**2024-12-07**|**Text-to-3D Gaussian Splatting with Physics-Grounded Motion Generation**|Wenqing Wang et.al.|[2412.05560](http://arxiv.org/abs/2412.05560)|null|
 |**2024-12-07**|**Radiant: Large-scale 3D Gaussian Rendering based on Hierarchical Framework**|Haosong Peng et.al.|[2412.05546](http://arxiv.org/abs/2412.05546)|null|
-|**2024-12-06**|**Extrapolated Urban View Synthesis Benchmark**|Xiangyu Han et.al.|[2412.05256](http://arxiv.org/abs/2412.05256)|**[link](https://github.com/ai4ce/EUVS-Benchmark)**|
+|**2024-12-10**|**Extrapolated Urban View Synthesis Benchmark**|Xiangyu Han et.al.|[2412.05256](http://arxiv.org/abs/2412.05256)|**[link](https://github.com/ai4ce/EUVS-Benchmark)**|
 |**2024-12-06**|**MixedGaussianAvatar: Realistically and Geometrically Accurate Head Avatar via Mixed 2D-3D Gaussian Splatting**|Peng Chen et.al.|[2412.04955](http://arxiv.org/abs/2412.04955)|**[link](https://github.com/chenvoid/mga)**|
 |**2024-12-06**|**Momentum-GS: Momentum Gaussian Self-Distillation for High-Quality Large Scene Reconstruction**|Jixuan Fan et.al.|[2412.04887](http://arxiv.org/abs/2412.04887)|**[link](https://github.com/Jixuan-Fan/Momentum-GS)**|
 |**2024-12-06**|**WRF-GS: Wireless Radiation Field Reconstruction with 3D Gaussian Splatting**|Chaozheng Wen et.al.|[2412.04832](http://arxiv.org/abs/2412.04832)|null|
@@ -365,7 +371,7 @@
 |**2024-12-06**|**PBDyG: Position Based Dynamic Gaussians for Motion-Aware Clothed Human Avatars**|Shota Sasaki et.al.|[2412.04433](http://arxiv.org/abs/2412.04433)|null|
 |**2024-12-05**|**Multi-View Pose-Agnostic Change Localization with Zero Labels**|Chamuditha Jayanga Galappaththige et.al.|[2412.03911](http://arxiv.org/abs/2412.03911)|**[link](https://github.com/Chumsy0725/PASLCD)**|
 |**2024-12-05**|**DGNS: Deformable Gaussian Splatting and Dynamic Neural Surface for Monocular Dynamic 3D Reconstruction**|Xuesong Li et.al.|[2412.03910](http://arxiv.org/abs/2412.03910)|null|
-|**2024-12-05**|**HybridGS: Decoupling Transients and Statics with 2D and 3D Gaussian Splatting**|Jingyu Lin et.al.|[2412.03844](http://arxiv.org/abs/2412.03844)|null|
+|**2024-12-10**|**HybridGS: Decoupling Transients and Statics with 2D and 3D Gaussian Splatting**|Jingyu Lin et.al.|[2412.03844](http://arxiv.org/abs/2412.03844)|null|
 |**2024-12-04**|**Feed-Forward Bullet-Time Reconstruction of Dynamic Scenes from Monocular Videos**|Hanxue Liang et.al.|[2412.03526](http://arxiv.org/abs/2412.03526)|null|
 |**2024-12-04**|**Dense Scene Reconstruction from Light-Field Images Affected by Rolling Shutter**|Hermes McGriff et.al.|[2412.03518](http://arxiv.org/abs/2412.03518)|null|
 |**2024-12-04**|**Urban4D: Semantic-Guided 4D Gaussian Splatting for Urban Scene Reconstruction**|Ziwen Li et.al.|[2412.03473](http://arxiv.org/abs/2412.03473)|null|
@@ -410,17 +416,11 @@
 |**2024-11-30**|**LineGS : 3D Line Segment Representation on 3D Gaussian Splatting**|Chenggang Yang et.al.|[2412.00477](http://arxiv.org/abs/2412.00477)|null|
 |**2024-11-30**|**GradiSeg: Gradient-Guided Gaussian Segmentation with Enhanced 3D Boundary Precision**|Zehao Li et.al.|[2412.00392](http://arxiv.org/abs/2412.00392)|null|
 |**2024-12-05**|**Gaussians on their Way: Wasserstein-Constrained 4D Gaussian Splatting with State-Space Modeling**|Junli Deng et.al.|[2412.00333](http://arxiv.org/abs/2412.00333)|null|
-|**2024-11-29**|**T-3DGS: Removing Transient Objects for 3D Scene Reconstruction**|Vadim Pryadilshchikov et.al.|[2412.00155](http://arxiv.org/abs/2412.00155)|null|
 |**2024-12-02**|**GuardSplat: Efficient and Robust Watermarking for 3D Gaussian Splatting**|Zixuan Chen et.al.|[2411.19895](http://arxiv.org/abs/2411.19895)|**[link](https://github.com/narcissusex/guardsplat)**|
 |**2024-11-29**|**DeSplat: Decomposed Gaussian Splatting for Distractor-Free Rendering**|Yihao Wang et.al.|[2411.19756](http://arxiv.org/abs/2411.19756)|null|
 |**2024-11-29**|**TexGaussian: Generating High-quality PBR Material via Octree-based 3D Gaussian Splatting**|Bojun Xiong et.al.|[2411.19654](http://arxiv.org/abs/2411.19654)|null|
 |**2024-11-29**|**Tortho-Gaussian: Splatting True Digital Orthophoto Maps**|Xin Wang et.al.|[2411.19594](http://arxiv.org/abs/2411.19594)|null|
 |**2024-11-29**|**Gaussian Splashing: Direct Volumetric Rendering Underwater**|Nir Mualem et.al.|[2411.19588](http://arxiv.org/abs/2411.19588)|null|
-|**2024-11-29**|**Bootstraping Clustering of Gaussians for View-consistent 3D Scene Understanding**|Wenbo Zhang et.al.|[2411.19551](http://arxiv.org/abs/2411.19551)|null|
-|**2024-12-02**|**GausSurf: Geometry-Guided 3D Gaussian Splatting for Surface Reconstruction**|Jiepeng Wang et.al.|[2411.19454](http://arxiv.org/abs/2411.19454)|null|
-|**2024-11-29**|**RF-3DGS: Wireless Channel Modeling with Radio Radiance Field and 3D Gaussian Splatting**|Lihao Zhang et.al.|[2411.19420](http://arxiv.org/abs/2411.19420)|null|
-|**2024-11-28**|**SADG: Segment Any Dynamic Gaussian Without Object Trackers**|Yun-Jin Li et.al.|[2411.19290](http://arxiv.org/abs/2411.19290)|**[link](https://github.com/yunjinli/SADG-SegmentAnyDynamicGaussian)**|
-|**2024-11-28**|**AGS-Mesh: Adaptive Gaussian Splatting and Meshing with Geometric Priors for Indoor Room Reconstruction Using Smartphones**|Xuqian Ren et.al.|[2411.19271](http://arxiv.org/abs/2411.19271)|null|
 |**2024-02-20**|**GaussianObject: Just Taking Four Images to Get A High-Quality 3D Object with Gaussian Splatting**|Chen Yang et.al.|[2402.10259](http://arxiv.org/abs/2402.10259)|**[link](https://github.com/GaussianObject/GaussianObject)**|
 |**2024-02-15**|**GES: Generalized Exponential Splatting for Efficient Radiance Field Rendering**|Abdullah Hamdi et.al.|[2402.10128](http://arxiv.org/abs/2402.10128)|null|
 |**2024-02-13**|**IM-3D: Iterative Multiview Diffusion and Reconstruction for High-Quality 3D Generation**|Luke Melas-Kyriazi et.al.|[2402.08682](http://arxiv.org/abs/2402.08682)|null|
@@ -530,9 +530,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-10**|**On Motion Blur and Deblurring in Visual Place Recognition**|Timur Ismagilov et.al.|[2412.07751](http://arxiv.org/abs/2412.07751)|null|
 |**2024-12-09**|**An Efficient Scene Coordinate Encoding and Relocalization Method**|Kuan Xu et.al.|[2412.06488](http://arxiv.org/abs/2412.06488)|null|
 |**2024-12-09**|**A Hyperdimensional One Place Signature to Represent Them All: Stackable Descriptors For Visual Place Recognition**|Connor Malone et.al.|[2412.06153](http://arxiv.org/abs/2412.06153)|null|
-|**2024-12-05**|**MOANA: Multi-Radar Dataset for Maritime Odometry and Autonomous Navigation Application**|Hyesu Jang et.al.|[2412.03887](http://arxiv.org/abs/2412.03887)|null|
+|**2024-12-10**|**MOANA: Multi-Radar Dataset for Maritime Odometry and Autonomous Navigation Application**|Hyesu Jang et.al.|[2412.03887](http://arxiv.org/abs/2412.03887)|null|
 |**2024-12-04**|**Distillation of Diffusion Features for Semantic Correspondence**|Frank Fundel et.al.|[2412.03512](http://arxiv.org/abs/2412.03512)|null|
 |**2024-12-03**|**A Minimalistic 3D Self-Organized UAV Flocking Approach for Desert Exploration**|Thulio Amorim et.al.|[2412.02881](http://arxiv.org/abs/2412.02881)|null|
 |**2024-12-02**|**Mutli-View 3D Reconstruction using Knowledge Distillation**|Aditya Dutt et.al.|[2412.02039](http://arxiv.org/abs/2412.02039)|**[link](https://github.com/ishikaalunawat/231aproj)**|
@@ -609,7 +610,6 @@
 |**2024-07-30**|**Re-localization acceleration with Medoid Silhouette Clustering**|Hongyi Zhang et.al.|[2407.20749](http://arxiv.org/abs/2407.20749)|null|
 |**2024-07-29**|**A flexible framework for accurate LiDAR odometry, map manipulation, and localization**|José Luis Blanco-Claraco et.al.|[2407.20465](http://arxiv.org/abs/2407.20465)|**[link](https://github.com/molaorg/mola)**|
 |**2024-07-28**|**Solving Short-Term Relocalization Problems In Monocular Keyframe Visual SLAM Using Spatial And Semantic Data**|Azmyin Md. Kamal et.al.|[2407.19518](http://arxiv.org/abs/2407.19518)|null|
-|**2024-07-26**|**From 2D to 3D: AISG-SLA Visual Localization Challenge**|Jialin Gao et.al.|[2407.18590](http://arxiv.org/abs/2407.18590)|null|
 |**2024-02-19**|**CoLRIO: LiDAR-Ranging-Inertial Centralized State Estimation for Robotic Swarms**|Shipeng Zhong et.al.|[2402.11790](http://arxiv.org/abs/2402.11790)|null|
 |**2024-02-16**|**Spike-EVPR: Deep Spiking Residual Network with Cross-Representation Aggregation for Event-Based Visual Place Recognition**|Chenming Hu et.al.|[2402.10476](http://arxiv.org/abs/2402.10476)|null|
 |**2024-02-14**|**Loopy-SLAM: Dense Neural SLAM with Loop Closures**|Lorenzo Liso et.al.|[2402.09944](http://arxiv.org/abs/2402.09944)|null|
@@ -1009,6 +1009,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-10**|**Deep Non-rigid Structure-from-Motion Revisited: Canonicalization and Sequence Modeling**|Hui Deng et.al.|[2412.07230](http://arxiv.org/abs/2412.07230)|null|
 |**2024-12-08**|**Doppelgangers++: Improved Visual Disambiguation with Geometric 3D Features**|Yuanbo Xiangli et.al.|[2412.05826](http://arxiv.org/abs/2412.05826)|null|
 |**2024-12-06**|**MegaSaM: Accurate, Fast, and Robust Structure and Motion from Casual Dynamic Videos**|Zhengqi Li et.al.|[2412.04463](http://arxiv.org/abs/2412.04463)|null|
 |**2024-12-02**|**SfM-Free 3D Gaussian Splatting via Hierarchical Training**|Bo Ji et.al.|[2412.01553](http://arxiv.org/abs/2412.01553)|**[link](https://github.com/jibo27/3dgs_hierarchical_training)**|
@@ -1085,10 +1086,9 @@
 |**2024-05-29**|**Neural Radiance Fields for Novel View Synthesis in Monocular Gastroscopy**|Zijie Jiang et.al.|[2405.18863](http://arxiv.org/abs/2405.18863)|null|
 |**2024-09-18**|**3D Reconstruction with Fast Dipole Sums**|Hanyu Chen et.al.|[2405.16788](http://arxiv.org/abs/2405.16788)|null|
 |**2024-05-26**|**MCGMapper: Light-Weight Incremental Structure from Motion and Visual Localization With Planar Markers and Camera Groups**|Yusen Xie et.al.|[2405.16599](http://arxiv.org/abs/2405.16599)|null|
+|**2024-12-10**|**Toon3D: Seeing Cartoons from New Perspectives**|Ethan Weber et.al.|[2405.10320](http://arxiv.org/abs/2405.10320)|null|
 |**2024-08-13**|**Power Variable Projection for Initialization-Free Large-Scale Bundle Adjustment**|Simon Weber et.al.|[2405.05079](http://arxiv.org/abs/2405.05079)|**[link](https://github.com/tum-vision/povar)**|
 |**2024-05-07**|**Novel View Synthesis with Neural Radiance Fields for Industrial Robot Applications**|Markus Hillemann et.al.|[2405.04345](http://arxiv.org/abs/2405.04345)|null|
-|**2024-06-24**|**Non-rigid Structure-from-Motion: Temporally-smooth Procrustean Alignment and Spatially-variant Deformation Modeling**|Jiawei Shi et.al.|[2405.04309](http://arxiv.org/abs/2405.04309)|null|
-|**2024-05-03**|**HoloGS: Instant Depth-based 3D Gaussian Splatting with Microsoft HoloLens 2**|Miriam Jäger et.al.|[2405.02005](http://arxiv.org/abs/2405.02005)|null|
 |**2024-02-18**|**A Robust Error-Resistant View Selection Method for 3D Reconstruction**|Shaojie Zhang et.al.|[2402.11431](http://arxiv.org/abs/2402.11431)|null|
 |**2024-02-17**|**Dense Matchers for Dense Tracking**|Tomáš Jelínek et.al.|[2402.11287](http://arxiv.org/abs/2402.11287)|null|
 |**2024-01-31**|**Local Feature Matching Using Deep Learning: A Survey**|Shibiao Xu et.al.|[2401.17592](http://arxiv.org/abs/2401.17592)|null|
@@ -1213,9 +1213,9 @@
 |**1997-07-02**|**A Derivation of Three-Dimensional Inertial Transformations**|Francois Goy et.al.|[gr-qc/9707004](http://arxiv.org/abs/gr-qc/9707004)|null|
 |**2003-01-21**|**Gravitation as Anholonomy**|R. Aldrovandi et.al.|[gr-qc/0301077](http://arxiv.org/abs/gr-qc/0301077)|null|
 |**2024-10-29**|**Inertial Transformations and the Nonexistence of Tachyons for Spacetime Dimension Greater than Two**|David Acton et.al.|[2410.22025](http://arxiv.org/abs/2410.22025)|null|
-|**2024-10-28**|**LiGAR: LiDAR-Guided Hierarchical Transformer for Multi-Modal Group Activity Recognition**|Naga Venkata Sai Raviteja Chappa et.al.|[2410.21108](http://arxiv.org/abs/2410.21108)|null|
+|**2024-12-10**|**LiGAR: LiDAR-Guided Hierarchical Transformer for Multi-Modal Group Activity Recognition**|Naga Venkata Sai Raviteja Chappa et.al.|[2410.21108](http://arxiv.org/abs/2410.21108)|null|
 |**2023-03-03**|**RIOT: Recursive Inertial Odometry Transformer for Localisation from Low-Cost IMU Measurements**|James Brotchie et.al.|[2303.01641](http://arxiv.org/abs/2303.01641)|null|
-|**2023-10-11**|**MMTSA: Multimodal Temporal Segment Attention Network for Efficient Human Activity Recognition**|Ziqi Gao et.al.|[2210.09222](http://arxiv.org/abs/2210.09222)|null|
+|**2023-10-11**|**MMTSA: Multimodal Temporal Segment Attention Network for Efficient Human Activity Recognition**|Ziqi Gao et.al.|[2210.09222](http://arxiv.org/abs/2210.09222)|**[link](https://github.com/thuhci/MMTSA)**|
 |**2022-12-08**|**Transformer Inertial Poser: Real-time Human Motion Reconstruction from Sparse IMUs with Simultaneous Terrain Generation**|Yifeng Jiang et.al.|[2203.15720](http://arxiv.org/abs/2203.15720)|**[link](https://github.com/jyf588/transformer-inertial-poser)**|
 |**2021-05-28**|**Inertial Sensor Data To Image Encoding For Human Action Recognition**|Zeeshan Ahmad et.al.|[2105.13533](http://arxiv.org/abs/2105.13533)|null|
 |**2021-03-17**|**Inertial based Integration with Transformed INS Mechanization in Earth Frame**|Lubin Chang et.al.|[2103.02229](http://arxiv.org/abs/2103.02229)|null|
@@ -1232,6 +1232,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-10**|**EventSplat: 3D Gaussian Splatting from Moving Event Cameras for Real-time Rendering**|Toshiya Yura et.al.|[2412.07293](http://arxiv.org/abs/2412.07293)|null|
+|**2024-12-09**|**Diffusing Differentiable Representations**|Yash Savani et.al.|[2412.06981](http://arxiv.org/abs/2412.06981)|null|
 |**2024-12-09**|**Dynamic EventNeRF: Reconstructing General Dynamic Scenes from Multi-view Event Cameras**|Viktor Rudnev et.al.|[2412.06770](http://arxiv.org/abs/2412.06770)|null|
 |**2024-12-09**|**Deblur4DGS: 4D Gaussian Splatting from Blurry Monocular Video**|Renlong Wu et.al.|[2412.06424](http://arxiv.org/abs/2412.06424)|null|
 |**2024-12-09**|**Splatter-360: Generalizable 360 $^{\circ}$ Gaussian Splatting for Wide-baseline Panoramic Images**|Zheng Chen et.al.|[2412.06250](http://arxiv.org/abs/2412.06250)|**[link](https://github.com/thucz/splatter360)**|
@@ -1310,8 +1312,6 @@
 |**2024-10-23**|**PLGS: Robust Panoptic Lifting with 3D Gaussian Splatting**|Yu Wang et.al.|[2410.17505](http://arxiv.org/abs/2410.17505)|null|
 |**2024-10-22**|**LVSM: A Large View Synthesis Model with Minimal 3D Inductive Bias**|Haian Jin et.al.|[2410.17242](http://arxiv.org/abs/2410.17242)|null|
 |**2024-10-22**|**E-3DGS: Gaussian Splatting with Exposure and Motion Events**|Xiaoting Yin et.al.|[2410.16995](http://arxiv.org/abs/2410.16995)|**[link](https://github.com/masterhow/e-3dgs)**|
-|**2024-10-21**|**Joker: Conditional 3D Head Synthesis with Extreme Facial Expressions**|Malte Prinzler et.al.|[2410.16395](http://arxiv.org/abs/2410.16395)|null|
-|**2024-10-21**|**FrugalNeRF: Fast Convergence for Few-shot Novel View Synthesis without Learned Priors**|Chin-Yang Lin et.al.|[2410.16271](http://arxiv.org/abs/2410.16271)|null|
 |**2024-02-19**|**Binary Opacity Grids: Capturing Fine Geometric Detail for Mesh-Based View Synthesis**|Christian Reiser et.al.|[2402.12377](http://arxiv.org/abs/2402.12377)|null|
 |**2024-02-19**|**Colorizing Monochromatic Radiance Fields**|Yean Cheng et.al.|[2402.12184](http://arxiv.org/abs/2402.12184)|null|
 |**2024-02-17**|**Semantically-aware Neural Radiance Fields for Visual Scene Understanding: A Comprehensive Review**|Thang-Anh-Quan Nguyen et.al.|[2402.11141](http://arxiv.org/abs/2402.11141)|null|
@@ -1399,6 +1399,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-10**|**PVP: Polar Representation Boost for 3D Semantic Occupancy Prediction**|Yujing Xue et.al.|[2412.07616](http://arxiv.org/abs/2412.07616)|null|
 |**2024-12-08**|**Lightweight Spatial Embedding for Vision-based 3D Occupancy Prediction**|Jinqing Zhang et.al.|[2412.05976](http://arxiv.org/abs/2412.05976)|null|
 |**2024-12-06**|**Towards Flexible 3D Perception: Object-Centric Occupancy Completion Augments 3D Object Detection**|Chaoda Zheng et.al.|[2412.05154](http://arxiv.org/abs/2412.05154)|**[link](https://github.com/ghostish/objectcentricocccompletion)**|
 |**2024-12-06**|**GaussianFormer-2: Probabilistic Gaussian Superposition for Efficient 3D Occupancy Prediction**|Yuanhui Huang et.al.|[2412.04384](http://arxiv.org/abs/2412.04384)|**[link](https://github.com/huang-yh/gaussianformer)**|
@@ -1478,7 +1479,6 @@
 |**2024-10-24**|**Panoptic-FlashOcc: An Efficient Baseline to Marry Semantic Occupancy with Panoptic via Instance Center**|Zichen Yu et.al.|[2406.10527](http://arxiv.org/abs/2406.10527)|**[link](https://github.com/Yzichen/FlashOCC)**|
 |**2024-06-13**|**Beyond the Frontier: Predicting Unseen Walls from Occupancy Grids by Learning from Floor Plans**|Ludvig Ericson et.al.|[2406.09160](http://arxiv.org/abs/2406.09160)|null|
 |**2024-06-12**|**UnO: Unsupervised Occupancy Fields for Perception and Forecasting**|Ben Agro et.al.|[2406.08691](http://arxiv.org/abs/2406.08691)|null|
-|**2024-07-21**|**Voxel Map to Occupancy Map Conversion Using Free Space Projection for Efficient Map Representation for Aerial and Ground Robots**|Scott Fredriksson et.al.|[2406.07270](http://arxiv.org/abs/2406.07270)|**[link](https://github.com/ltu-rai/map-conversion-3d-voxel-map-to-2d-occupancy-map)**|
 |**2024-02-19**|**SDGE: Stereo Guided Depth Estimation for 360° Camera Sets**|Jialei Xu et.al.|[2402.11791](http://arxiv.org/abs/2402.11791)|null|
 |**2024-02-12**|**Collaborative Semantic Occupancy Prediction with Hybrid Feature Fusion in Connected Automated Vehicles**|Rui Song et.al.|[2402.07635](http://arxiv.org/abs/2402.07635)|null|
 |**2024-02-04**|**Hybrid-Prediction Integrated Planning for Autonomous Driving**|Haochen Liu et.al.|[2402.02426](http://arxiv.org/abs/2402.02426)|null|
