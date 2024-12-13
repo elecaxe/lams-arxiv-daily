@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.12
+## Updated on 2024.12.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -168,7 +168,7 @@
 |**2022-11-01**|**Expansion of Visual Hints for Improved Generalization in Stereo Matching**|Andrea Pilzer et.al.|[2211.00392](http://arxiv.org/abs/2211.00392)|null|
 |**2022-10-28**|**A geometry method for LED mapping**|Junlin Huang et.al.|[2210.13031](http://arxiv.org/abs/2210.13031)|null|
 
-<p align=right>(<a href=#updated-on-20241212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241213>back to top</a>)</p>
 
 ## BEV
 
@@ -229,7 +229,7 @@
 |**2024-07-21**|**Navigation Instruction Generation with BEV Perception and Large Language Models**|Sheng Fan et.al.|[2407.15087](http://arxiv.org/abs/2407.15087)|**[link](https://github.com/fanscy/bevinstructor)**|
 |**2024-11-19**|**RayFormer: Improving Query-Based Multi-Camera 3D Object Detection via Ray-Centric Strategies**|Xiaomeng Chu et.al.|[2407.14923](http://arxiv.org/abs/2407.14923)|null|
 |**2024-07-18**|**Boosting Online 3D Multi-Object Tracking through Camera-Radar Cross Check**|Sheng-Yao Kuan et.al.|[2407.13937](http://arxiv.org/abs/2407.13937)|null|
-|**2024-11-11**|**Mask2Map: Vectorized HD Map Construction Using Bird's Eye View Segmentation Masks**|Sehwan Choi et.al.|[2407.13517](http://arxiv.org/abs/2407.13517)|**[link](https://github.com/SehwanChoi0307/Mask2Map)**|
+|**2024-12-11**|**Mask2Map: Vectorized HD Map Construction Using Bird's Eye View Segmentation Masks**|Sehwan Choi et.al.|[2407.13517](http://arxiv.org/abs/2407.13517)|**[link](https://github.com/SehwanChoi0307/Mask2Map)**|
 |**2024-07-16**|**Adaptive Environment-Aware Robotic Arm Reaching Based on a Bio-Inspired Neurodynamical Computational Framework**|Dimitrios Chatziparaschis et.al.|[2407.11377](http://arxiv.org/abs/2407.11377)|null|
 |**2024-07-13**|**IFTR: An Instance-Level Fusion Transformer for Visual Collaborative Perception**|Shaohong Wang et.al.|[2407.09857](http://arxiv.org/abs/2407.09857)|**[link](https://github.com/wangsh0111/iftr)**|
 |**2024-12-05**|**Map It Anywhere (MIA): Empowering Bird's Eye View Mapping using Large-scale Public Data**|Cherie Ho et.al.|[2407.08726](http://arxiv.org/abs/2407.08726)|null|
@@ -335,7 +335,7 @@
 |**2023-06-07**|**NeMO: Neural Map Growing System for Spatiotemporal Fusion in Bird's-Eye-View and BDD-Map Benchmark**|Xi Zhu et.al.|[2306.04540](http://arxiv.org/abs/2306.04540)|null|
 |**2023-11-27**|**CALICO: Self-Supervised Camera-LiDAR Contrastive Pre-training for BEV Perception**|Jiachen Sun et.al.|[2306.00349](http://arxiv.org/abs/2306.00349)|null|
 
-<p align=right>(<a href=#updated-on-20241212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241213>back to top</a>)</p>
 
 ## Gaussian Splatting
 
@@ -350,12 +350,12 @@
 |**2024-12-10**|**ResGS: Residual Densification of 3D Gaussian for Efficient Detail Recovery**|Yanzhe Lyu et.al.|[2412.07494](http://arxiv.org/abs/2412.07494)|null|
 |**2024-12-10**|**EventSplat: 3D Gaussian Splatting from Moving Event Cameras for Real-time Rendering**|Toshiya Yura et.al.|[2412.07293](http://arxiv.org/abs/2412.07293)|null|
 |**2024-12-09**|**MV-DUSt3R+: Single-Stage Scene Reconstruction from Sparse Views In 2 Seconds**|Zhenggang Tang et.al.|[2412.06974](http://arxiv.org/abs/2412.06974)|null|
-|**2024-12-09**|**Deblur4DGS: 4D Gaussian Splatting from Blurry Monocular Video**|Renlong Wu et.al.|[2412.06424](http://arxiv.org/abs/2412.06424)|null|
+|**2024-12-09**|**Deblur4DGS: 4D Gaussian Splatting from Blurry Monocular Video**|Renlong Wu et.al.|[2412.06424](http://arxiv.org/abs/2412.06424)|**[link](https://github.com/zcsrenlongz/deblur4dgs)**|
 |**2024-12-09**|**4D Gaussian Splatting with Scale-aware Residual Field and Adaptive Optimization for Real-time Rendering of Temporally Complex Dynamic Scenes**|Jinbo Yan et.al.|[2412.06299](http://arxiv.org/abs/2412.06299)|null|
 |**2024-12-09**|**Advancing Extended Reality with 3D Gaussian Splatting: Innovations and Prospects**|Shi Qiu et.al.|[2412.06257](http://arxiv.org/abs/2412.06257)|null|
 |**2024-12-09**|**Splatter-360: Generalizable 360 $^{\circ}$ Gaussian Splatting for Wide-baseline Panoramic Images**|Zheng Chen et.al.|[2412.06250](http://arxiv.org/abs/2412.06250)|**[link](https://github.com/thucz/splatter360)**|
 |**2024-12-09**|**Generative Densification: Learning to Densify Gaussians for High-Fidelity Generalizable 3D Reconstruction**|Seungtae Nam et.al.|[2412.06234](http://arxiv.org/abs/2412.06234)|null|
-|**2024-12-08**|**Efficient Semantic Splatting for Remote Sensing Multi-view Segmentation**|Zipeng Qi et.al.|[2412.05969](http://arxiv.org/abs/2412.05969)|null|
+|**2024-12-12**|**Efficient Semantic Splatting for Remote Sensing Multi-view Segmentation**|Zipeng Qi et.al.|[2412.05969](http://arxiv.org/abs/2412.05969)|null|
 |**2024-12-08**|**GBR: Generative Bundle Refinement for High-fidelity Gaussian Splatting and Meshing**|Jianing Zhang et.al.|[2412.05908](http://arxiv.org/abs/2412.05908)|null|
 |**2024-12-07**|**Temporally Compressed 3D Gaussian Splatting for Dynamic Scenes**|Saqib Javed et.al.|[2412.05700](http://arxiv.org/abs/2412.05700)|null|
 |**2024-12-07**|**WATER-GS: Toward Copyright Protection for 3D Gaussian Splatting via Universal Watermarking**|Yuqi Tan et.al.|[2412.05695](http://arxiv.org/abs/2412.05695)|null|
@@ -372,7 +372,7 @@
 |**2024-12-05**|**Sparse Voxels Rasterization: Real-time High-fidelity Radiance Field Rendering**|Cheng Sun et.al.|[2412.04459](http://arxiv.org/abs/2412.04459)|null|
 |**2024-12-05**|**Monocular Dynamic Gaussian Splatting is Fast and Brittle but Smooth Motion Helps**|Yiqing Liang et.al.|[2412.04457](http://arxiv.org/abs/2412.04457)|null|
 |**2024-12-06**|**PBDyG: Position Based Dynamic Gaussians for Motion-Aware Clothed Human Avatars**|Shota Sasaki et.al.|[2412.04433](http://arxiv.org/abs/2412.04433)|null|
-|**2024-12-05**|**Multi-View Pose-Agnostic Change Localization with Zero Labels**|Chamuditha Jayanga Galappaththige et.al.|[2412.03911](http://arxiv.org/abs/2412.03911)|**[link](https://github.com/Chumsy0725/PASLCD)**|
+|**2024-12-05**|**Multi-View Pose-Agnostic Change Localization with Zero Labels**|Chamuditha Jayanga Galappaththige et.al.|[2412.03911](http://arxiv.org/abs/2412.03911)|null|
 |**2024-12-05**|**DGNS: Deformable Gaussian Splatting and Dynamic Neural Surface for Monocular Dynamic 3D Reconstruction**|Xuesong Li et.al.|[2412.03910](http://arxiv.org/abs/2412.03910)|null|
 |**2024-12-10**|**HybridGS: Decoupling Transients and Statics with 2D and 3D Gaussian Splatting**|Jingyu Lin et.al.|[2412.03844](http://arxiv.org/abs/2412.03844)|null|
 |**2024-12-04**|**Feed-Forward Bullet-Time Reconstruction of Dynamic Scenes from Monocular Videos**|Hanxue Liang et.al.|[2412.03526](http://arxiv.org/abs/2412.03526)|null|
@@ -381,7 +381,7 @@
 |**2024-12-04**|**2DGS-Room: Seed-Guided 2D Gaussian Splatting with Geometric Constrains for High-Fidelity Indoor Scene Reconstruction**|Wanting Zhang et.al.|[2412.03428](http://arxiv.org/abs/2412.03428)|null|
 |**2024-12-04**|**Volumetrically Consistent 3D Gaussian Rasterization**|Chinmay Talegaonkar et.al.|[2412.03378](http://arxiv.org/abs/2412.03378)|null|
 |**2024-12-04**|**SGSST: Scaling Gaussian Splatting StyleTransfer**|Bruno Galerne et.al.|[2412.03371](http://arxiv.org/abs/2412.03371)|**[link](https://github.com/JianlingWANG2021/SGSST)**|
-|**2024-12-04**|**NeRF and Gaussian Splatting SLAM in the Wild**|Fabian Schmidt et.al.|[2412.03263](http://arxiv.org/abs/2412.03263)|null|
+|**2024-12-04**|**NeRF and Gaussian Splatting SLAM in the Wild**|Fabian Schmidt et.al.|[2412.03263](http://arxiv.org/abs/2412.03263)|**[link](https://github.com/iis-esslingen/nerf-3dgs-benchmark)**|
 |**2024-12-04**|**Splats in Splats: Embedding Invisible 3D Watermark within Gaussian Splatting**|Yijia Guo et.al.|[2412.03121](http://arxiv.org/abs/2412.03121)|null|
 |**2024-12-04**|**RoDyGS: Robust Dynamic Gaussian Splatting for Casual Videos**|Yoonwoo Jeong et.al.|[2412.03077](http://arxiv.org/abs/2412.03077)|null|
 |**2024-12-03**|**Gaussian Splatting Under Attack: Investigating Adversarial Noise in 3D Objects**|Abdurrahman Zeybey et.al.|[2412.02803](http://arxiv.org/abs/2412.02803)|null|
@@ -416,7 +416,7 @@
 |**2024-12-07**|**A Lesson in Splats: Teacher-Guided Diffusion for 3D Gaussian Splats Generation with 2D Supervision**|Chensheng Peng et.al.|[2412.00623](http://arxiv.org/abs/2412.00623)|null|
 |**2024-11-30**|**Speedy-Splat: Fast 3D Gaussian Splatting with Sparse Pixels and Sparse Primitives**|Alex Hanson et.al.|[2412.00578](http://arxiv.org/abs/2412.00578)|null|
 |**2024-11-30**|**Instant3dit: Multiview Inpainting for Fast Editing of 3D Objects**|Amir Barda et.al.|[2412.00518](http://arxiv.org/abs/2412.00518)|null|
-|**2024-12-11**|**LineGS : 3D Line Segment Representation on 3D Gaussian Splatting**|Chenggang Yang et.al.|[2412.00477](http://arxiv.org/abs/2412.00477)|null|
+|**2024-12-11**|**LineGS : 3D Line Segment Representation on 3D Gaussian Splatting**|Chenggang Yang et.al.|[2412.00477](http://arxiv.org/abs/2412.00477)|**[link](https://github.com/ericshenggle/LineGS)**|
 |**2024-11-30**|**GradiSeg: Gradient-Guided Gaussian Segmentation with Enhanced 3D Boundary Precision**|Zehao Li et.al.|[2412.00392](http://arxiv.org/abs/2412.00392)|null|
 |**2024-12-05**|**Gaussians on their Way: Wasserstein-Constrained 4D Gaussian Splatting with State-Space Modeling**|Junli Deng et.al.|[2412.00333](http://arxiv.org/abs/2412.00333)|null|
 |**2024-12-02**|**GuardSplat: Efficient and Robust Watermarking for 3D Gaussian Splatting**|Zixuan Chen et.al.|[2411.19895](http://arxiv.org/abs/2411.19895)|**[link](https://github.com/narcissusex/guardsplat)**|
@@ -502,7 +502,7 @@
 |**2023-12-01**|**FSGS: Real-Time Few-shot View Synthesis using Gaussian Splatting**|Zehao Zhu et.al.|[2312.00451](http://arxiv.org/abs/2312.00451)|null|
 |**2023-11-30**|**SparseGS: Real-Time 360° Sparse View Synthesis using Gaussian Splatting**|Haolin Xiong et.al.|[2312.00206](http://arxiv.org/abs/2312.00206)|null|
 
-<p align=right>(<a href=#updated-on-20241212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241213>back to top</a>)</p>
 
 ## Registration
 
@@ -524,7 +524,7 @@
 |**2020-10-10**|**A Termination Criterion for Probabilistic PointClouds Registration**|Simone Fontana et.al.|[2010.04979](http://arxiv.org/abs/2010.04979)|null|
 |**2017-04-25**|**Adaptive Cost Function for Pointcloud Registration**|Johan Ekekrantz et.al.|[1704.07910](http://arxiv.org/abs/1704.07910)|null|
 
-<p align=right>(<a href=#updated-on-20241212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241213>back to top</a>)</p>
 
 ## Localization
 
@@ -533,7 +533,7 @@
 |**2024-12-11**|**Reloc3r: Large-Scale Training of Relative Camera Pose Regression for Generalizable, Fast, and Accurate Visual Localization**|Siyan Dong et.al.|[2412.08376](http://arxiv.org/abs/2412.08376)|null|
 |**2024-12-11**|**Intelligent Control of Robotic X-ray Devices using a Language-promptable Digital Twin**|Benjamin D. Killeen et.al.|[2412.08020](http://arxiv.org/abs/2412.08020)|null|
 |**2024-12-10**|**On Motion Blur and Deblurring in Visual Place Recognition**|Timur Ismagilov et.al.|[2412.07751](http://arxiv.org/abs/2412.07751)|null|
-|**2024-12-09**|**An Efficient Scene Coordinate Encoding and Relocalization Method**|Kuan Xu et.al.|[2412.06488](http://arxiv.org/abs/2412.06488)|null|
+|**2024-12-09**|**An Efficient Scene Coordinate Encoding and Relocalization Method**|Kuan Xu et.al.|[2412.06488](http://arxiv.org/abs/2412.06488)|**[link](https://github.com/sair-lab/SeqACE)**|
 |**2024-12-09**|**A Hyperdimensional One Place Signature to Represent Them All: Stackable Descriptors For Visual Place Recognition**|Connor Malone et.al.|[2412.06153](http://arxiv.org/abs/2412.06153)|null|
 |**2024-12-10**|**MOANA: Multi-Radar Dataset for Maritime Odometry and Autonomous Navigation Application**|Hyesu Jang et.al.|[2412.03887](http://arxiv.org/abs/2412.03887)|null|
 |**2024-12-04**|**Distillation of Diffusion Features for Semantic Correspondence**|Frank Fundel et.al.|[2412.03512](http://arxiv.org/abs/2412.03512)|null|
@@ -691,13 +691,13 @@
 |**2023-09-14**|**EP2P-Loc: End-to-End 3D Point to 2D Pixel Localization for Large-Scale Visual Localization**|Minjung Kim et.al.|[2309.07471](http://arxiv.org/abs/2309.07471)|**[link](https://github.com/minnjung/ep2p-loc)**|
 |**2023-09-13**|**RadarLCD: Learnable Radar-based Loop Closure Detection Pipeline**|Mirko Usuelli et.al.|[2309.07094](http://arxiv.org/abs/2309.07094)|null|
 
-<p align=right>(<a href=#updated-on-20241212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241213>back to top</a>)</p>
 
 ## Feature
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-09**|**An Efficient Scene Coordinate Encoding and Relocalization Method**|Kuan Xu et.al.|[2412.06488](http://arxiv.org/abs/2412.06488)|null|
+|**2024-12-09**|**An Efficient Scene Coordinate Encoding and Relocalization Method**|Kuan Xu et.al.|[2412.06488](http://arxiv.org/abs/2412.06488)|**[link](https://github.com/sair-lab/SeqACE)**|
 |**2024-12-09**|**ZeroKey: Point-Level Reasoning and Zero-Shot 3D Keypoint Detection from Large Language Models**|Bingchen Gong et.al.|[2412.06292](http://arxiv.org/abs/2412.06292)|null|
 |**2024-12-07**|**Securing Social Media Against Deepfakes using Identity, Behavioral, and Geometric Signatures**|Muhammad Umar Farooq et.al.|[2412.05487](http://arxiv.org/abs/2412.05487)|null|
 |**2024-12-04**|**Measure Anything: Real-time, Multi-stage Vision-based Dimensional Measurement using Segment Anything**|Yongkyu Lee et.al.|[2412.03472](http://arxiv.org/abs/2412.03472)|null|
@@ -838,7 +838,7 @@
 |**2023-03-22**|**Object Pose Estimation with Statistical Guarantees: Conformal Keypoint Detection and Geometric Uncertainty Propagation**|Heng Yang et.al.|[2303.12246](http://arxiv.org/abs/2303.12246)|**[link](https://github.com/nvlabs/conformalkeypoint)**|
 |**2023-05-29**|**RN-Net: Reservoir Nodes-Enabled Neuromorphic Vision Sensing Network**|Sangmin Yoo et.al.|[2303.10770](http://arxiv.org/abs/2303.10770)|null|
 
-<p align=right>(<a href=#updated-on-20241212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241213>back to top</a>)</p>
 
 ## Matching
 
@@ -1003,7 +1003,7 @@
 |**2023-04-02**|**Enhancing Deformable Local Features by Jointly Learning to Detect and Describe Keypoints**|Guilherme Potje et.al.|[2304.00583](http://arxiv.org/abs/2304.00583)|**[link](https://github.com/verlab/DALF_CVPR_2023)**|
 |**2023-04-13**|**Structured Epipolar Matcher for Local Feature Matching**|Jiahao Chang et.al.|[2303.16646](http://arxiv.org/abs/2303.16646)|null|
 
-<p align=right>(<a href=#updated-on-20241212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241213>back to top</a>)</p>
 
 ## SFM
 
@@ -1170,7 +1170,7 @@
 |**2023-02-28**|**Nonlinear Intensity, Scale and Rotation Invariant Matching for Multimodal Images**|Zhongli Fan et.al.|[2302.14239](http://arxiv.org/abs/2302.14239)|**[link](https://github.com/zhongli-fan/nisr)**|
 |**2023-03-25**|**BLiRF: Bandlimited Radiance Fields for Dynamic Scene Modeling**|Sameera Ramasinghe et.al.|[2302.13543](http://arxiv.org/abs/2302.13543)|null|
 
-<p align=right>(<a href=#updated-on-20241212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241213>back to top</a>)</p>
 
 ## IMU
 
@@ -1203,7 +1203,7 @@
 |**2017-01-10**|**Inertial Regularization and Selection (IRS): Sequential Regression in High-Dimension and Sparsity**|Chitta Ranjan et.al.|[1610.07216](http://arxiv.org/abs/1610.07216)|null|
 |**2016-09-19**|**An Opinion Dynamics Model with Increasing Self-Confidence**|Chu Wang et.al.|[1609.05732](http://arxiv.org/abs/1609.05732)|null|
 
-<p align=right>(<a href=#updated-on-20241212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241213>back to top</a>)</p>
 
 ## Transformer
 
@@ -1226,7 +1226,7 @@
 |**2013-11-25**|**Clifford Algebra and Space-Time Transformations: Lorentz Transformation and Inertial Transformation**|R. de Oliveira et.al.|[1311.6378](http://arxiv.org/abs/1311.6378)|null|
 |**2008-03-06**|**Special Relativity in Quantum Phase Space**|Daniela Dragoman et.al.|[0803.0972](http://arxiv.org/abs/0803.0972)|null|
 
-<p align=right>(<a href=#updated-on-20241212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241213>back to top</a>)</p>
 
 ## NeRF
 
@@ -1237,12 +1237,12 @@
 |**2024-12-10**|**EventSplat: 3D Gaussian Splatting from Moving Event Cameras for Real-time Rendering**|Toshiya Yura et.al.|[2412.07293](http://arxiv.org/abs/2412.07293)|null|
 |**2024-12-09**|**Diffusing Differentiable Representations**|Yash Savani et.al.|[2412.06981](http://arxiv.org/abs/2412.06981)|null|
 |**2024-12-09**|**Dynamic EventNeRF: Reconstructing General Dynamic Scenes from Multi-view Event Cameras**|Viktor Rudnev et.al.|[2412.06770](http://arxiv.org/abs/2412.06770)|null|
-|**2024-12-09**|**Deblur4DGS: 4D Gaussian Splatting from Blurry Monocular Video**|Renlong Wu et.al.|[2412.06424](http://arxiv.org/abs/2412.06424)|null|
+|**2024-12-09**|**Deblur4DGS: 4D Gaussian Splatting from Blurry Monocular Video**|Renlong Wu et.al.|[2412.06424](http://arxiv.org/abs/2412.06424)|**[link](https://github.com/zcsrenlongz/deblur4dgs)**|
 |**2024-12-09**|**Splatter-360: Generalizable 360 $^{\circ}$ Gaussian Splatting for Wide-baseline Panoramic Images**|Zheng Chen et.al.|[2412.06250](http://arxiv.org/abs/2412.06250)|**[link](https://github.com/thucz/splatter360)**|
 |**2024-12-07**|**WATER-GS: Toward Copyright Protection for 3D Gaussian Splatting via Universal Watermarking**|Yuqi Tan et.al.|[2412.05695](http://arxiv.org/abs/2412.05695)|null|
 |**2024-12-06**|**Perturb-and-Revise: Flexible 3D Editing with Generative Trajectories**|Susung Hong et.al.|[2412.05279](http://arxiv.org/abs/2412.05279)|null|
 |**2024-12-11**|**MixedGaussianAvatar: Realistically and Geometrically Accurate Head Avatar via Mixed 2D-3D Gaussian Splatting**|Peng Chen et.al.|[2412.04955](http://arxiv.org/abs/2412.04955)|**[link](https://github.com/chenvoid/mga)**|
-|**2024-12-04**|**NeRF and Gaussian Splatting SLAM in the Wild**|Fabian Schmidt et.al.|[2412.03263](http://arxiv.org/abs/2412.03263)|null|
+|**2024-12-04**|**NeRF and Gaussian Splatting SLAM in the Wild**|Fabian Schmidt et.al.|[2412.03263](http://arxiv.org/abs/2412.03263)|**[link](https://github.com/iis-esslingen/nerf-3dgs-benchmark)**|
 |**2024-12-01**|**SAGA: Surface-Aligned Gaussian Avatar**|Ronghan Chen et.al.|[2412.00845](http://arxiv.org/abs/2412.00845)|null|
 |**2024-12-01**|**CtrlNeRF: The Generative Neural Radiation Fields for the Controllable Synthesis of High-fidelity 3D-Aware Images**|Jian Liu et.al.|[2412.00754](http://arxiv.org/abs/2412.00754)|null|
 |**2024-11-30**|**Speedy-Splat: Fast 3D Gaussian Splatting with Sparse Pixels and Sparse Primitives**|Alex Hanson et.al.|[2412.00578](http://arxiv.org/abs/2412.00578)|null|
@@ -1302,7 +1302,7 @@
 |**2024-10-30**|**Bringing NeRFs to the Latent Space: Inverse Graphics Autoencoder**|Antoine Schnepf et.al.|[2410.22936](http://arxiv.org/abs/2410.22936)|null|
 |**2024-10-28**|**MVSDet: Multi-View Indoor 3D Object Detection via Efficient Plane Sweeps**|Yating Xu et.al.|[2410.21566](http://arxiv.org/abs/2410.21566)|**[link](https://github.com/pixie8888/mvsdet)**|
 |**2024-11-16**|**EEG-Driven 3D Object Reconstruction with Style Consistency and Diffusion Prior**|Xin Xiang et.al.|[2410.20981](http://arxiv.org/abs/2410.20981)|null|
-|**2024-10-28**|**ODGS: 3D Scene Reconstruction from Omnidirectional Images with 3D Gaussian Splattings**|Suyoung Lee et.al.|[2410.20686](http://arxiv.org/abs/2410.20686)|null|
+|**2024-10-28**|**ODGS: 3D Scene Reconstruction from Omnidirectional Images with 3D Gaussian Splattings**|Suyoung Lee et.al.|[2410.20686](http://arxiv.org/abs/2410.20686)|**[link](https://github.com/esw0116/odgs)**|
 |**2024-10-27**|**GUMBEL-NERF: Representing Unseen Objects as Part-Compositional Neural Radiance Fields**|Yusuke Sekikawa et.al.|[2410.20306](http://arxiv.org/abs/2410.20306)|null|
 |**2024-10-25**|**Content-Aware Radiance Fields: Aligning Model Complexity with Scene Intricacy Through Learned Bitwidth Quantization**|Weihang Liu et.al.|[2410.19483](http://arxiv.org/abs/2410.19483)|**[link](https://github.com/weihangliu2024/content_aware_nerf)**|
 |**2024-10-25**|**Evaluation of strategies for efficient rate-distortion NeRF streaming**|Pedro Martin et.al.|[2410.19459](http://arxiv.org/abs/2410.19459)|null|
@@ -1393,7 +1393,7 @@
 |**2023-12-22**|**PoseGen: Learning to Generate 3D Human Pose Dataset with NeRF**|Mohsen Gholami et.al.|[2312.14915](http://arxiv.org/abs/2312.14915)|**[link](https://github.com/mgholamikn/PoseGen)**|
 |**2023-12-22**|**Density Uncertainty Quantification with NeRF-Ensembles: Impact of Data and Scene Constraints**|Miriam Jäger et.al.|[2312.14664](http://arxiv.org/abs/2312.14664)|null|
 
-<p align=right>(<a href=#updated-on-20241212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241213>back to top</a>)</p>
 
 ## Occupancy
 
@@ -1560,7 +1560,7 @@
 |**2023-04-30**|**Point Cloud Forecasting as a Proxy for 4D Occupancy Forecasting**|Tarasha Khurana et.al.|[2302.13130](http://arxiv.org/abs/2302.13130)|**[link](https://github.com/tarashakhurana/4d-occ-forecasting)**|
 |**2023-12-20**|**Accurate Gaussian-Process-based Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005](http://arxiv.org/abs/2302.13005)|null|
 
-<p align=right>(<a href=#updated-on-20241212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241213>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
