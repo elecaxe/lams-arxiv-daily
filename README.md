@@ -179,9 +179,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-08**|**Multidimensional integrable systems from contact geometry**|A. Sergyeyev et.al.|[2501.04474](http://arxiv.org/abs/2501.04474)|null|
+|**2025-01-09**|**"What's Happening"- A Human-centered Multimodal Interpreter Explaining the Actions of Autonomous Vehicles**|Xuewen Luo et.al.|[2501.05322](http://arxiv.org/abs/2501.05322)|null|
+|**2025-01-09**|**AD-L-JEPA: Self-Supervised Spatial World Models with Joint Embedding Predictive Architecture for Autonomous Driving with LiDAR Data**|Haoran Zhu et.al.|[2501.04969](http://arxiv.org/abs/2501.04969)|null|
+|**2025-01-09**|**Multidimensional integrable systems from contact geometry**|A. Sergyeyev et.al.|[2501.04474](http://arxiv.org/abs/2501.04474)|null|
 |**2025-01-05**|**GCP: Guarded Collaborative Perception with Spatial-Temporal Aware Malicious Agent Detection**|Yihang Tao et.al.|[2501.02450](http://arxiv.org/abs/2501.02450)|null|
-|**2025-01-03**|**GPT4Scene: Understand 3D Scenes from Videos with Vision-Language Models**|Zhangyang Qi et.al.|[2501.01428](http://arxiv.org/abs/2501.01428)|null|
+|**2025-01-09**|**GPT4Scene: Understand 3D Scenes from Videos with Vision-Language Models**|Zhangyang Qi et.al.|[2501.01428](http://arxiv.org/abs/2501.01428)|null|
 |**2024-12-30**|**TiGDistill-BEV: Multi-view BEV 3D Object Detection via Target Inner-Geometry Learning Distillation**|Shaoqing Xu et.al.|[2412.20911](http://arxiv.org/abs/2412.20911)|**[link](https://github.com/public-bots/tigdistill-bev)**|
 |**2024-12-28**|**Geo-ConvGRU: Geographically Masked Convolutional Gated Recurrent Unit for Bird-Eye View Segmentation**|Guanglei Yang et.al.|[2412.20171](http://arxiv.org/abs/2412.20171)|null|
 |**2024-12-25**|**TopoBDA: Towards Bezier Deformable Attention for Road Topology Understanding**|Muhammet Esat Kalfaoglu et.al.|[2412.18951](http://arxiv.org/abs/2412.18951)|null|
@@ -257,8 +259,6 @@
 |**2024-10-31**|**NAVSIM: Data-Driven Non-Reactive Autonomous Vehicle Simulation and Benchmarking**|Daniel Dauner et.al.|[2406.15349](http://arxiv.org/abs/2406.15349)|**[link](https://github.com/autonomousvision/navsim)**|
 |**2024-06-14**|**MapVision: CVPR 2024 Autonomous Grand Challenge Mapless Driving Tech Report**|Zhongyu Yang et.al.|[2406.10125](http://arxiv.org/abs/2406.10125)|null|
 |**2024-06-07**|**UVCPNet: A UAV-Vehicle Collaborative Perception Network for 3D Object Detection**|Yuchao Wang et.al.|[2406.04647](http://arxiv.org/abs/2406.04647)|null|
-|**2024-06-04**|**PlanAgent: A Multi-modal Large Language Agent for Closed-loop Vehicle Motion Planning**|Yupeng Zheng et.al.|[2406.01587](http://arxiv.org/abs/2406.01587)|null|
-|**2024-05-31**|**Uncertainty Quantification for Bird's Eye View Semantic Segmentation: Methods and Benchmarks**|Linlin Yu et.al.|[2405.20986](http://arxiv.org/abs/2405.20986)|null|
 |**2024-02-16**|**GIM: Learning Generalizable Image Matcher From Internet Videos**|Xuelun Shen et.al.|[2402.11095](http://arxiv.org/abs/2402.11095)|null|
 |**2024-02-12**|**Collaborative Semantic Occupancy Prediction with Hybrid Feature Fusion in Connected Automated Vehicles**|Rui Song et.al.|[2402.07635](http://arxiv.org/abs/2402.07635)|null|
 |**2024-02-11**|**Social Evolution of Published Text and The Emergence of Artificial Intelligence Through Large Language Models and The Problem of Toxicity and Bias**|Arifa Khan et.al.|[2402.07166](http://arxiv.org/abs/2402.07166)|null|
@@ -346,6 +346,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-09**|**Zero-1-to-G: Taming Pretrained 2D Diffusion Model for Direct 3D Generation**|Xuyi Meng et.al.|[2501.05427](http://arxiv.org/abs/2501.05427)|null|
+|**2025-01-09**|**Arc2Avatar: Generating Expressive 3D Avatars from a Single Image via ID Guidance**|Dimitrios Gerogiannis et.al.|[2501.05379](http://arxiv.org/abs/2501.05379)|null|
+|**2025-01-09**|**Scaffold-SLAM: Structured 3D Gaussians for Simultaneous Localization and Photorealistic Mapping**|Wen Tianci et.al.|[2501.05242](http://arxiv.org/abs/2501.05242)|null|
+|**2025-01-08**|**GaussianVideo: Efficient Video Representation via Hierarchical Gaussian Splatting**|Andrew Bond et.al.|[2501.04782](http://arxiv.org/abs/2501.04782)|null|
 |**2025-01-08**|**FatesGS: Fast and Accurate Sparse-View Surface Reconstruction using Gaussian Splatting with Depth-Feature Consistency**|Han Huang et.al.|[2501.04628](http://arxiv.org/abs/2501.04628)|null|
 |**2025-01-07**|**ZDySS -- Zero-Shot Dynamic Scene Stylization using Gaussian Splatting**|Abhishek Saroha et.al.|[2501.03875](http://arxiv.org/abs/2501.03875)|null|
 |**2025-01-07**|**MoDec-GS: Global-to-Local Motion Decomposition and Temporal Interval Adjustment for Compact Dynamic 3D Gaussian Splatting**|Sangwoon Kwak et.al.|[2501.03714](http://arxiv.org/abs/2501.03714)|null|
@@ -422,10 +426,6 @@
 |**2024-12-17**|**3DGUT: Enabling Distorted Cameras and Secondary Rays in Gaussian Splatting**|Qi Wu et.al.|[2412.12507](http://arxiv.org/abs/2412.12507)|null|
 |**2024-12-16**|**PanSplat: 4K Panorama Synthesis with Feed-Forward Gaussian Splatting**|Cheng Zhang et.al.|[2412.12096](http://arxiv.org/abs/2412.12096)|**[link](https://github.com/chengzhag/pansplat)**|
 |**2024-12-16**|**Wonderland: Navigating 3D Scenes from a Single Image**|Hanwen Liang et.al.|[2412.12091](http://arxiv.org/abs/2412.12091)|null|
-|**2024-12-16**|**GS-ProCams: Gaussian Splatting-based Projector-Camera Systems**|Qingyue Deng et.al.|[2412.11762](http://arxiv.org/abs/2412.11762)|null|
-|**2024-12-16**|**Deformable Radial Kernel Splatting**|Yi-Hua Huang et.al.|[2412.11752](http://arxiv.org/abs/2412.11752)|null|
-|**2024-12-16**|**SweepEvGS: Event-Based 3D Gaussian Splatting for Macro and Micro Radiance Field Rendering from a Single Sweep**|Jingqian Wu et.al.|[2412.11579](http://arxiv.org/abs/2412.11579)|null|
-|**2024-12-16**|**EditSplat: Multi-View Fusion and Attention-Guided Optimization for View-Consistent 3D Scene Editing with 3D Gaussian Splatting**|Dong In Lee et.al.|[2412.11520](http://arxiv.org/abs/2412.11520)|null|
 |**2024-02-20**|**GaussianObject: Just Taking Four Images to Get A High-Quality 3D Object with Gaussian Splatting**|Chen Yang et.al.|[2402.10259](http://arxiv.org/abs/2402.10259)|**[link](https://github.com/GaussianObject/GaussianObject)**|
 |**2024-02-15**|**GES: Generalized Exponential Splatting for Efficient Radiance Field Rendering**|Abdullah Hamdi et.al.|[2402.10128](http://arxiv.org/abs/2402.10128)|null|
 |**2024-02-13**|**IM-3D: Iterative Multiview Diffusion and Reconstruction for High-Quality 3D Generation**|Luke Melas-Kyriazi et.al.|[2402.08682](http://arxiv.org/abs/2402.08682)|null|
@@ -535,6 +535,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-09**|**Seeing with Partial Certainty: Conformal Prediction for Robotic Scene Recognition in Built Environments**|Yifan Xu et.al.|[2501.04947](http://arxiv.org/abs/2501.04947)|null|
 |**2025-01-03**|**A Minimal Subset Approach for Efficient and Scalable Loop Closure**|Nikolaos Stathoulopoulos et.al.|[2501.01791](http://arxiv.org/abs/2501.01791)|null|
 |**2025-01-02**|**R-SCoRe: Revisiting Scene Coordinate Regression for Robust Large-Scale Visual Localization**|Xudong Jiang et.al.|[2501.01421](http://arxiv.org/abs/2501.01421)|null|
 |**2025-01-02**|**Training Medical Large Vision-Language Models with Abnormal-Aware Feedback**|Yucheng Zhou et.al.|[2501.01377](http://arxiv.org/abs/2501.01377)|null|
@@ -614,7 +615,6 @@
 |**2024-08-28**|**MambaPlace:Text-to-Point-Cloud Cross-Modal Place Recognition with Attention Mamba Mechanisms**|Tianyi Shang et.al.|[2408.15740](http://arxiv.org/abs/2408.15740)|**[link](https://github.com/CV4RA/MambaPlace)**|
 |**2024-08-21**|**FUSELOC: Fusing Global and Local Descriptors to Disambiguate 2D-3D Matching in Visual Localization**|Son Tung Nguyen et.al.|[2408.12037](http://arxiv.org/abs/2408.12037)|**[link](https://github.com/sontung/descriptor-disambiguation)**|
 |**2024-10-19**|**Visual Localization in 3D Maps: Comparing Point Cloud, Mesh, and NeRF Representations**|Lintong Zhang et.al.|[2408.11966](http://arxiv.org/abs/2408.11966)|null|
-|**2024-10-02**|**GSLoc: Efficient Camera Pose Refinement via 3D Gaussian Splatting**|Changkun Liu et.al.|[2408.11085](http://arxiv.org/abs/2408.11085)|null|
 |**2024-02-19**|**CoLRIO: LiDAR-Ranging-Inertial Centralized State Estimation for Robotic Swarms**|Shipeng Zhong et.al.|[2402.11790](http://arxiv.org/abs/2402.11790)|null|
 |**2024-02-16**|**Spike-EVPR: Deep Spiking Residual Network with Cross-Representation Aggregation for Event-Based Visual Place Recognition**|Chenming Hu et.al.|[2402.10476](http://arxiv.org/abs/2402.10476)|null|
 |**2024-02-14**|**Loopy-SLAM: Dense Neural SLAM with Loop Closures**|Lorenzo Liso et.al.|[2402.09944](http://arxiv.org/abs/2402.09944)|null|
@@ -1243,6 +1243,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-09**|**Light Transport-aware Diffusion Posterior Sampling for Single-View Reconstruction of 3D Volumes**|Ludwic Leonard et.al.|[2501.05226](http://arxiv.org/abs/2501.05226)|null|
 |**2025-01-07**|**NeRFs are Mirror Detectors: Using Structural Similarity for Multi-View Mirror Scene Reconstruction with 3D Surface Primitives**|Leif Van Holland et.al.|[2501.04074](http://arxiv.org/abs/2501.04074)|null|
 |**2025-01-07**|**NeuralSVG: An Implicit Representation for Text-to-Vector Generation**|Sagi Polaczek et.al.|[2501.03992](http://arxiv.org/abs/2501.03992)|null|
 |**2025-01-07**|**DehazeGS: Seeing Through Fog with 3D Gaussian Splatting**|Jinze Yu et.al.|[2501.03659](http://arxiv.org/abs/2501.03659)|null|
@@ -1322,7 +1323,6 @@
 |**2024-11-11**|**LuSh-NeRF: Lighting up and Sharpening NeRFs for Low-light Scenes**|Zefan Qu et.al.|[2411.06757](http://arxiv.org/abs/2411.06757)|**[link](https://github.com/quzefan/lush-nerf)**|
 |**2024-11-10**|**Through the Curved Cover: Synthesizing Cover Aberrated Scenes with Refractive Field**|Liuyue Xie et.al.|[2411.06365](http://arxiv.org/abs/2411.06365)|null|
 |**2024-11-09**|**AI-Driven Stylization of 3D Environments**|Yuanbo Chen et.al.|[2411.06067](http://arxiv.org/abs/2411.06067)|null|
-|**2024-11-08**|**A Nerf-Based Color Consistency Method for Remote Sensing Images**|Zongcheng Zuo et.al.|[2411.05557](http://arxiv.org/abs/2411.05557)|null|
 |**2024-02-19**|**Binary Opacity Grids: Capturing Fine Geometric Detail for Mesh-Based View Synthesis**|Christian Reiser et.al.|[2402.12377](http://arxiv.org/abs/2402.12377)|null|
 |**2024-02-19**|**Colorizing Monochromatic Radiance Fields**|Yean Cheng et.al.|[2402.12184](http://arxiv.org/abs/2402.12184)|null|
 |**2024-02-17**|**Semantically-aware Neural Radiance Fields for Visual Scene Understanding: A Comprehensive Review**|Thang-Anh-Quan Nguyen et.al.|[2402.11141](http://arxiv.org/abs/2402.11141)|null|
@@ -1480,7 +1480,7 @@
 |**2024-08-28**|**A Comprehensive Review of 3D Object Detection in Autonomous Driving: Technological Advances and Future Directions**|Yu Wang et.al.|[2408.16530](http://arxiv.org/abs/2408.16530)|**[link](https://github.com/fishsoup0/autonomous-driving-perception)**|
 |**2024-08-27**|**LapisGS: Layered Progressive 3D Gaussian Splatting for Adaptive Streaming**|Yuang Shi et.al.|[2408.14823](http://arxiv.org/abs/2408.14823)|null|
 |**2024-08-24**|**AdaOcc: Adaptive-Resolution Occupancy Prediction**|Chao Chen et.al.|[2408.13454](http://arxiv.org/abs/2408.13454)|null|
-|**2024-12-10**|**Semi-supervised 3D Semantic Scene Completion with 2D Vision Foundation Model Guidance**|Duc-Hai Pham et.al.|[2408.11559](http://arxiv.org/abs/2408.11559)|null|
+|**2025-01-09**|**Semi-supervised 3D Semantic Scene Completion with 2D Vision Foundation Model Guidance**|Duc-Hai Pham et.al.|[2408.11559](http://arxiv.org/abs/2408.11559)|null|
 |**2024-08-21**|**MambaOcc: Visual State Space Model for BEV-based Occupancy Prediction with Local Adaptive Reordering**|Yonglin Tian et.al.|[2408.11464](http://arxiv.org/abs/2408.11464)|null|
 |**2024-12-05**|**OMEGA: Efficient Occlusion-Aware Navigation for Air-Ground Robot in Dynamic Environments via State Space Model**|Junming Wang et.al.|[2408.10618](http://arxiv.org/abs/2408.10618)|null|
 |**2024-08-19**|**OccMamba: Semantic Occupancy Prediction with State Space Models**|Heng Li et.al.|[2408.09859](http://arxiv.org/abs/2408.09859)|null|
