@@ -180,6 +180,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-14**|**Revisiting Birds Eye View Perception Models with Frozen Foundation Models: DINOv2 and Metric3Dv2**|Seamie Hayes et.al.|[2501.08118](http://arxiv.org/abs/2501.08118)|null|
 |**2025-01-13**|**Efficiently Closing Loops in LiDAR-Based SLAM Using Point Cloud Density Maps**|Saurabh Gupta et.al.|[2501.07399](http://arxiv.org/abs/2501.07399)|null|
 |**2025-01-12**|**"What's Happening"- A Human-centered Multimodal Interpreter Explaining the Actions of Autonomous Vehicles**|Xuewen Luo et.al.|[2501.05322](http://arxiv.org/abs/2501.05322)|null|
 |**2025-01-09**|**AD-L-JEPA: Self-Supervised Spatial World Models with Joint Embedding Predictive Architecture for Autonomous Driving with LiDAR Data**|Haoran Zhu et.al.|[2501.04969](http://arxiv.org/abs/2501.04969)|**[link](https://github.com/haoranzhuexplorer/ad-l-jepa-release)**|
@@ -259,7 +260,6 @@
 |**2024-07-06**|**VIPS-Odom: Visual-Inertial Odometry Tightly-coupled with Parking Slots for Autonomous Parking**|Xuefeng Jiang et.al.|[2407.05017](http://arxiv.org/abs/2407.05017)|null|
 |**2024-07-03**|**Lift, Splat, Map: Lifting Foundation Masks for Label-Free Semantic Scene Completion**|Arthur Zhang et.al.|[2407.03425](http://arxiv.org/abs/2407.03425)|null|
 |**2024-10-31**|**NAVSIM: Data-Driven Non-Reactive Autonomous Vehicle Simulation and Benchmarking**|Daniel Dauner et.al.|[2406.15349](http://arxiv.org/abs/2406.15349)|**[link](https://github.com/autonomousvision/navsim)**|
-|**2024-06-14**|**MapVision: CVPR 2024 Autonomous Grand Challenge Mapless Driving Tech Report**|Zhongyu Yang et.al.|[2406.10125](http://arxiv.org/abs/2406.10125)|null|
 |**2024-02-16**|**GIM: Learning Generalizable Image Matcher From Internet Videos**|Xuelun Shen et.al.|[2402.11095](http://arxiv.org/abs/2402.11095)|null|
 |**2024-02-12**|**Collaborative Semantic Occupancy Prediction with Hybrid Feature Fusion in Connected Automated Vehicles**|Rui Song et.al.|[2402.07635](http://arxiv.org/abs/2402.07635)|null|
 |**2024-02-11**|**Social Evolution of Published Text and The Emergence of Artificial Intelligence Through Large Language Models and The Problem of Toxicity and Bias**|Arifa Khan et.al.|[2402.07166](http://arxiv.org/abs/2402.07166)|null|
@@ -347,6 +347,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-14**|**VINGS-Mono: Visual-Inertial Gaussian Splatting Monocular SLAM in Large Scenes**|Ke Wu et.al.|[2501.08286](http://arxiv.org/abs/2501.08286)|null|
+|**2025-01-14**|**Object-Centric 2D Gaussian Splatting: Background Removal and Occlusion-Aware Pruning for Compact Object Models**|Marcel Rogge et.al.|[2501.08174](http://arxiv.org/abs/2501.08174)|null|
+|**2025-01-13**|**Evaluating Human Perception of Novel View Synthesis: Subjective Quality Assessment of Gaussian Splatting and NeRF in Dynamic Scenes**|Yuhang Zhang et.al.|[2501.08072](http://arxiv.org/abs/2501.08072)|null|
 |**2025-01-13**|**UnCommon Objects in 3D**|Xingchen Liu et.al.|[2501.07574](http://arxiv.org/abs/2501.07574)|**[link](https://github.com/facebookresearch/uco3d)**|
 |**2025-01-13**|**3DGS-to-PC: Convert a 3D Gaussian Splatting Scene into a Dense Point Cloud or Mesh**|Lewis A G Stuart et.al.|[2501.07478](http://arxiv.org/abs/2501.07478)|**[link](https://github.com/lewis-stuart-11/3dgs-to-pc)**|
 |**2025-01-13**|**RMAvatar: Photorealistic Human Avatar Reconstruction from Monocular Video Based on Rectified Mesh-embedded Gaussians**|Sen Peng et.al.|[2501.07104](http://arxiv.org/abs/2501.07104)|null|
@@ -354,7 +357,7 @@
 |**2025-01-12**|**CULTURE3D: Cultural Landmarks and Terrain Dataset for 3D Applications**|Xinyi Zheng et.al.|[2501.06927](http://arxiv.org/abs/2501.06927)|null|
 |**2025-01-12**|**Synthetic Prior for Few-Shot Drivable Head Avatar Inversion**|Wojciech Zielonka et.al.|[2501.06903](http://arxiv.org/abs/2501.06903)|null|
 |**2025-01-12**|**ActiveGAMER: Active GAussian Mapping through Efficient Rendering**|Liyan Chen et.al.|[2501.06897](http://arxiv.org/abs/2501.06897)|null|
-|**2025-01-12**|**Generalized and Efficient 2D Gaussian Splatting for Arbitrary-scale Super-Resolution**|Du Chen et.al.|[2501.06838](http://arxiv.org/abs/2501.06838)|null|
+|**2025-01-14**|**Generalized and Efficient 2D Gaussian Splatting for Arbitrary-scale Super-Resolution**|Du Chen et.al.|[2501.06838](http://arxiv.org/abs/2501.06838)|null|
 |**2025-01-12**|**F3D-Gaus: Feed-forward 3D-aware Generation on ImageNet with Cycle-Consistent Gaussian Splatting**|Yuxin Wang et.al.|[2501.06714](http://arxiv.org/abs/2501.06714)|null|
 |**2025-01-11**|**MapGS: Generalizable Pretraining and Data Augmentation for Online Mapping via Novel View Synthesis**|Hengyuan Zhang et.al.|[2501.06660](http://arxiv.org/abs/2501.06660)|null|
 |**2025-01-11**|**NVS-SQA: Exploring Self-Supervised Quality Representation Learning for Neurally Synthesized Scenes without References**|Qiang Qu et.al.|[2501.06488](http://arxiv.org/abs/2501.06488)|**[link](https://github.com/vincentqqu/nvs-sqa)**|
@@ -366,7 +369,7 @@
 |**2025-01-08**|**FatesGS: Fast and Accurate Sparse-View Surface Reconstruction using Gaussian Splatting with Depth-Feature Consistency**|Han Huang et.al.|[2501.04628](http://arxiv.org/abs/2501.04628)|null|
 |**2025-01-07**|**ZDySS -- Zero-Shot Dynamic Scene Stylization using Gaussian Splatting**|Abhishek Saroha et.al.|[2501.03875](http://arxiv.org/abs/2501.03875)|null|
 |**2025-01-07**|**MoDec-GS: Global-to-Local Motion Decomposition and Temporal Interval Adjustment for Compact Dynamic 3D Gaussian Splatting**|Sangwoon Kwak et.al.|[2501.03714](http://arxiv.org/abs/2501.03714)|null|
-|**2025-01-07**|**DehazeGS: Seeing Through Fog with 3D Gaussian Splatting**|Jinze Yu et.al.|[2501.03659](http://arxiv.org/abs/2501.03659)|null|
+|**2025-01-14**|**DehazeGS: Seeing Through Fog with 3D Gaussian Splatting**|Jinze Yu et.al.|[2501.03659](http://arxiv.org/abs/2501.03659)|null|
 |**2025-01-07**|**ConcealGS: Concealing Invisible Copyright Information in 3D Gaussian Splatting**|Yifeng Yang et.al.|[2501.03605](http://arxiv.org/abs/2501.03605)|**[link](https://github.com/zxk1212/concealgs)**|
 |**2025-01-06**|**Compression of 3D Gaussian Splatting with Optimized Feature Planes and Standard Video Codecs**|Soonbin Lee et.al.|[2501.03399](http://arxiv.org/abs/2501.03399)|null|
 |**2025-01-06**|**Gaussian Masked Autoencoders**|Jathushan Rajasegaran et.al.|[2501.03229](http://arxiv.org/abs/2501.03229)|null|
@@ -424,9 +427,6 @@
 |**2024-12-21**|**SqueezeMe: Efficient Gaussian Avatars for VR**|Shunsuke Saito et.al.|[2412.15171](http://arxiv.org/abs/2412.15171)|null|
 |**2024-12-19**|**Dream to Manipulate: Compositional World Models Empowering Robot Imitation Learning with Imagination**|Leonardo Barcellona et.al.|[2412.14957](http://arxiv.org/abs/2412.14957)|null|
 |**2024-12-19**|**GSRender: Deduplicated Occupancy Prediction via Weakly Supervised 3D Gaussian Splatting**|Qianpu Sun et.al.|[2412.14579](http://arxiv.org/abs/2412.14579)|null|
-|**2024-12-19**|**Improving Geometry in Sparse-View 3DGS via Reprojection-based DoF Separation**|Yongsung Kim et.al.|[2412.14568](http://arxiv.org/abs/2412.14568)|null|
-|**2024-12-18**|**GraphAvatar: Compact Head Avatars with GNN-Generated 3D Gaussians**|Xiaobao Wei et.al.|[2412.13983](http://arxiv.org/abs/2412.13983)|**[link](https://github.com/ucwxb/graphavatar)**|
-|**2024-12-18**|**GAGS: Granularity-Aware Feature Distillation for Language Gaussian Splatting**|Yuning Peng et.al.|[2412.13654](http://arxiv.org/abs/2412.13654)|null|
 |**2024-02-20**|**GaussianObject: Just Taking Four Images to Get A High-Quality 3D Object with Gaussian Splatting**|Chen Yang et.al.|[2402.10259](http://arxiv.org/abs/2402.10259)|**[link](https://github.com/GaussianObject/GaussianObject)**|
 |**2024-02-15**|**GES: Generalized Exponential Splatting for Efficient Radiance Field Rendering**|Abdullah Hamdi et.al.|[2402.10128](http://arxiv.org/abs/2402.10128)|null|
 |**2024-02-13**|**IM-3D: Iterative Multiview Diffusion and Reconstruction for High-Quality 3D Generation**|Luke Melas-Kyriazi et.al.|[2402.08682](http://arxiv.org/abs/2402.08682)|null|
@@ -536,6 +536,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-14**|**VINGS-Mono: Visual-Inertial Gaussian Splatting Monocular SLAM in Large Scenes**|Ke Wu et.al.|[2501.08286](http://arxiv.org/abs/2501.08286)|null|
 |**2025-01-13**|**Efficiently Closing Loops in LiDAR-Based SLAM Using Point Cloud Density Maps**|Saurabh Gupta et.al.|[2501.07399](http://arxiv.org/abs/2501.07399)|null|
 |**2025-01-09**|**Seeing with Partial Certainty: Conformal Prediction for Robotic Scene Recognition in Built Environments**|Yifan Xu et.al.|[2501.04947](http://arxiv.org/abs/2501.04947)|null|
 |**2025-01-03**|**A Minimal Subset Approach for Efficient and Scalable Loop Closure**|Nikolaos Stathoulopoulos et.al.|[2501.01791](http://arxiv.org/abs/2501.01791)|**[link](https://github.com/ltu-rai/opt-key)**|
@@ -615,7 +616,6 @@
 |**2024-09-04**|**Augmented Reality without Borders: Achieving Precise Localization Without Maps**|Albert Gassol Puigjaner et.al.|[2408.17373](http://arxiv.org/abs/2408.17373)|null|
 |**2024-08-29**|**A compact neuromorphic system for ultra energy-efficient, on-device robot localization**|Adam D. Hines et.al.|[2408.16754](http://arxiv.org/abs/2408.16754)|**[link](https://github.com/AdamDHines/LENS)**|
 |**2024-08-28**|**MambaPlace:Text-to-Point-Cloud Cross-Modal Place Recognition with Attention Mamba Mechanisms**|Tianyi Shang et.al.|[2408.15740](http://arxiv.org/abs/2408.15740)|**[link](https://github.com/CV4RA/MambaPlace)**|
-|**2024-08-21**|**FUSELOC: Fusing Global and Local Descriptors to Disambiguate 2D-3D Matching in Visual Localization**|Son Tung Nguyen et.al.|[2408.12037](http://arxiv.org/abs/2408.12037)|**[link](https://github.com/sontung/descriptor-disambiguation)**|
 |**2024-02-19**|**CoLRIO: LiDAR-Ranging-Inertial Centralized State Estimation for Robotic Swarms**|Shipeng Zhong et.al.|[2402.11790](http://arxiv.org/abs/2402.11790)|null|
 |**2024-02-16**|**Spike-EVPR: Deep Spiking Residual Network with Cross-Representation Aggregation for Event-Based Visual Place Recognition**|Chenming Hu et.al.|[2402.10476](http://arxiv.org/abs/2402.10476)|null|
 |**2024-02-14**|**Loopy-SLAM: Dense Neural SLAM with Loop Closures**|Lorenzo Liso et.al.|[2402.09944](http://arxiv.org/abs/2402.09944)|null|
@@ -1246,6 +1246,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-14**|**VINGS-Mono: Visual-Inertial Gaussian Splatting Monocular SLAM in Large Scenes**|Ke Wu et.al.|[2501.08286](http://arxiv.org/abs/2501.08286)|null|
+|**2025-01-13**|**Evaluating Human Perception of Novel View Synthesis: Subjective Quality Assessment of Gaussian Splatting and NeRF in Dynamic Scenes**|Yuhang Zhang et.al.|[2501.08072](http://arxiv.org/abs/2501.08072)|null|
 |**2025-01-13**|**SplatMAP: Online Dense Monocular SLAM with 3D Gaussian Splatting**|Yue Hu et.al.|[2501.07015](http://arxiv.org/abs/2501.07015)|null|
 |**2025-01-12**|**CULTURE3D: Cultural Landmarks and Terrain Dataset for 3D Applications**|Xinyi Zheng et.al.|[2501.06927](http://arxiv.org/abs/2501.06927)|null|
 |**2025-01-12**|**ActiveGAMER: Active GAussian Mapping through Efficient Rendering**|Liyan Chen et.al.|[2501.06897](http://arxiv.org/abs/2501.06897)|null|
@@ -1255,7 +1257,7 @@
 |**2025-01-13**|**Light Transport-aware Diffusion Posterior Sampling for Single-View Reconstruction of 3D Volumes**|Ludwic Leonard et.al.|[2501.05226](http://arxiv.org/abs/2501.05226)|null|
 |**2025-01-07**|**NeRFs are Mirror Detectors: Using Structural Similarity for Multi-View Mirror Scene Reconstruction with 3D Surface Primitives**|Leif Van Holland et.al.|[2501.04074](http://arxiv.org/abs/2501.04074)|null|
 |**2025-01-07**|**NeuralSVG: An Implicit Representation for Text-to-Vector Generation**|Sagi Polaczek et.al.|[2501.03992](http://arxiv.org/abs/2501.03992)|null|
-|**2025-01-07**|**DehazeGS: Seeing Through Fog with 3D Gaussian Splatting**|Jinze Yu et.al.|[2501.03659](http://arxiv.org/abs/2501.03659)|null|
+|**2025-01-14**|**DehazeGS: Seeing Through Fog with 3D Gaussian Splatting**|Jinze Yu et.al.|[2501.03659](http://arxiv.org/abs/2501.03659)|null|
 |**2025-01-07**|**ConcealGS: Concealing Invisible Copyright Information in 3D Gaussian Splatting**|Yifeng Yang et.al.|[2501.03605](http://arxiv.org/abs/2501.03605)|**[link](https://github.com/zxk1212/concealgs)**|
 |**2025-01-07**|**AE-NeRF: Augmenting Event-Based Neural Radiance Fields for Non-ideal Conditions and Larger Scene**|Chaoran Feng et.al.|[2501.02807](http://arxiv.org/abs/2501.02807)|null|
 |**2024-12-29**|**Bringing Objects to Life: 4D generation from 3D objects**|Ohad Rahamim et.al.|[2412.20422](http://arxiv.org/abs/2412.20422)|null|
@@ -1324,8 +1326,6 @@
 |**2024-11-15**|**The Oxford Spires Dataset: Benchmarking Large-Scale LiDAR-Visual Localisation, Reconstruction and Radiance Field Methods**|Yifu Tao et.al.|[2411.10546](http://arxiv.org/abs/2411.10546)|null|
 |**2024-11-15**|**USP-Gaussian: Unifying Spike-based Image Reconstruction, Pose Correction and Gaussian Splatting**|Kang Chen et.al.|[2411.10504](http://arxiv.org/abs/2411.10504)|**[link](https://github.com/chenkang455/usp-gaussian)**|
 |**2024-11-15**|**GSEditPro: 3D Gaussian Splatting Editing with Attention-based Progressive Localization**|Yanhao Sun et.al.|[2411.10033](http://arxiv.org/abs/2411.10033)|null|
-|**2024-11-22**|**BillBoard Splatting (BBSplat): Learnable Textured Primitives for Novel View Synthesis**|David Svitov et.al.|[2411.08508](http://arxiv.org/abs/2411.08508)|**[link](https://github.com/david-svitov/BBSplat)**|
-|**2024-11-13**|**Biomass phenotyping of oilseed rape through UAV multi-view oblique imaging with 3DGS and SAM model**|Yutao Shen et.al.|[2411.08453](http://arxiv.org/abs/2411.08453)|null|
 |**2024-02-19**|**Binary Opacity Grids: Capturing Fine Geometric Detail for Mesh-Based View Synthesis**|Christian Reiser et.al.|[2402.12377](http://arxiv.org/abs/2402.12377)|null|
 |**2024-02-19**|**Colorizing Monochromatic Radiance Fields**|Yean Cheng et.al.|[2402.12184](http://arxiv.org/abs/2402.12184)|null|
 |**2024-02-17**|**Semantically-aware Neural Radiance Fields for Visual Scene Understanding: A Comprehensive Review**|Thang-Anh-Quan Nguyen et.al.|[2402.11141](http://arxiv.org/abs/2402.11141)|null|
