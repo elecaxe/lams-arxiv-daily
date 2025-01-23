@@ -349,9 +349,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-22**|**Sketch and Patch: Efficient 3D Gaussian Representation for Man-Made Scenes**|Yuang Shi et.al.|[2501.13045](http://arxiv.org/abs/2501.13045)|null|
 |**2025-01-21**|**DARB-Splatting: Generalizing Splatting with Decaying Anisotropic Radial Basis Functions**|Vishagar Arunan et.al.|[2501.12369](http://arxiv.org/abs/2501.12369)|null|
-|**2025-01-21**|**HAC++: Towards 100X Compression of 3D Gaussian Splatting**|Yihang Chen et.al.|[2501.12255](http://arxiv.org/abs/2501.12255)|**[link](https://github.com/yihangchen-ee/hac-plus)**|
-|**2025-01-21**|**GaussianVideo: Efficient Video Representation Through 2D Gaussian Splatting**|Longan Wang et.al.|[2501.12060](http://arxiv.org/abs/2501.12060)|null|
+|**2025-01-22**|**HAC++: Towards 100X Compression of 3D Gaussian Splatting**|Yihang Chen et.al.|[2501.12255](http://arxiv.org/abs/2501.12255)|**[link](https://github.com/yihangchen-ee/hac-plus)**|
+|**2025-01-22**|**GSVC: Efficient Video Representation and Compression Through 2D Gaussian Splatting**|Longan Wang et.al.|[2501.12060](http://arxiv.org/abs/2501.12060)|null|
 |**2025-01-20**|**See In Detail: Enhancing Sparse-view 3D Gaussian Splatting with Local Depth and Semantic Regularization**|Zongqi He et.al.|[2501.11508](http://arxiv.org/abs/2501.11508)|null|
 |**2025-01-19**|**RDG-GS: Relative Depth Guidance with Gaussian Splatting for Real-time Sparse-View 3D Rendering**|Chenlu Zhan et.al.|[2501.11102](http://arxiv.org/abs/2501.11102)|null|
 |**2025-01-18**|**Decoupling Appearance Variations with 3D Consistent Features in Gaussian Splatting**|Jiaqi Lin et.al.|[2501.10788](http://arxiv.org/abs/2501.10788)|null|
@@ -428,7 +429,6 @@
 |**2025-01-08**|**Balanced 3DGS: Gaussian-wise Parallelism Rendering with Fine-Grained Tiling**|Hao Gui et.al.|[2412.17378](http://arxiv.org/abs/2412.17378)|null|
 |**2024-12-22**|**GSemSplat: Generalizable Semantic 3D Gaussian Splatting from Uncalibrated Image Pairs**|Xingrui Wang et.al.|[2412.16932](http://arxiv.org/abs/2412.16932)|null|
 |**2024-12-22**|**GeoTexDensifier: Geometry-Texture-Aware Densification for High-Quality Photorealistic 3D Gaussian Splatting**|Hanqing Jiang et.al.|[2412.16809](http://arxiv.org/abs/2412.16809)|null|
-|**2024-12-25**|**Topology-Aware 3D Gaussian Splatting: Leveraging Persistent Homology for Optimized Structural Integrity**|Tianqi Shen et.al.|[2412.16619](http://arxiv.org/abs/2412.16619)|**[link](https://github.com/amadeusstq/topology-gs)**|
 |**2024-02-20**|**GaussianObject: Just Taking Four Images to Get A High-Quality 3D Object with Gaussian Splatting**|Chen Yang et.al.|[2402.10259](http://arxiv.org/abs/2402.10259)|**[link](https://github.com/GaussianObject/GaussianObject)**|
 |**2024-02-15**|**GES: Generalized Exponential Splatting for Efficient Radiance Field Rendering**|Abdullah Hamdi et.al.|[2402.10128](http://arxiv.org/abs/2402.10128)|null|
 |**2024-02-13**|**IM-3D: Iterative Multiview Diffusion and Reconstruction for High-Quality 3D Generation**|Luke Melas-Kyriazi et.al.|[2402.08682](http://arxiv.org/abs/2402.08682)|null|
@@ -757,7 +757,7 @@
 |**2024-05-25**|**Deep-PE: A Learning-Based Pose Evaluator for Point Cloud Registration**|Junjie Gao et.al.|[2405.16085](http://arxiv.org/abs/2405.16085)|null|
 |**2024-06-01**|**Benchmarking Fish Dataset and Evaluation Metric in Keypoint Detection -- Towards Precise Fish Morphological Assessment in Aquaculture Breeding**|Weizhen Liu et.al.|[2405.12476](http://arxiv.org/abs/2405.12476)|**[link](https://github.com/weizhenliubioinform/fish-phenotype-detect)**|
 |**2024-08-12**|**TP3M: Transformer-based Pseudo 3D Image Matching with Reference Image**|Liming Han et.al.|[2405.08434](http://arxiv.org/abs/2405.08434)|null|
-|**2024-05-15**|**Vector-Symbolic Architecture for Event-Based Optical Flow**|Hongzhi You et.al.|[2405.08300](http://arxiv.org/abs/2405.08300)|null|
+|**2025-01-22**|**Vector-Symbolic Architecture for Event-Based Optical Flow**|Hongzhi You et.al.|[2405.08300](http://arxiv.org/abs/2405.08300)|null|
 |**2024-08-21**|**RGBD-Glue: General Feature Combination for Robust RGB-D Point Cloud Registration**|Congjia Chen et.al.|[2405.07594](http://arxiv.org/abs/2405.07594)|null|
 |**2024-05-08**|**Unsupervised Skin Feature Tracking with Deep Neural Networks**|Jose Chang et.al.|[2405.04943](http://arxiv.org/abs/2405.04943)|null|
 |**2024-05-07**|**A Self-Supervised Method for Body Part Segmentation and Keypoint Detection of Rat Images**|László Kopácsi et.al.|[2405.04650](http://arxiv.org/abs/2405.04650)|null|
@@ -1251,6 +1251,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-22**|**Neural Radiance Fields for the Real World: A Survey**|Wenhui Xiao et.al.|[2501.13104](http://arxiv.org/abs/2501.13104)|null|
+|**2025-01-22**|**DWTNeRF: Boosting Few-shot Neural Radiance Fields via Discrete Wavelet Transform**|Hung Nguyen et.al.|[2501.12637](http://arxiv.org/abs/2501.12637)|null|
 |**2025-01-21**|**DNRSelect: Active Best View Selection for Deferred Neural Rendering**|Dongli Wu et.al.|[2501.12150](http://arxiv.org/abs/2501.12150)|null|
 |**2025-01-21**|**Fast Underwater Scene Reconstruction using Multi-View Stereo and Physical Imaging**|Shuyi Hu et.al.|[2501.11884](http://arxiv.org/abs/2501.11884)|null|
 |**2025-01-16**|**Poxel: Voxel Reconstruction for 3D Printing**|Ruixiang Cao et.al.|[2501.10474](http://arxiv.org/abs/2501.10474)|null|
@@ -1329,8 +1331,6 @@
 |**2024-11-23**|**SplatSDF: Boosting Neural Implicit SDF via Gaussian Splatting Fusion**|Runfa Blark Li et.al.|[2411.15468](http://arxiv.org/abs/2411.15468)|null|
 |**2024-11-20**|**Sparse Input View Synthesis: 3D Representations and Reliable Priors**|Nagabhushan Somraj et.al.|[2411.13631](http://arxiv.org/abs/2411.13631)|null|
 |**2024-11-20**|**Robust SG-NeRF: Robust Scene Graph Aided Neural Surface Reconstruction**|Yi Gu et.al.|[2411.13620](http://arxiv.org/abs/2411.13620)|null|
-|**2024-11-20**|**GazeGaussian: High-Fidelity Gaze Redirection with 3D Gaussian Splatting**|Xiaobao Wei et.al.|[2411.12981](http://arxiv.org/abs/2411.12981)|null|
-|**2024-11-25**|**SCIGS: 3D Gaussians Splatting from a Snapshot Compressive Image**|Zixu Wang et.al.|[2411.12471](http://arxiv.org/abs/2411.12471)|null|
 |**2024-02-19**|**Binary Opacity Grids: Capturing Fine Geometric Detail for Mesh-Based View Synthesis**|Christian Reiser et.al.|[2402.12377](http://arxiv.org/abs/2402.12377)|null|
 |**2024-02-19**|**Colorizing Monochromatic Radiance Fields**|Yean Cheng et.al.|[2402.12184](http://arxiv.org/abs/2402.12184)|null|
 |**2024-02-17**|**Semantically-aware Neural Radiance Fields for Visual Scene Understanding: A Comprehensive Review**|Thang-Anh-Quan Nguyen et.al.|[2402.11141](http://arxiv.org/abs/2402.11141)|null|
@@ -1418,6 +1418,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-22**|**Grid-based Submap Joining: An Efficient Algorithm for Simultaneously Optimizing Global Occupancy Map and Local Submap Frames**|Yingyu Wang et.al.|[2501.12764](http://arxiv.org/abs/2501.12764)|null|
 |**2025-01-20**|**A Survey of World Models for Autonomous Driving**|Tuo Feng et.al.|[2501.11260](http://arxiv.org/abs/2501.11260)|null|
 |**2024-12-29**|**MR-Occ: Efficient Camera-LiDAR 3D Semantic Occupancy Prediction Using Hierarchical Multi-Resolution Voxel Representation**|Minjae Seong et.al.|[2412.20480](http://arxiv.org/abs/2412.20480)|null|
 |**2024-12-28**|**Reinforcement Learning Driven Multi-Robot Exploration via Explicit Communication and Density-Based Frontier Search**|Gabriele Calzolari et.al.|[2412.20049](http://arxiv.org/abs/2412.20049)|null|
@@ -1497,7 +1498,6 @@
 |**2024-08-27**|**Brain Inspired Probabilistic Occupancy Grid Mapping with Hyperdimensional Computing**|Shay Snyder et.al.|[2408.09066](http://arxiv.org/abs/2408.09066)|null|
 |**2024-08-17**|**Risk Occupancy: A New and Efficient Paradigm through Vehicle-Road-Cloud Collaboration**|Jiaxing Chen et.al.|[2408.07367](http://arxiv.org/abs/2408.07367)|null|
 |**2024-08-11**|**Rapid Vector-based Any-angle Path Planning with Non-convex Obstacles**|Yan Kai Lai et.al.|[2408.05806](http://arxiv.org/abs/2408.05806)|null|
-|**2024-08-07**|**VPOcc: Exploiting Vanishing Point for Monocular 3D Semantic Occupancy Prediction**|Junsu Kim et.al.|[2408.03551](http://arxiv.org/abs/2408.03551)|null|
 |**2024-02-19**|**SDGE: Stereo Guided Depth Estimation for 360° Camera Sets**|Jialei Xu et.al.|[2402.11791](http://arxiv.org/abs/2402.11791)|null|
 |**2024-02-12**|**Collaborative Semantic Occupancy Prediction with Hybrid Feature Fusion in Connected Automated Vehicles**|Rui Song et.al.|[2402.07635](http://arxiv.org/abs/2402.07635)|null|
 |**2024-02-04**|**Hybrid-Prediction Integrated Planning for Autonomous Driving**|Haochen Liu et.al.|[2402.02426](http://arxiv.org/abs/2402.02426)|null|
