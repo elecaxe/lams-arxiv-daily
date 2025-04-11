@@ -362,6 +362,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-10**|**InteractAvatar: Modeling Hand-Face Interaction in Photorealistic Avatars with Deformable Gaussians**|Kefan Chen et.al.|[2504.07949](http://arxiv.org/abs/2504.07949)|null|
+|**2025-04-10**|**View-Dependent Uncertainty Estimation of 3D Gaussian Splatting**|Chenyu Han et.al.|[2504.07370](http://arxiv.org/abs/2504.07370)|null|
 |**2025-04-09**|**Wheat3DGS: In-field 3D Reconstruction, Instance Segmentation and Phenotyping of Wheat Heads with Gaussian Splatting**|Daiwei Zhang et.al.|[2504.06978](http://arxiv.org/abs/2504.06978)|null|
 |**2025-04-09**|**IAAO: Interactive Affordance Learning for Articulated Objects in 3D Environments**|Can Zhang et.al.|[2504.06827](http://arxiv.org/abs/2504.06827)|null|
 |**2025-04-09**|**SVG-IR: Spatially-Varying Gaussian Splatting for Inverse Rendering**|Hanxiao Sun et.al.|[2504.06815](http://arxiv.org/abs/2504.06815)|null|
@@ -440,8 +442,6 @@
 |**2025-03-28**|**Feature4X: Bridging Any Monocular Video to 4D Agentic AI with Versatile Gaussian Feature Fields**|Shijie Zhou et.al.|[2503.20776](http://arxiv.org/abs/2503.20776)|null|
 |**2025-03-26**|**TC-GS: Tri-plane based compression for 3D Gaussian Splatting**|Taorui Wang et.al.|[2503.20221](http://arxiv.org/abs/2503.20221)|**[link](https://github.com/timwang2001/tc-gs)**|
 |**2025-03-26**|**EVolSplat: Efficient Volume-based Gaussian Splatting for Urban View Synthesis**|Sheng Miao et.al.|[2503.20168](http://arxiv.org/abs/2503.20168)|null|
-|**2025-03-25**|**Thin-Shell-SfT: Fine-Grained Monocular Non-rigid 3D Surface Tracking with Neural Deformation Fields**|Navami Kairanda et.al.|[2503.19976](http://arxiv.org/abs/2503.19976)|null|
-|**2025-03-26**|**A Survey on Event-driven 3D Reconstruction: Development under Different Categories**|Chuanzhi Xu et.al.|[2503.19753](http://arxiv.org/abs/2503.19753)|null|
 |**2024-02-20**|**GaussianObject: Just Taking Four Images to Get A High-Quality 3D Object with Gaussian Splatting**|Chen Yang et.al.|[2402.10259](http://arxiv.org/abs/2402.10259)|**[link](https://github.com/GaussianObject/GaussianObject)**|
 |**2024-02-15**|**GES: Generalized Exponential Splatting for Efficient Radiance Field Rendering**|Abdullah Hamdi et.al.|[2402.10128](http://arxiv.org/abs/2402.10128)|null|
 |**2024-02-13**|**IM-3D: Iterative Multiview Diffusion and Reconstruction for High-Quality 3D Generation**|Luke Melas-Kyriazi et.al.|[2402.08682](http://arxiv.org/abs/2402.08682)|null|
@@ -529,6 +529,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-09**|**A Pointcloud Registration Framework for Relocalization in Subterranean Environments**|David Akhihiero et.al.|[2504.07231](http://arxiv.org/abs/2504.07231)|null|
 |**2024-12-08**|**AC-LIO: Towards Asymptotic and Consistent Convergence in LiDAR-Inertial Odometry**|Tianxiang Zhang et.al.|[2412.05873](http://arxiv.org/abs/2412.05873)|null|
 |**2024-10-16**|**NAR-*ICP: Neural Execution of Classical ICP-based Pointcloud Registration Algorithms**|Efimia Panagiotaki et.al.|[2410.11031](http://arxiv.org/abs/2410.11031)|null|
 |**2024-10-03**|**LiDAR Inertial Odometry And Mapping Using Learned Registration-Relevant Features**|Zihao Dong et.al.|[2410.02961](http://arxiv.org/abs/2410.02961)|null|
@@ -551,9 +552,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-09**|**A Pointcloud Registration Framework for Relocalization in Subterranean Environments**|David Akhihiero et.al.|[2504.07231](http://arxiv.org/abs/2504.07231)|null|
 |**2025-04-08**|**To Match or Not to Match: Revisiting Image Matching for Reliable Visual Place Recognition**|Davide Sferrazza et.al.|[2504.06116](http://arxiv.org/abs/2504.06116)|null|
 |**2025-04-07**|**TDFANet: Encoding Sequential 4D Radar Point Clouds Using Trajectory-Guided Deformable Feature Aggregation for Place Recognition**|Shouyi Lu et.al.|[2504.05103](http://arxiv.org/abs/2504.05103)|null|
-|**2025-04-06**|**Re-thinking Temporal Search for Long-Form Video Understanding**|Jinhui Ye et.al.|[2504.02259](http://arxiv.org/abs/2504.02259)|null|
+|**2025-04-06**|**Re-thinking Temporal Search for Long-Form Video Understanding**|Jinhui Ye et.al.|[2504.02259](http://arxiv.org/abs/2504.02259)|**[link](https://github.com/longvideohaystack/tstar)**|
 |**2025-04-02**|**A Chefs KISS -- Utilizing semantic information in both ICP and SLAM framework**|Sven Ochs et.al.|[2504.02086](http://arxiv.org/abs/2504.02086)|null|
 |**2025-03-31**|**LiM-Loc: Visual Localization with Dense and Accurate 3D Reference Maps Directly Corresponding 2D Keypoints to 3D LiDAR Point Clouds**|Masahiko Tsuji et.al.|[2503.23664](http://arxiv.org/abs/2503.23664)|null|
 |**2025-03-27**|**UGNA-VPR: A Novel Training Paradigm for Visual Place Recognition Based on Uncertainty-Guided NeRF Augmentation**|Yehui Shen et.al.|[2503.21338](http://arxiv.org/abs/2503.21338)|**[link](https://github.com/nubot-nudt/ugna-vpr)**|
@@ -630,7 +632,6 @@
 |**2024-12-03**|**A Minimalistic 3D Self-Organized UAV Flocking Approach for Desert Exploration**|Thulio Amorim et.al.|[2412.02881](http://arxiv.org/abs/2412.02881)|null|
 |**2024-12-02**|**Mutli-View 3D Reconstruction using Knowledge Distillation**|Aditya Dutt et.al.|[2412.02039](http://arxiv.org/abs/2412.02039)|**[link](https://github.com/ishikaalunawat/231aproj)**|
 |**2024-12-02**|**Cross-Modal Visual Relocalization in Prior LiDAR Maps Utilizing Intensity Textures**|Qiyuan Shen et.al.|[2412.01299](http://arxiv.org/abs/2412.01299)|null|
-|**2024-12-01**|**EDTformer: An Efficient Decoder Transformer for Visual Place Recognition**|Tong Jin et.al.|[2412.00784](http://arxiv.org/abs/2412.00784)|null|
 |**2024-02-19**|**CoLRIO: LiDAR-Ranging-Inertial Centralized State Estimation for Robotic Swarms**|Shipeng Zhong et.al.|[2402.11790](http://arxiv.org/abs/2402.11790)|null|
 |**2024-02-16**|**Spike-EVPR: Deep Spiking Residual Network with Cross-Representation Aggregation for Event-Based Visual Place Recognition**|Chenming Hu et.al.|[2402.10476](http://arxiv.org/abs/2402.10476)|null|
 |**2024-02-14**|**Loopy-SLAM: Dense Neural SLAM with Loop Closures**|Lorenzo Liso et.al.|[2402.09944](http://arxiv.org/abs/2402.09944)|null|
@@ -1446,6 +1447,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-10**|**DGOcc: Depth-aware Global Query-based Network for Monocular 3D Occupancy Prediction**|Xu Zhao et.al.|[2504.07524](http://arxiv.org/abs/2504.07524)|null|
 |**2025-04-09**|**Towards Efficient Roadside LiDAR Deployment: A Fast Surrogate Metric Based on Entropy-Guided Visibility**|Yuze Jiang et.al.|[2504.06772](http://arxiv.org/abs/2504.06772)|null|
 |**2025-04-09**|**Collision avoidance from monocular vision trained with novel view synthesis**|Valentin Tordjman--Levavasseur et.al.|[2504.06651](http://arxiv.org/abs/2504.06651)|null|
 |**2025-04-07**|**Inverse++: Vision-Centric 3D Semantic Occupancy Prediction Assisted with 3D Object Detection**|Zhenxing Ming et.al.|[2504.04732](http://arxiv.org/abs/2504.04732)|null|
@@ -1525,7 +1527,6 @@
 |**2024-11-03**|**GITSR: Graph Interaction Transformer-based Scene Representation for Multi Vehicle Collaborative Decision-making**|Xingyu Hu et.al.|[2411.01608](http://arxiv.org/abs/2411.01608)|null|
 |**2024-11-02**|**Mixed-Integer MPC-Based Motion Planning Using Hybrid Zonotopes with Tight Relaxations**|Joshua A. Robbins et.al.|[2411.01286](http://arxiv.org/abs/2411.01286)|null|
 |**2024-12-06**|**Cross-modal semantic segmentation for indoor environmental perception using single-chip millimeter-wave radar raw data**|Hairuo Hu et.al.|[2411.00499](http://arxiv.org/abs/2411.00499)|null|
-|**2024-10-31**|**Dual Agent Learning Based Aerial Trajectory Tracking**|Shaswat Garg et.al.|[2410.23571](http://arxiv.org/abs/2410.23571)|null|
 |**2024-02-19**|**SDGE: Stereo Guided Depth Estimation for 360° Camera Sets**|Jialei Xu et.al.|[2402.11791](http://arxiv.org/abs/2402.11791)|null|
 |**2024-02-12**|**Collaborative Semantic Occupancy Prediction with Hybrid Feature Fusion in Connected Automated Vehicles**|Rui Song et.al.|[2402.07635](http://arxiv.org/abs/2402.07635)|null|
 |**2024-02-04**|**Hybrid-Prediction Integrated Planning for Autonomous Driving**|Haochen Liu et.al.|[2402.02426](http://arxiv.org/abs/2402.02426)|null|
