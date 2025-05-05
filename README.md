@@ -362,6 +362,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-02**|**FalconWing: An Open-Source Platform for Ultra-Light Fixed-Wing Aircraft Research**|Yan Miao et.al.|[2505.01383](http://arxiv.org/abs/2505.01383)|null|
+|**2025-05-02**|**Compensating Spatiotemporally Inconsistent Observations for Online Dynamic 3D Gaussian Splatting**|Youngsik Yun et.al.|[2505.01235](http://arxiv.org/abs/2505.01235)|null|
+|**2025-04-30**|**A Survey on 3D Reconstruction Techniques in Plant Phenotyping: From Classical Methods to Neural Radiance Fields (NeRF), 3D Gaussian Splatting (3DGS), and Beyond**|Jiajia Li et.al.|[2505.00737](http://arxiv.org/abs/2505.00737)|null|
 |**2025-05-01**|**Real-Time Animatable 2DGS-Avatars with Detail Enhancement from Monocular Videos**|Xia Yuan et.al.|[2505.00421](http://arxiv.org/abs/2505.00421)|null|
 |**2025-04-30**|**HoloTime: Taming Video Diffusion Models for Panoramic 4D Scene Generation**|Haiyang Zhou et.al.|[2504.21650](http://arxiv.org/abs/2504.21650)|null|
 |**2025-04-29**|**GauSS-MI: Gaussian Splatting Shannon Mutual Information for Active 3D Reconstruction**|Yuhan Xie et.al.|[2504.21067](http://arxiv.org/abs/2504.21067)|null|
@@ -439,9 +442,6 @@
 |**2025-04-09**|**IAAO: Interactive Affordance Learning for Articulated Objects in 3D Environments**|Can Zhang et.al.|[2504.06827](http://arxiv.org/abs/2504.06827)|null|
 |**2025-04-09**|**SVG-IR: Spatially-Varying Gaussian Splatting for Inverse Rendering**|Hanxiao Sun et.al.|[2504.06815](http://arxiv.org/abs/2504.06815)|null|
 |**2025-04-09**|**GSta: Efficient Training Scheme with Siestaed Gaussians for Monocular 3D Scene Reconstruction**|Anil Armagan et.al.|[2504.06716](http://arxiv.org/abs/2504.06716)|null|
-|**2025-04-09**|**Collision avoidance from monocular vision trained with novel view synthesis**|Valentin Tordjman--Levavasseur et.al.|[2504.06651](http://arxiv.org/abs/2504.06651)|null|
-|**2025-04-10**|**Stochastic Ray Tracing of 3D Transparent Gaussians**|Xin Sun et.al.|[2504.06598](http://arxiv.org/abs/2504.06598)|null|
-|**2025-04-08**|**Micro-splatting: Maximizing Isotropic Constraints for Refined Optimization in 3D Gaussian Splatting**|Jee Won Lee et.al.|[2504.05740](http://arxiv.org/abs/2504.05740)|null|
 |**2024-02-20**|**GaussianObject: Just Taking Four Images to Get A High-Quality 3D Object with Gaussian Splatting**|Chen Yang et.al.|[2402.10259](http://arxiv.org/abs/2402.10259)|**[link](https://github.com/GaussianObject/GaussianObject)**|
 |**2024-02-15**|**GES: Generalized Exponential Splatting for Efficient Radiance Field Rendering**|Abdullah Hamdi et.al.|[2402.10128](http://arxiv.org/abs/2402.10128)|null|
 |**2024-02-13**|**IM-3D: Iterative Multiview Diffusion and Reconstruction for High-Quality 3D Generation**|Luke Melas-Kyriazi et.al.|[2402.08682](http://arxiv.org/abs/2402.08682)|null|
@@ -552,6 +552,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-02**|**NeuroLoc: Encoding Navigation Cells for 6-DOF Camera Localization**|Xun Li et.al.|[2505.01113](http://arxiv.org/abs/2505.01113)|null|
 |**2025-04-29**|**Large-scale visual SLAM for in-the-wild videos**|Shuo Sun et.al.|[2504.20496](http://arxiv.org/abs/2504.20496)|null|
 |**2025-05-01**|**GSFeatLoc: Visual Localization Using Feature Correspondence on 3D Gaussian Splatting**|Jongwon Lee et.al.|[2504.20379](http://arxiv.org/abs/2504.20379)|null|
 |**2025-04-30**|**OPAL: Visibility-aware LiDAR-to-OpenStreetMap Place Recognition via Adaptive Radial Fusion**|Shuhao Kang et.al.|[2504.19258](http://arxiv.org/abs/2504.19258)|null|
@@ -631,7 +632,6 @@
 |**2025-03-14**|**MR-COGraphs: Communication-efficient Multi-Robot Open-vocabulary Mapping System via 3D Scene Graphs**|Qiuyi Gu et.al.|[2412.18381](http://arxiv.org/abs/2412.18381)|**[link](https://github.com/efc-robot/mr-cographs)**|
 |**2025-03-06**|**Large-Scale UWB Anchor Calibration and One-Shot Localization Using Gaussian Process**|Shenghai Yuan et.al.|[2412.16880](http://arxiv.org/abs/2412.16880)|null|
 |**2024-12-18**|**ConDo: Continual Domain Expansion for Absolute Pose Regression**|Zijun Li et.al.|[2412.13452](http://arxiv.org/abs/2412.13452)|**[link](https://github.com/zijunli7/condo)**|
-|**2024-12-16**|**UniLoc: Towards Universal Place Recognition Using Any Single Modality**|Yan Xia et.al.|[2412.12079](http://arxiv.org/abs/2412.12079)|null|
 |**2024-02-19**|**CoLRIO: LiDAR-Ranging-Inertial Centralized State Estimation for Robotic Swarms**|Shipeng Zhong et.al.|[2402.11790](http://arxiv.org/abs/2402.11790)|null|
 |**2024-02-16**|**Spike-EVPR: Deep Spiking Residual Network with Cross-Representation Aggregation for Event-Based Visual Place Recognition**|Chenming Hu et.al.|[2402.10476](http://arxiv.org/abs/2402.10476)|null|
 |**2024-02-14**|**Loopy-SLAM: Dense Neural SLAM with Loop Closures**|Lorenzo Liso et.al.|[2402.09944](http://arxiv.org/abs/2402.09944)|null|
@@ -1053,6 +1053,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-01**|**Are Minimal Radial Distortion Solvers Really Necessary for Relative Pose Estimation?**|Viktor Kocur et.al.|[2505.00866](http://arxiv.org/abs/2505.00866)|null|
 |**2025-04-29**|**Large-scale visual SLAM for in-the-wild videos**|Shuo Sun et.al.|[2504.20496](http://arxiv.org/abs/2504.20496)|null|
 |**2025-04-29**|**Sparse2DGS: Geometry-Prioritized Gaussian Splatting for Surface Reconstruction from Sparse Views**|Jiang Wu et.al.|[2504.20378](http://arxiv.org/abs/2504.20378)|null|
 |**2025-04-28**|**MP-SfM: Monocular Surface Priors for Robust Structure-from-Motion**|Zador Pataki et.al.|[2504.20040](http://arxiv.org/abs/2504.20040)|null|
@@ -1132,7 +1133,6 @@
 |**2024-10-23**|**PLGS: Robust Panoptic Lifting with 3D Gaussian Splatting**|Yu Wang et.al.|[2410.17505](http://arxiv.org/abs/2410.17505)|null|
 |**2024-10-20**|**Neural Active Structure-from-Motion in Dark and Textureless Environment**|Kazuto Ichimaru et.al.|[2410.15378](http://arxiv.org/abs/2410.15378)|null|
 |**2024-10-16**|**Gravity-aligned Rotation Averaging with Circular Regression**|Linfei Pan et.al.|[2410.12763](http://arxiv.org/abs/2410.12763)|**[link](https://github.com/colmap/glomap)**|
-|**2024-10-15**|**SplatPose+: Real-time Image-Based Pose-Agnostic 3D Anomaly Detection**|Yizhe Liu et.al.|[2410.12080](http://arxiv.org/abs/2410.12080)|**[link](https://github.com/Yizhe-Liu/SplatPosePlus)**|
 |**2024-02-18**|**A Robust Error-Resistant View Selection Method for 3D Reconstruction**|Shaojie Zhang et.al.|[2402.11431](http://arxiv.org/abs/2402.11431)|null|
 |**2024-02-17**|**Dense Matchers for Dense Tracking**|Tomáš Jelínek et.al.|[2402.11287](http://arxiv.org/abs/2402.11287)|null|
 |**2024-01-31**|**Local Feature Matching Using Deep Learning: A Survey**|Shibiao Xu et.al.|[2401.17592](http://arxiv.org/abs/2401.17592)|null|
@@ -1280,6 +1280,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-30**|**A Survey on 3D Reconstruction Techniques in Plant Phenotyping: From Classical Methods to Neural Radiance Fields (NeRF), 3D Gaussian Splatting (3DGS), and Beyond**|Jiajia Li et.al.|[2505.00737](http://arxiv.org/abs/2505.00737)|null|
 |**2025-05-01**|**Cues3D: Unleashing the Power of Sole NeRF for Consistent and Unique Instances in Open-Vocabulary 3D Panoptic Segmentation**|Feng Xue et.al.|[2505.00378](http://arxiv.org/abs/2505.00378)|null|
 |**2025-04-29**|**GauSS-MI: Gaussian Splatting Shannon Mutual Information for Active 3D Reconstruction**|Yuhan Xie et.al.|[2504.21067](http://arxiv.org/abs/2504.21067)|null|
 |**2025-04-29**|**Large-scale visual SLAM for in-the-wild videos**|Shuo Sun et.al.|[2504.20496](http://arxiv.org/abs/2504.20496)|null|
@@ -1359,7 +1360,6 @@
 |**2025-03-19**|**MultiBARF: Integrating Imagery of Different Wavelength Regions by Using Neural Radiance Fields**|Kana Kurata et.al.|[2503.15070](http://arxiv.org/abs/2503.15070)|null|
 |**2025-03-19**|**3D Engine-ready Photorealistic Avatars via Dynamic Textures**|Yifan Wang et.al.|[2503.14943](http://arxiv.org/abs/2503.14943)|null|
 |**2025-03-19**|**ClimateGS: Real-Time Climate Simulation with 3D Gaussian Style Transfer**|Yuezhen Xie et.al.|[2503.14845](http://arxiv.org/abs/2503.14845)|null|
-|**2025-03-18**|**Segmentation-Guided Neural Radiance Fields for Novel Street View Synthesis**|Yizhou Li et.al.|[2503.14219](http://arxiv.org/abs/2503.14219)|null|
 |**2024-02-19**|**Binary Opacity Grids: Capturing Fine Geometric Detail for Mesh-Based View Synthesis**|Christian Reiser et.al.|[2402.12377](http://arxiv.org/abs/2402.12377)|null|
 |**2024-02-19**|**Colorizing Monochromatic Radiance Fields**|Yean Cheng et.al.|[2402.12184](http://arxiv.org/abs/2402.12184)|null|
 |**2024-02-17**|**Semantically-aware Neural Radiance Fields for Visual Scene Understanding: A Comprehensive Review**|Thang-Anh-Quan Nguyen et.al.|[2402.11141](http://arxiv.org/abs/2402.11141)|null|
