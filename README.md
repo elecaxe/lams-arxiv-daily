@@ -362,6 +362,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-14**|**Real2Render2Real: Scaling Robot Data Without Dynamics Simulation or Robot Hardware**|Justin Yu et.al.|[2505.09601](http://arxiv.org/abs/2505.09601)|null|
+|**2025-05-14**|**Neural Video Compression using 2D Gaussian Splatting**|Lakshya Gupta et.al.|[2505.09324](http://arxiv.org/abs/2505.09324)|null|
+|**2025-05-12**|**TUGS: Physics-based Compact Representation of Underwater Scenes by Tensorized Gaussian**|Shijie Lian et.al.|[2505.08811](http://arxiv.org/abs/2505.08811)|null|
 |**2025-05-13**|**NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance**|Wenzhe Cai et.al.|[2505.08712](http://arxiv.org/abs/2505.08712)|null|
 |**2025-05-13**|**DLO-Splatting: Tracking Deformable Linear Objects Using 3D Gaussian Splatting**|Holly Dinkel et.al.|[2505.08644](http://arxiv.org/abs/2505.08644)|null|
 |**2025-05-13**|**FOCI: Trajectory Optimization on Gaussian Splats**|Mario Gomez Andreu et.al.|[2505.08510](http://arxiv.org/abs/2505.08510)|null|
@@ -429,7 +432,6 @@
 |**2025-04-18**|**Green Robotic Mixed Reality with Gaussian Splatting**|Chenxuan Liu et.al.|[2504.13697](http://arxiv.org/abs/2504.13697)|null|
 |**2025-04-18**|**EG-Gaussian: Epipolar Geometry and Graph Network Enhanced 3D Gaussian Splatting**|Beizhen Zhao et.al.|[2504.13540](http://arxiv.org/abs/2504.13540)|null|
 |**2025-04-17**|**Volume Encoding Gaussians: Transfer Function-Agnostic 3D Gaussians for Volume Rendering**|Landon Dyken et.al.|[2504.13339](http://arxiv.org/abs/2504.13339)|null|
-|**2025-04-16**|**BEV-GS: Feed-forward Gaussian Splatting in Bird's-Eye-View for Road Reconstruction**|Wenhua Wu et.al.|[2504.13207](http://arxiv.org/abs/2504.13207)|null|
 |**2025-04-17**|**Novel Demonstration Generation with Gaussian Splatting Enables Robust One-Shot Manipulation**|Sizhe Yang et.al.|[2504.13175](http://arxiv.org/abs/2504.13175)|null|
 |**2025-04-18**|**ODHSR: Online Dense 3D Reconstruction of Humans and Scenes from Monocular Videos**|Zetong Zhang et.al.|[2504.13167](http://arxiv.org/abs/2504.13167)|null|
 |**2025-04-17**|**Digital Twin Generation from Visual Data: A Survey**|Andrew Melnik et.al.|[2504.13159](http://arxiv.org/abs/2504.13159)|**[link](https://github.com/ndrwmlnk/awesome-digital-twins)**|
@@ -440,8 +442,6 @@
 |**2025-04-17**|**AAA-Gaussians: Anti-Aliased and Artifact-Free 3D Gaussian Rendering**|Michael Steiner et.al.|[2504.12811](http://arxiv.org/abs/2504.12811)|null|
 |**2025-04-17**|**CAGE-GS: High-fidelity Cage Based 3D Gaussian Splatting Deformation**|Yifei Tong et.al.|[2504.12800](http://arxiv.org/abs/2504.12800)|null|
 |**2025-04-17**|**TSGS: Improving Gaussian Splatting for Transparent Surface Reconstruction via Normal and De-lighting Priors**|Mingwei Li et.al.|[2504.12799](http://arxiv.org/abs/2504.12799)|null|
-|**2025-04-17**|**ARAP-GS: Drag-driven As-Rigid-As-Possible 3D Gaussian Splatting Editing with Diffusion Prior**|Xiao Han et.al.|[2504.12788](http://arxiv.org/abs/2504.12788)|null|
-|**2025-04-16**|**CAGS: Open-Vocabulary 3D Scene Understanding with Context-Aware Gaussian Splatting**|Wei Sun et.al.|[2504.11893](http://arxiv.org/abs/2504.11893)|null|
 |**2024-02-20**|**GaussianObject: Just Taking Four Images to Get A High-Quality 3D Object with Gaussian Splatting**|Chen Yang et.al.|[2402.10259](http://arxiv.org/abs/2402.10259)|**[link](https://github.com/GaussianObject/GaussianObject)**|
 |**2024-02-15**|**GES: Generalized Exponential Splatting for Efficient Radiance Field Rendering**|Abdullah Hamdi et.al.|[2402.10128](http://arxiv.org/abs/2402.10128)|null|
 |**2024-02-13**|**IM-3D: Iterative Multiview Diffusion and Reconstruction for High-Quality 3D Generation**|Luke Melas-Kyriazi et.al.|[2402.08682](http://arxiv.org/abs/2402.08682)|null|
@@ -1281,6 +1281,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-14**|**Sparse Point Cloud Patches Rendering via Splitting 2D Gaussians**|Ma Changfeng et.al.|[2505.09413](http://arxiv.org/abs/2505.09413)|**[link](https://github.com/murcherful/gaupcrender)**|
+|**2025-05-14**|**FreeDriveRF: Monocular RGB Dynamic NeRF without Poses for Autonomous Driving via Point-Level Dynamic-Static Decoupling**|Yue Wen et.al.|[2505.09406](http://arxiv.org/abs/2505.09406)|null|
+|**2025-05-12**|**TUGS: Physics-based Compact Representation of Underwater Scenes by Tensorized Gaussian**|Shijie Lian et.al.|[2505.08811](http://arxiv.org/abs/2505.08811)|null|
 |**2025-05-13**|**FOCI: Trajectory Optimization on Gaussian Splats**|Mario Gomez Andreu et.al.|[2505.08510](http://arxiv.org/abs/2505.08510)|null|
 |**2025-05-13**|**TUM2TWIN: Introducing the Large-Scale Multimodal Urban Digital Twin Benchmark Dataset**|Olaf Wysocki et.al.|[2505.07396](http://arxiv.org/abs/2505.07396)|null|
 |**2025-05-12**|**Geometric Prior-Guided Neural Implicit Surface Reconstruction in the Wild**|Lintao Xiang et.al.|[2505.07373](http://arxiv.org/abs/2505.07373)|null|
@@ -1358,9 +1361,6 @@
 |**2025-03-24**|**NexusGS: Sparse View Synthesis with Epipolar Depth Priors in 3D Gaussian Splatting**|Yulong Zheng et.al.|[2503.18794](http://arxiv.org/abs/2503.18794)|null|
 |**2025-03-25**|**LookCloser: Frequency-aware Radiance Field for Tiny-Detail Scene**|Xiaoyu Zhang et.al.|[2503.18513](http://arxiv.org/abs/2503.18513)|null|
 |**2025-03-30**|**NeRFPrior: Learning Neural Radiance Field as a Prior for Indoor Scene Reconstruction**|Wenyuan Zhang et.al.|[2503.18361](http://arxiv.org/abs/2503.18361)|null|
-|**2025-03-23**|**End-to-End Implicit Neural Representations for Classification**|Alexander Gielisse et.al.|[2503.18123](http://arxiv.org/abs/2503.18123)|**[link](https://github.com/sandergielisse/mwt)**|
-|**2025-03-23**|**Unraveling the Effects of Synthetic Data on End-to-End Autonomous Driving**|Junhao Ge et.al.|[2503.18108](http://arxiv.org/abs/2503.18108)|**[link](https://github.com/cancaries/SceneCrafter)**|
-|**2025-03-23**|**PanopticSplatting: End-to-End Panoptic Gaussian Splatting**|Yuxuan Xie et.al.|[2503.18073](http://arxiv.org/abs/2503.18073)|null|
 |**2024-02-19**|**Binary Opacity Grids: Capturing Fine Geometric Detail for Mesh-Based View Synthesis**|Christian Reiser et.al.|[2402.12377](http://arxiv.org/abs/2402.12377)|null|
 |**2024-02-19**|**Colorizing Monochromatic Radiance Fields**|Yean Cheng et.al.|[2402.12184](http://arxiv.org/abs/2402.12184)|null|
 |**2024-02-17**|**Semantically-aware Neural Radiance Fields for Visual Scene Understanding: A Comprehensive Review**|Thang-Anh-Quan Nguyen et.al.|[2402.11141](http://arxiv.org/abs/2402.11141)|null|
@@ -1448,6 +1448,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-14**|**Camera-Only 3D Panoptic Scene Completion for Autonomous Driving through Differentiable Object Shapes**|Nicola Marinello et.al.|[2505.09562](http://arxiv.org/abs/2505.09562)|null|
 |**2025-05-08**|**A Physics-informed End-to-End Occupancy Framework for Motion Planning of Autonomous Vehicles**|Shuqi Shen et.al.|[2505.07855](http://arxiv.org/abs/2505.07855)|null|
 |**2025-05-11**|**Dynamic Safety in Complex Environments: Synthesizing Safety Filters with Poisson's Equation**|Gilbert Bahati et.al.|[2505.06794](http://arxiv.org/abs/2505.06794)|null|
 |**2025-05-10**|**M3CAD: Towards Generic Cooperative Autonomous Driving Benchmark**|Morui Zhu et.al.|[2505.06746](http://arxiv.org/abs/2505.06746)|null|
@@ -1527,7 +1528,6 @@
 |**2025-02-27**|**ProtoOcc: Accurate, Efficient 3D Occupancy Prediction Using Dual Branch Encoder-Prototype Query Decoder**|Jungho Kim et.al.|[2412.08774](http://arxiv.org/abs/2412.08774)|**[link](https://github.com/spa-junghokim/protoocc)**|
 |**2024-12-11**|**LOMA: Language-assisted Semantic Occupancy Network via Triplane Mamba**|Yubo Cui et.al.|[2412.08388](http://arxiv.org/abs/2412.08388)|null|
 |**2024-12-11**|**Hierarchical Context Alignment with Disentangled Geometric and Temporal Modeling for Semantic Occupancy Prediction**|Bohan Li et.al.|[2412.08243](http://arxiv.org/abs/2412.08243)|null|
-|**2024-12-11**|**Semantic Scene Completion Based 3D Traversability Estimation for Off-Road Terrains**|Zitong Chen et.al.|[2412.08195](http://arxiv.org/abs/2412.08195)|null|
 |**2024-02-19**|**SDGE: Stereo Guided Depth Estimation for 360° Camera Sets**|Jialei Xu et.al.|[2402.11791](http://arxiv.org/abs/2402.11791)|null|
 |**2024-02-12**|**Collaborative Semantic Occupancy Prediction with Hybrid Feature Fusion in Connected Automated Vehicles**|Rui Song et.al.|[2402.07635](http://arxiv.org/abs/2402.07635)|null|
 |**2024-02-04**|**Hybrid-Prediction Integrated Planning for Autonomous Driving**|Haochen Liu et.al.|[2402.02426](http://arxiv.org/abs/2402.02426)|null|
