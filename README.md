@@ -195,6 +195,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-17**|**KDMOS:Knowledge Distillation for Motion Segmentation**|Chunyu Cao et.al.|[2506.14130](http://arxiv.org/abs/2506.14130)|null|
 |**2025-06-11**|**DySS: Dynamic Queries and State-Space Learning for Efficient 3D Object Detection from Multi-Camera Videos**|Rajeev Yasarla et.al.|[2506.10242](http://arxiv.org/abs/2506.10242)|null|
 |**2025-06-08**|**BePo: Leveraging Birds Eye View and Sparse Points for Efficient and Accurate 3D Occupancy Prediction**|Yunxiao Shi et.al.|[2506.07002](http://arxiv.org/abs/2506.07002)|null|
 |**2025-05-27**|**GaussianFusion: Gaussian-Based Multi-Sensor Fusion for End-to-End Autonomous Driving**|Shuai Liu et.al.|[2506.00034](http://arxiv.org/abs/2506.00034)|null|
@@ -274,7 +275,6 @@
 |**2025-04-10**|**PACER: Preference-conditioned All-terrain Costmap Generation**|Luisa Mao et.al.|[2410.23488](http://arxiv.org/abs/2410.23488)|null|
 |**2024-10-28**|**BEVPose: Unveiling Scene Semantics through Pose-Guided Multi-Modal BEV Alignment**|Mehdi Hosseinzadeh et.al.|[2410.20969](http://arxiv.org/abs/2410.20969)|null|
 |**2025-03-04**|**Evaluating the Robustness of LiDAR Point Cloud Tracking Against Adversarial Attack**|Shengjing Tian et.al.|[2410.20893](http://arxiv.org/abs/2410.20893)|null|
-|**2024-10-21**|**Focus on BEV: Self-calibrated Cycle View Transformation for Monocular Birds-Eye-View Segmentation**|Jiawei Zhao et.al.|[2410.15932](http://arxiv.org/abs/2410.15932)|null|
 |**2024-02-16**|**GIM: Learning Generalizable Image Matcher From Internet Videos**|Xuelun Shen et.al.|[2402.11095](http://arxiv.org/abs/2402.11095)|null|
 |**2024-02-12**|**Collaborative Semantic Occupancy Prediction with Hybrid Feature Fusion in Connected Automated Vehicles**|Rui Song et.al.|[2402.07635](http://arxiv.org/abs/2402.07635)|null|
 |**2024-02-11**|**Social Evolution of Published Text and The Emergence of Artificial Intelligence Through Large Language Models and The Problem of Toxicity and Bias**|Arifa Khan et.al.|[2402.07166](http://arxiv.org/abs/2402.07166)|null|
@@ -362,6 +362,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-17**|**SyncTalk++: High-Fidelity and Efficient Synchronized Talking Heads Synthesis Using Gaussian Splatting**|Ziqiao Peng et.al.|[2506.14742](http://arxiv.org/abs/2506.14742)|null|
+|**2025-06-17**|**3DGS-IEval-15K: A Large-scale Image Quality Evaluation Database for 3D Gaussian-Splatting**|Yuke Xing et.al.|[2506.14642](http://arxiv.org/abs/2506.14642)|null|
+|**2025-06-17**|**HRGS: Hierarchical Gaussian Splatting for Memory-Efficient High-Resolution 3D Reconstruction**|Changbai Li et.al.|[2506.14229](http://arxiv.org/abs/2506.14229)|null|
+|**2025-06-17**|**GAF: Gaussian Action Field as a Dvnamic World Model for Robotic Mlanipulation**|Ying Chai et.al.|[2506.14135](http://arxiv.org/abs/2506.14135)|null|
+|**2025-06-16**|**GRaD-Nav++: Vision-Language Model Enabled Visual Drone Navigation with Gaussian Radiance Fields and Differentiable Dynamics**|Qianzhong Chen et.al.|[2506.14009](http://arxiv.org/abs/2506.14009)|null|
 |**2025-06-16**|**PF-LHM: 3D Animatable Avatar Reconstruction from Pose-free Articulated Human Images**|Lingteng Qiu et.al.|[2506.13766](http://arxiv.org/abs/2506.13766)|null|
 |**2025-06-16**|**Micro-macro Gaussian Splatting with Enhanced Scalability for Unconstrained Scene Reconstruction**|Yihui Li et.al.|[2506.13516](http://arxiv.org/abs/2506.13516)|null|
 |**2025-06-16**|**Multiview Geometric Regularization of Gaussian Splatting for Accurate Radiance Fields**|Jungeon Kim et.al.|[2506.13508](http://arxiv.org/abs/2506.13508)|null|
@@ -437,11 +442,6 @@
 |**2025-06-03**|**EyeNavGS: A 6-DoF Navigation Dataset and Record-n-Replay Software for Real-World 3DGS Scenes in VR**|Zihao Ding et.al.|[2506.02380](http://arxiv.org/abs/2506.02380)|**[link](https://github.com/symmru/EyeNavGS_Software)**|
 |**2025-06-02**|**GSCodec Studio: A Modular Framework for Gaussian Splat Compression**|Sicheng Li et.al.|[2506.01822](http://arxiv.org/abs/2506.01822)|**[link](https://github.com/jasonlsc/gscodec_studio)**|
 |**2025-06-02**|**WorldExplorer: Towards Generating Fully Navigable 3D Scenes**|Manuel-Andreas Schneider et.al.|[2506.01799](http://arxiv.org/abs/2506.01799)|null|
-|**2025-06-02**|**WoMAP: World Models For Embodied Open-Vocabulary Object Localization**|Tenny Yin et.al.|[2506.01600](http://arxiv.org/abs/2506.01600)|null|
-|**2025-06-02**|**RadarSplat: Radar Gaussian Splatting for High-Fidelity Data Synthesis and 3D Reconstruction of Autonomous Driving Scenes**|Pou-Chun Kung et.al.|[2506.01379](http://arxiv.org/abs/2506.01379)|null|
-|**2025-06-01**|**CountingFruit: Real-Time 3D Fruit Counting with Language-Guided Semantic Gaussian Splatting**|Fengze Li et.al.|[2506.01109](http://arxiv.org/abs/2506.01109)|null|
-|**2025-06-01**|**Globally Consistent RGB-D SLAM with 2D Gaussian Splatting**|Xingguang Zhong et.al.|[2506.00970](http://arxiv.org/abs/2506.00970)|**[link](https://github.com/PRBonn/2DGS-SLAM)**|
-|**2025-05-30**|**3D Gaussian Splat Vulnerabilities**|Matthew Hull et.al.|[2506.00280](http://arxiv.org/abs/2506.00280)|**[link](https://github.com/poloclub/3D-Gaussian-Splat-Attack)**|
 |**2024-02-20**|**GaussianObject: Just Taking Four Images to Get A High-Quality 3D Object with Gaussian Splatting**|Chen Yang et.al.|[2402.10259](http://arxiv.org/abs/2402.10259)|**[link](https://github.com/GaussianObject/GaussianObject)**|
 |**2024-02-15**|**GES: Generalized Exponential Splatting for Efficient Radiance Field Rendering**|Abdullah Hamdi et.al.|[2402.10128](http://arxiv.org/abs/2402.10128)|null|
 |**2024-02-13**|**IM-3D: Iterative Multiview Diffusion and Reconstruction for High-Quality 3D Generation**|Luke Melas-Kyriazi et.al.|[2402.08682](http://arxiv.org/abs/2402.08682)|null|
@@ -552,6 +552,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-17**|**Cross-Modal Geometric Hierarchy Fusion: An Implicit-Submap Driven Framework for Resilient 3D Place Recognition**|Xiaohui Jiang et.al.|[2506.14243](http://arxiv.org/abs/2506.14243)|null|
+|**2025-06-17**|**TACS-Graphs: Traversability-Aware Consistent Scene Graphs for Ground Robot Indoor Localization and Mapping**|Jeewon Kim et.al.|[2506.14178](http://arxiv.org/abs/2506.14178)|null|
 |**2025-06-16**|**EmbodiedPlace: Learning Mixture-of-Features with Embodied Constraints for Visual Place Recognition**|Bingxi Liu et.al.|[2506.13133](http://arxiv.org/abs/2506.13133)|null|
 |**2025-06-16**|**SuperPoint-SLAM3: Augmenting ORB-SLAM3 with Deep Features, Adaptive NMS, and Learning-Based Loop Closure**|Shahram Najam Syed et.al.|[2506.13089](http://arxiv.org/abs/2506.13089)|null|
 |**2025-06-16**|**SuperPlace: The Renaissance of Classical Feature Aggregation for Visual Place Recognition in the Era of Foundation Models**|Bingxi Liu et.al.|[2506.13073](http://arxiv.org/abs/2506.13073)|null|
@@ -630,8 +632,6 @@
 |**2025-05-28**|**Fast 3D point clouds retrieval for Large-scale 3D Place Recognition**|Chahine-Nicolas Zede et.al.|[2502.21067](http://arxiv.org/abs/2502.21067)|null|
 |**2025-02-28**|**SciceVPR: Stable Cross-Image Correlation Enhanced Model for Visual Place Recognition**|Shanshan Wan et.al.|[2502.20676](http://arxiv.org/abs/2502.20676)|null|
 |**2025-02-28**|**EDENet: Echo Direction Encoding Network for Place Recognition Based on Ground Penetrating Radar**|Pengyu Zhang et.al.|[2502.20643](http://arxiv.org/abs/2502.20643)|**[link](https://github.com/Pyxel0524/EDE-LGPR)**|
-|**2025-02-27**|**A2-GNN: Angle-Annular GNN for Visual Descriptor-free Camera Relocalization**|Yejun Zhang et.al.|[2502.20036](http://arxiv.org/abs/2502.20036)|**[link](https://github.com/yejunzhang/a2-gnn)**|
-|**2025-02-26**|**BEV-LIO(LC): BEV Image Assisted LiDAR-Inertial Odometry with Loop Closure**|Haoxin Cai et.al.|[2502.19242](http://arxiv.org/abs/2502.19242)|**[link](https://github.com/hxca1/bev-lio-lc)**|
 |**2024-02-19**|**CoLRIO: LiDAR-Ranging-Inertial Centralized State Estimation for Robotic Swarms**|Shipeng Zhong et.al.|[2402.11790](http://arxiv.org/abs/2402.11790)|null|
 |**2024-02-16**|**Spike-EVPR: Deep Spiking Residual Network with Cross-Representation Aggregation for Event-Based Visual Place Recognition**|Chenming Hu et.al.|[2402.10476](http://arxiv.org/abs/2402.10476)|null|
 |**2024-02-14**|**Loopy-SLAM: Dense Neural SLAM with Loop Closures**|Lorenzo Liso et.al.|[2402.09944](http://arxiv.org/abs/2402.09944)|null|
@@ -1451,6 +1451,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-17**|**Cross-Modal Geometric Hierarchy Fusion: An Implicit-Submap Driven Framework for Resilient 3D Place Recognition**|Xiaohui Jiang et.al.|[2506.14243](http://arxiv.org/abs/2506.14243)|null|
+|**2025-06-16**|**A Point Cloud Completion Approach for the Grasping of Partially Occluded Objects and Its Applications in Robotic Strawberry Harvesting**|Ali Abouzeid et.al.|[2506.14066](http://arxiv.org/abs/2506.14066)|null|
 |**2025-06-16**|**Towards Efficient Occupancy Mapping via Gaussian Process Latent Field Shaping**|Cedric Le Gentil et.al.|[2506.13640](http://arxiv.org/abs/2506.13640)|null|
 |**2025-06-16**|**COME: Adding Scene-Centric Forecasting Control to Occupancy World Model**|Yining Shi et.al.|[2506.13260](http://arxiv.org/abs/2506.13260)|null|
 |**2025-06-12**|**QuadricFormer: Scene as Superquadrics for 3D Semantic Occupancy Prediction**|Sicheng Zuo et.al.|[2506.10977](http://arxiv.org/abs/2506.10977)|**[link](https://github.com/zuosc19/quadricformer)**|
@@ -1529,8 +1531,6 @@
 |**2025-02-20**|**OG-Gaussian: Occupancy Based Street Gaussians for Autonomous Driving**|Yedong Shen et.al.|[2502.14235](http://arxiv.org/abs/2502.14235)|null|
 |**2025-02-19**|**Inter3D: A Benchmark and Strong Baseline for Human-Interactive 3D Object Reconstruction**|Gan Chen et.al.|[2502.14004](http://arxiv.org/abs/2502.14004)|**[link](https://github.com/Inter3D-ui/Inter3D)**|
 |**2025-02-16**|**MC-BEVRO: Multi-Camera Bird Eye View Road Occupancy Detection for Traffic Monitoring**|Arpitsinh Vaghela et.al.|[2502.11287](http://arxiv.org/abs/2502.11287)|null|
-|**2025-02-13**|**Generalizable Reinforcement Learning with Biologically Inspired Hyperdimensional Occupancy Grid Maps for Exploration and Goal-Directed Path Planning**|Shay Snyder et.al.|[2502.09393](http://arxiv.org/abs/2502.09393)|null|
-|**2025-02-11**|**Semi-Supervised Vision-Centric 3D Occupancy World Model for Autonomous Driving**|Xiang Li et.al.|[2502.07309](http://arxiv.org/abs/2502.07309)|**[link](https://github.com/getterupper/PreWorld)**|
 |**2024-02-19**|**SDGE: Stereo Guided Depth Estimation for 360° Camera Sets**|Jialei Xu et.al.|[2402.11791](http://arxiv.org/abs/2402.11791)|null|
 |**2024-02-12**|**Collaborative Semantic Occupancy Prediction with Hybrid Feature Fusion in Connected Automated Vehicles**|Rui Song et.al.|[2402.07635](http://arxiv.org/abs/2402.07635)|null|
 |**2024-02-04**|**Hybrid-Prediction Integrated Planning for Autonomous Driving**|Haochen Liu et.al.|[2402.02426](http://arxiv.org/abs/2402.02426)|null|
