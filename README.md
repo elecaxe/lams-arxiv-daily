@@ -371,7 +371,7 @@
 |**2025-06-17**|**GAF: Gaussian Action Field as a Dvnamic World Model for Robotic Mlanipulation**|Ying Chai et.al.|[2506.14135](http://arxiv.org/abs/2506.14135)|null|
 |**2025-06-16**|**GRaD-Nav++: Vision-Language Model Enabled Visual Drone Navigation with Gaussian Radiance Fields and Differentiable Dynamics**|Qianzhong Chen et.al.|[2506.14009](http://arxiv.org/abs/2506.14009)|null|
 |**2025-06-16**|**PF-LHM: 3D Animatable Avatar Reconstruction from Pose-free Articulated Human Images**|Lingteng Qiu et.al.|[2506.13766](http://arxiv.org/abs/2506.13766)|null|
-|**2025-06-16**|**Micro-macro Gaussian Splatting with Enhanced Scalability for Unconstrained Scene Reconstruction**|Yihui Li et.al.|[2506.13516](http://arxiv.org/abs/2506.13516)|null|
+|**2025-06-16**|**Micro-macro Gaussian Splatting with Enhanced Scalability for Unconstrained Scene Reconstruction**|Yihui Li et.al.|[2506.13516](http://arxiv.org/abs/2506.13516)|**[link](https://github.com/kidleyh/smw-gs)**|
 |**2025-06-16**|**Multiview Geometric Regularization of Gaussian Splatting for Accurate Radiance Fields**|Jungeon Kim et.al.|[2506.13508](http://arxiv.org/abs/2506.13508)|null|
 |**2025-06-16**|**TextureSplat: Per-Primitive Texture Mapping for Reflective Gaussian Splatting**|Mae Younes et.al.|[2506.13348](http://arxiv.org/abs/2506.13348)|**[link](https://github.com/maeyounes/texturesplat)**|
 |**2025-06-16**|**GS-2DGS: Geometrically Supervised 2DGS for Reflective Object Reconstruction**|Jinguang Tong et.al.|[2506.13110](http://arxiv.org/abs/2506.13110)|null|
@@ -1335,7 +1335,7 @@
 |**2025-05-04**|**Learning Heterogeneous Mixture of Scene Experts for Large-scale Neural Radiance Fields**|Zhenxing Mi et.al.|[2505.02005](http://arxiv.org/abs/2505.02005)|**[link](https://github.com/MiZhenxing/Switch-NeRF)**|
 |**2025-05-03**|**AquaGS: Fast Underwater Scene Reconstruction with SfM-Free Gaussian Splatting**|Junhao Shi et.al.|[2505.01799](http://arxiv.org/abs/2505.01799)|null|
 |**2025-05-03**|**Unified Steganography via Implicit Neural Representation**|Qi Song et.al.|[2505.01749](http://arxiv.org/abs/2505.01749)|null|
-|**2025-04-30**|**A Survey on 3D Reconstruction Techniques in Plant Phenotyping: From Classical Methods to Neural Radiance Fields (NeRF), 3D Gaussian Splatting (3DGS), and Beyond**|Jiajia Li et.al.|[2505.00737](http://arxiv.org/abs/2505.00737)|null|
+|**2025-04-30**|**A Survey on 3D Reconstruction Techniques in Plant Phenotyping: From Classical Methods to Neural Radiance Fields (NeRF), 3D Gaussian Splatting (3DGS), and Beyond**|Jiajia Li et.al.|[2505.00737](http://arxiv.org/abs/2505.00737)|**[link](https://github.com/jiajiali04/3d-reconstruction-plants)**|
 |**2025-05-01**|**Cues3D: Unleashing the Power of Sole NeRF for Consistent and Unique Instances in Open-Vocabulary 3D Panoptic Segmentation**|Feng Xue et.al.|[2505.00378](http://arxiv.org/abs/2505.00378)|null|
 |**2025-04-29**|**GauSS-MI: Gaussian Splatting Shannon Mutual Information for Active 3D Reconstruction**|Yuhan Xie et.al.|[2504.21067](http://arxiv.org/abs/2504.21067)|**[link](https://github.com/JohannaXie/GauSS-MI)**|
 |**2025-04-29**|**Large-scale visual SLAM for in-the-wild videos**|Shuo Sun et.al.|[2504.20496](http://arxiv.org/abs/2504.20496)|null|
@@ -1455,7 +1455,7 @@
 |**2025-06-17**|**Cross-Modal Geometric Hierarchy Fusion: An Implicit-Submap Driven Framework for Resilient 3D Place Recognition**|Xiaohui Jiang et.al.|[2506.14243](http://arxiv.org/abs/2506.14243)|null|
 |**2025-06-16**|**A Point Cloud Completion Approach for the Grasping of Partially Occluded Objects and Its Applications in Robotic Strawberry Harvesting**|Ali Abouzeid et.al.|[2506.14066](http://arxiv.org/abs/2506.14066)|**[link](https://github.com/malak-mansour/pointcloud_completion_for_grasping)**|
 |**2025-06-16**|**Towards Efficient Occupancy Mapping via Gaussian Process Latent Field Shaping**|Cedric Le Gentil et.al.|[2506.13640](http://arxiv.org/abs/2506.13640)|null|
-|**2025-06-16**|**COME: Adding Scene-Centric Forecasting Control to Occupancy World Model**|Yining Shi et.al.|[2506.13260](http://arxiv.org/abs/2506.13260)|null|
+|**2025-06-16**|**COME: Adding Scene-Centric Forecasting Control to Occupancy World Model**|Yining Shi et.al.|[2506.13260](http://arxiv.org/abs/2506.13260)|**[link](https://github.com/synsin0/come)**|
 |**2025-06-12**|**QuadricFormer: Scene as Superquadrics for 3D Semantic Occupancy Prediction**|Sicheng Zuo et.al.|[2506.10977](http://arxiv.org/abs/2506.10977)|**[link](https://github.com/zuosc19/quadricformer)**|
 |**2025-06-12**|**ODG: Occupancy Prediction Using Dual Gaussians**|Yunxiao Shi et.al.|[2506.09417](http://arxiv.org/abs/2506.09417)|null|
 |**2025-06-08**|**BePo: Leveraging Birds Eye View and Sparse Points for Efficient and Accurate 3D Occupancy Prediction**|Yunxiao Shi et.al.|[2506.07002](http://arxiv.org/abs/2506.07002)|null|
