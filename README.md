@@ -362,6 +362,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**A Mixed-Primitive-based Gaussian Splatting Method for Surface Reconstruction**|Haoxuan Qu et.al.|[2507.11321](http://arxiv.org/abs/2507.11321)|null|
+|**2025-07-15**|**TRAN-D: 2D Gaussian Splatting-based Sparse-view Transparent Object Depth Reconstruction via Physics Simulation for Scene Update**|Jeongyun Kim et.al.|[2507.11069](http://arxiv.org/abs/2507.11069)|null|
+|**2025-07-15**|**Robust 3D-Masked Part-level Editing in 3D Gaussian Splatting with Regularized Score Distillation Sampling**|Hayeon Kim et.al.|[2507.11061](http://arxiv.org/abs/2507.11061)|null|
 |**2025-07-14**|**ScaffoldAvatar: High-Fidelity Gaussian Avatars with Patch Expressions**|Shivangi Aneja et.al.|[2507.10542](http://arxiv.org/abs/2507.10542)|null|
 |**2025-07-14**|**3DGAA: Realistic and Robust 3D Gaussian-based Adversarial Attack for Autonomous Driving**|Yixun Zhang et.al.|[2507.09993](http://arxiv.org/abs/2507.09993)|null|
 |**2025-07-11**|**Learning human-to-robot handovers through 3D scene reconstruction**|Yuekun Wu et.al.|[2507.08726](http://arxiv.org/abs/2507.08726)|null|
@@ -439,9 +442,6 @@
 |**2025-06-21**|**3D Gaussian Splatting for Fine-Detailed Surface Reconstruction in Large-Scale Scene**|Shihan Chen et.al.|[2506.17636](http://arxiv.org/abs/2506.17636)|null|
 |**2025-06-20**|**Part $^{2}$ GS: Part-aware Modeling of Articulated Objects using 3D Gaussian Splatting**|Tianjiao Yu et.al.|[2506.17212](http://arxiv.org/abs/2506.17212)|null|
 |**2025-06-23**|**R3eVision: A Survey on Robust Rendering, Restoration, and Enhancement for 3D Low-Level Vision**|Weeyoung Kwon et.al.|[2506.16262](http://arxiv.org/abs/2506.16262)|**[link](https://github.com/cmlab-korea/awesome-3d-low-level-vision)**|
-|**2025-06-19**|**Information-computation trade-offs in non-linear transforms**|Connor Ding et.al.|[2506.15948](http://arxiv.org/abs/2506.15948)|null|
-|**2025-06-18**|**Particle-Grid Neural Dynamics for Learning Deformable Object Models from RGB-D Videos**|Kaifeng Zhang et.al.|[2506.15680](http://arxiv.org/abs/2506.15680)|null|
-|**2025-06-24**|**RA-NeRF: Robust Neural Radiance Field Reconstruction with Accurate Camera Pose Estimation under Complex Trajectories**|Qingsong Yan et.al.|[2506.15242](http://arxiv.org/abs/2506.15242)|null|
 |**2024-02-20**|**GaussianObject: Just Taking Four Images to Get A High-Quality 3D Object with Gaussian Splatting**|Chen Yang et.al.|[2402.10259](http://arxiv.org/abs/2402.10259)|**[link](https://github.com/GaussianObject/GaussianObject)**|
 |**2024-02-15**|**GES: Generalized Exponential Splatting for Efficient Radiance Field Rendering**|Abdullah Hamdi et.al.|[2402.10128](http://arxiv.org/abs/2402.10128)|null|
 |**2024-02-13**|**IM-3D: Iterative Multiview Diffusion and Reconstruction for High-Quality 3D Generation**|Luke Melas-Kyriazi et.al.|[2402.08682](http://arxiv.org/abs/2402.08682)|null|
@@ -719,6 +719,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**KptLLM++: Towards Generic Keypoint Comprehension with Large Language Model**|Jie Yang et.al.|[2507.11102](http://arxiv.org/abs/2507.11102)|null|
+|**2025-07-15**|**GKNet: Graph-based Keypoints Network for Monocular Pose Estimation of Non-cooperative Spacecraft**|Weizhao Ma et.al.|[2507.11077](http://arxiv.org/abs/2507.11077)|null|
+|**2025-07-14**|**FPC-Net: Revisiting SuperPoint with Descriptor-Free Keypoint Detection via Feature Pyramids and Consistency-Based Implicit Matching**|Ionuţ Grigore et.al.|[2507.10770](http://arxiv.org/abs/2507.10770)|null|
 |**2025-07-11**|**Doodle Your Keypoints: Sketch-Based Few-Shot Keypoint Detection**|Subhajit Maity et.al.|[2507.07994](http://arxiv.org/abs/2507.07994)|null|
 |**2025-07-09**|**Reading a Ruler in the Wild**|Yimu Pan et.al.|[2507.07077](http://arxiv.org/abs/2507.07077)|null|
 |**2025-07-09**|**MK-Pose: Category-Level Object Pose Estimation via Multimodal-Based Keypoint Learning**|Yifan Yang et.al.|[2507.06662](http://arxiv.org/abs/2507.06662)|null|
@@ -796,9 +799,6 @@
 |**2024-10-07**|**SKT: Integrating State-Aware Keypoint Trajectories with Vision-Language Models for Robotic Garment Manipulation**|Xin Li et.al.|[2409.18082](http://arxiv.org/abs/2409.18082)|null|
 |**2025-03-18**|**Point Cloud Structural Similarity-based Underwater Sonar Loop Detection**|Donghwi Jung et.al.|[2409.14020](http://arxiv.org/abs/2409.14020)|**[link](https://github.com/donghwijung/point_cloud_structural_similarity_based_underwater_sonar_loop_detection)**|
 |**2024-09-20**|**Keypoint Detection Technique for Image-Based Visual Servoing of Manipulators**|Niloufar Amiri et.al.|[2409.13668](http://arxiv.org/abs/2409.13668)|null|
-|**2025-04-16**|**Analysis of Deep Learning-Based Colorization and Super-Resolution Techniques for Lidar Imagery**|Sier Ha et.al.|[2409.11532](http://arxiv.org/abs/2409.11532)|null|
-|**2024-09-25**|**Precision Aquaculture: An Integrated Computer Vision and IoT Approach for Optimized Tilapia Feeding**|Rania Hossam et.al.|[2409.08695](http://arxiv.org/abs/2409.08695)|**[link](https://github.com/ahmedheakl/fish-counting)**|
-|**2024-09-06**|**D4: Text-guided diffusion model-based domain adaptive data augmentation for vineyard shoot detection**|Kentaro Hirahara et.al.|[2409.04060](http://arxiv.org/abs/2409.04060)|null|
 |**2024-02-18**|**Region Feature Descriptor Adapted to High Affine Transformations**|Shaojie Zhang et.al.|[2402.09724](http://arxiv.org/abs/2402.09724)|null|
 |**2024-01-29**|**Reconstructing Close Human Interactions from Multiple Views**|Qing Shuai et.al.|[2401.16173](http://arxiv.org/abs/2401.16173)|**[link](https://github.com/zju3dv/closemocap)**|
 |**2024-01-17**|**To deform or not: treatment-aware longitudinal registration for breast DCE-MRI during neoadjuvant chemotherapy via unsupervised keypoints detection**|Luyi Han et.al.|[2401.09336](http://arxiv.org/abs/2401.09336)|**[link](https://github.com/fiy2w/treatment-aware-longitudinal-registration)**|
@@ -1220,6 +1220,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**All Eyes, no IMU: Learning Flight Attitude from Vision Alone**|Jesse J. Hagenaars et.al.|[2507.11302](http://arxiv.org/abs/2507.11302)|null|
 |**2025-07-08**|**Canine Clinical Gait Analysis for Orthopedic and Neurological Disorders: An Inertial Deep-Learning Approach**|Netta Palez et.al.|[2507.05671](http://arxiv.org/abs/2507.05671)|null|
 |**2025-06-07**|**Deep Inertial Pose: A deep learning approach for human pose estimation**|Sara M. Cerqueira et.al.|[2506.06850](http://arxiv.org/abs/2506.06850)|null|
 |**2025-05-17**|**Learning IMU Bias with Diffusion Model**|Shenghao Zhou et.al.|[2505.11763](http://arxiv.org/abs/2505.11763)|null|
