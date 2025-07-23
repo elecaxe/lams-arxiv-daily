@@ -362,6 +362,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**EarthCrafter: Scalable 3D Earth Generation via Dual-Sparse Latent Diffusion**|Shang Liu et.al.|[2507.16535](http://arxiv.org/abs/2507.16535)|null|
+|**2025-07-22**|**Sparse-View 3D Reconstruction: Recent Advances and Open Challenges**|Tanveer Younis et.al.|[2507.16406](http://arxiv.org/abs/2507.16406)|null|
+|**2025-07-22**|**LongSplat: Online Generalizable 3D Gaussian Splatting from Long Sequence Images**|Guichen Huang et.al.|[2507.16144](http://arxiv.org/abs/2507.16144)|null|
 |**2025-07-21**|**Appearance Harmonization via Bilateral Grid Prediction with Transformers for 3DGS**|Jisu Shin et.al.|[2507.15748](http://arxiv.org/abs/2507.15748)|null|
 |**2025-07-21**|**DWTGS: Rethinking Frequency Regularization for Sparse-view 3D Gaussian Splatting**|Hung Nguyen et.al.|[2507.15690](http://arxiv.org/abs/2507.15690)|null|
 |**2025-07-21**|**Hi^2-GSLoc: Dual-Hierarchical Gaussian-Specific Visual Relocalization for Remote Sensing**|Boni Hu et.al.|[2507.15683](http://arxiv.org/abs/2507.15683)|null|
@@ -439,9 +442,6 @@
 |**2025-06-28**|**Confident Splatting: Confidence-Based Compression of 3D Gaussian Splatting via Learnable Beta Distributions**|AmirHossein Naghi Razlighi et.al.|[2506.22973](http://arxiv.org/abs/2506.22973)|null|
 |**2025-07-03**|**RGE-GS: Reward-Guided Expansive Driving Scene Reconstruction via Diffusion Priors**|Sicong Du et.al.|[2506.22800](http://arxiv.org/abs/2506.22800)|null|
 |**2025-06-28**|**VoteSplat: Hough Voting Gaussian Splatting for 3D Scene Understanding**|Minchao Jiang et.al.|[2506.22799](http://arxiv.org/abs/2506.22799)|null|
-|**2025-06-28**|**RoboPearls: Editable Video Simulation for Robot Manipulation**|Tao Tang et.al.|[2506.22756](http://arxiv.org/abs/2506.22756)|null|
-|**2025-06-27**|**DIGS: Dynamic CBCT Reconstruction using Deformation-Informed 4D Gaussian Splatting and a Low-Rank Free-Form Deformation Model**|Yuliang Huang et.al.|[2506.22280](http://arxiv.org/abs/2506.22280)|null|
-|**2025-07-08**|**BézierGS: Dynamic Urban Scene Reconstruction with Bézier Curve Gaussian Splatting**|Zipei Ma et.al.|[2506.22099](http://arxiv.org/abs/2506.22099)|null|
 |**2024-02-20**|**GaussianObject: Just Taking Four Images to Get A High-Quality 3D Object with Gaussian Splatting**|Chen Yang et.al.|[2402.10259](http://arxiv.org/abs/2402.10259)|**[link](https://github.com/GaussianObject/GaussianObject)**|
 |**2024-02-15**|**GES: Generalized Exponential Splatting for Efficient Radiance Field Rendering**|Abdullah Hamdi et.al.|[2402.10128](http://arxiv.org/abs/2402.10128)|null|
 |**2024-02-13**|**IM-3D: Iterative Multiview Diffusion and Reconstruction for High-Quality 3D Generation**|Luke Melas-Kyriazi et.al.|[2402.08682](http://arxiv.org/abs/2402.08682)|null|
@@ -886,6 +886,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**A Single-step Accurate Fingerprint Registration Method Based on Local Feature Matching**|Yuwei Jia et.al.|[2507.16201](http://arxiv.org/abs/2507.16201)|null|
 |**2025-07-09**|**Dual-Granularity Cross-Modal Identity Association for Weakly-Supervised Text-to-Person Image Matching**|Yafei Zhang et.al.|[2507.06744](http://arxiv.org/abs/2507.06744)|null|
 |**2025-07-05**|**From Query to Explanation: Uni-RAG for Multi-Modal Retrieval-Augmented Learning in STEM**|Xinyi Wu et.al.|[2507.03868](http://arxiv.org/abs/2507.03868)|null|
 |**2025-07-02**|**What does really matter in image goal navigation?**|Gianluca Monaci et.al.|[2507.01667](http://arxiv.org/abs/2507.01667)|null|
@@ -965,7 +966,6 @@
 |**2024-10-30**|**Variable Resolution Sampling and Deep Learning Image Recovery for Accelerated Multi-Spectral MRI Near Metal Implants**|Azadeh Sharafi et.al.|[2410.23329](http://arxiv.org/abs/2410.23329)|null|
 |**2025-04-05**|**DreamRelation: Bridging Customization and Relation Generation**|Qingyu Shi et.al.|[2410.23280](http://arxiv.org/abs/2410.23280)|null|
 |**2025-01-10**|**ETO:Efficient Transformer-based Local Feature Matching by Organizing Multiple Homography Hypotheses**|Junjie Ni et.al.|[2410.22733](http://arxiv.org/abs/2410.22733)|null|
-|**2024-10-30**|**LoFLAT: Local Feature Matching using Focused Linear Attention Transformer**|Naijian Cao et.al.|[2410.22710](http://arxiv.org/abs/2410.22710)|null|
 |**2024-02-16**|**GIM: Learning Generalizable Image Matcher From Internet Videos**|Xuelun Shen et.al.|[2402.11095](http://arxiv.org/abs/2402.11095)|null|
 |**2024-02-13**|**Are Semi-Dense Detector-Free Methods Good at Matching Local Features?**|Matthieu Vilain et.al.|[2402.08671](http://arxiv.org/abs/2402.08671)|null|
 |**2024-02-13**|**Learning to Produce Semi-dense Correspondences for Visual Localization**|Khang Truong Giang et.al.|[2402.08359](http://arxiv.org/abs/2402.08359)|**[link](https://github.com/truongkhang/deviloc)**|
@@ -1053,6 +1053,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**Sparse-View 3D Reconstruction: Recent Advances and Open Challenges**|Tanveer Younis et.al.|[2507.16406](http://arxiv.org/abs/2507.16406)|null|
 |**2025-07-21**|**Hi^2-GSLoc: Dual-Hierarchical Gaussian-Specific Visual Relocalization for Remote Sensing**|Boni Hu et.al.|[2507.15683](http://arxiv.org/abs/2507.15683)|null|
 |**2025-07-17**|**Uncertainty Quantification Framework for Aerial and UAV Photogrammetry through Error Propagation**|Debao Huang et.al.|[2507.13486](http://arxiv.org/abs/2507.13486)|null|
 |**2025-07-16**|**BRUM: Robust 3D Vehicle Reconstruction from 360 Sparse Images**|Davide Di Nucci et.al.|[2507.12095](http://arxiv.org/abs/2507.12095)|null|
@@ -1132,7 +1133,6 @@
 |**2025-05-13**|**GP-GS: Gaussian Processes for Enhanced Gaussian Splatting**|Zhihao Guo et.al.|[2502.02283](http://arxiv.org/abs/2502.02283)|**[link](https://github.com/zhihaohaoran/GPGS)**|
 |**2025-02-03**|**XR-VIO: High-precision Visual Inertial Odometry with Fast Initialization for XR Applications**|Shangjin Zhai et.al.|[2502.01297](http://arxiv.org/abs/2502.01297)|null|
 |**2025-01-28**|**Automatic Calibration of a Multi-Camera System with Limited Overlapping Fields of View for 3D Surgical Scene Reconstruction**|Tim Flückiger et.al.|[2501.16221](http://arxiv.org/abs/2501.16221)|null|
-|**2025-05-25**|**Towards Better Robustness: Pose-Free 3D Gaussian Splatting for Arbitrarily Long Videos**|Zhen-Hui Dong et.al.|[2501.15096](http://arxiv.org/abs/2501.15096)|null|
 |**2024-02-18**|**A Robust Error-Resistant View Selection Method for 3D Reconstruction**|Shaojie Zhang et.al.|[2402.11431](http://arxiv.org/abs/2402.11431)|null|
 |**2024-02-17**|**Dense Matchers for Dense Tracking**|Tomáš Jelínek et.al.|[2402.11287](http://arxiv.org/abs/2402.11287)|null|
 |**2024-01-31**|**Local Feature Matching Using Deep Learning: A Survey**|Shibiao Xu et.al.|[2401.17592](http://arxiv.org/abs/2401.17592)|null|
@@ -1286,6 +1286,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**Sparse-View 3D Reconstruction: Recent Advances and Open Challenges**|Tanveer Younis et.al.|[2507.16406](http://arxiv.org/abs/2507.16406)|null|
 |**2025-07-19**|**DiSCO-3D : Discovering and segmenting Sub-Concepts from Open-vocabulary queries in NeRF**|Doriand Petit et.al.|[2507.14596](http://arxiv.org/abs/2507.14596)|null|
 |**2025-07-19**|**Advances in Feed-Forward 3D Reconstruction and View Synthesis: A Survey**|Jiahui Zhang et.al.|[2507.14501](http://arxiv.org/abs/2507.14501)|null|
 |**2025-07-18**|**TimeNeRF: Building Generalizable Neural Radiance Fields across Time from Few-Shot Input Views**|Hsiang-Hui Hung et.al.|[2507.13929](http://arxiv.org/abs/2507.13929)|null|
@@ -1365,7 +1366,6 @@
 |**2025-05-10**|**3D Characterization of Smoke Plume Dispersion Using Multi-View Drone Swarm**|Nikil Krishnakumar et.al.|[2505.06638](http://arxiv.org/abs/2505.06638)|null|
 |**2025-05-10**|**FlexNeRFer: A Multi-Dataflow, Adaptive Sparsity-Aware Accelerator for On-Device NeRF Rendering**|Seock-Hwan Noh et.al.|[2505.06504](http://arxiv.org/abs/2505.06504)|null|
 |**2025-05-08**|**3D Scene Generation: A Survey**|Beichen Wen et.al.|[2505.05474](http://arxiv.org/abs/2505.05474)|**[link](https://github.com/hzxie/awesome-3d-scene-generation)**|
-|**2025-05-04**|**HandOcc: NeRF-based Hand Rendering with Occupancy Networks**|Maksym Ivashechkin et.al.|[2505.02079](http://arxiv.org/abs/2505.02079)|null|
 |**2024-02-19**|**Binary Opacity Grids: Capturing Fine Geometric Detail for Mesh-Based View Synthesis**|Christian Reiser et.al.|[2402.12377](http://arxiv.org/abs/2402.12377)|null|
 |**2024-02-19**|**Colorizing Monochromatic Radiance Fields**|Yean Cheng et.al.|[2402.12184](http://arxiv.org/abs/2402.12184)|null|
 |**2024-02-17**|**Semantically-aware Neural Radiance Fields for Visual Scene Understanding: A Comprehensive Review**|Thang-Anh-Quan Nguyen et.al.|[2402.11141](http://arxiv.org/abs/2402.11141)|null|
