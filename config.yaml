@@ -12,13 +12,13 @@ publish_gitpage: True
 publish_wechat: False
 
 # file paths
-json_readme_path: './docs/cv-arxiv-daily-2024.json'
-json_gitpage_path: './docs/cv-arxiv-daily-web-2024.json'
-json_wechat_path: './docs/cv-arxiv-daily-wechat-2024.json'
+json_readme_path: './docs/cv-arxiv-daily-2025.json'
+json_gitpage_path: './docs/cv-arxiv-daily-web-2025.json'
+json_wechat_path: './docs/cv-arxiv-daily-wechat-2025.json'
 
 md_readme_path: 'README.md'
-md_gitpage_path: './docs/index-2024.md'
-md_wechat_path: './docs/wechat-2024.md'
+md_gitpage_path: './docs/index-2025.md'
+md_wechat_path: './docs/wechat-2025.md'
 
 # keywords to search
 keywords:
